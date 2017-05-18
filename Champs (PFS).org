@@ -112,6 +112,15 @@ Per Jen - We did not add any additional water. All water is from purge and IQF i
     - State "WAITING"    from "TODO"       [2017-05-15 Mon 07:56] \\
       Mike is evaluating these costs.Could have it today (5/15/2017)
 
+** Mac and Cheese
+[2017-05-18 Thu 15:54]
+ - Production consistently adds 8 - 11 lbs of additional starch, per batch to meet viscosity spec. Consista starch (100107) was increased by 10 lbs from 49.6 to 59.6 lbs to match production.
+ - There was a discrepancy with the water amount. Sauce checklist states to add 20 gallons of water per starch bucket. This is 40 gallons total. This is how the remaining water was calculated on the Sauce Checklist tab. Total water was 1931 lbs (241.4 gallons). 40 gallons would be used for the starch hydration, the remaining 201.4 gallons would be added to the kettle. The cooks; however, were only adding 10 gallons per bucket. 20 gallons for starch hydration and 201.4 gallons added to the kettle. Because of this difference the batch was being shorted by 20 gallons (160 lbs) each time. What the cooks are doing is consistent with the directions on the sauce formula tab. The mistake lies in the Sauce Checklist tab. The remaining water was calculated based on using 40 gallons of water for the starch vs 20 gallons. This has been corrected to match production.
+ - I used a water density of 8.34 to convert water to lbs. 221.4 total gallons equals 1846.4 total pounds of water.
+ - Sauce Batch size was decreased from 2576.7 lbs to 2502.1 lbs. because of the water difference.
+ - Total water was reduced from 1931 lbs to 1846.4 lbs
+ - This change will be implemented for 5/23 production.
+
 * General Tasks
 ** DONE [#A] Ship Jeremy 40 S-Boxes. [5/5]
    CLOSED: [2017-05-18 Thu 10:11] DEADLINE: <2017-05-15 Mon> SCHEDULED: <2017-05-11 Thu>
