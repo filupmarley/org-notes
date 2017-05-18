@@ -1,0 +1,35 @@
+#+FILETAGS: REFILE
+
+* DONE Revew champs ethnic request with Jen
+  CLOSED: [2017-05-12 Fri 14:22] DEADLINE: <2017-05-12 Fri>
+  - CLOSING NOTE [2017-05-12 Fri 14:22] \\
+    Reviewed with Jen. Plan is to get everything complete by Thursday 5/18/2017
+  :LOGBOOK:
+  CLOCK: [2017-05-11 Thu 14:18]--[2017-05-11 Thu 14:18] =>  0:00
+  :END:
+[2017-05-11 Thu 14:18]
+* DONE Make Sous Vide Pork Samples with 20% less onions and chiles
+  CLOSED: [2017-05-16 Tue 14:54] DEADLINE: <2017-05-16 Tue>
+  :PROPERTIES:
+  :Product:  Sous Vide Pork
+  :END:
+  - CLOSING NOTE [2017-05-16 Tue 14:54] \\
+    Jen/Tony finished this sample up today.
+  :LOGBOOK:
+  CLOCK: [2017-05-12 Fri 10:46]--[2017-05-12 Fri 10:50] =>  0:04
+  :END:
+[2017-05-12 Fri 10:46]
+* TODO Evaluate Red and Green Peppers from Eckert and Hanover
+  DEADLINE: <2017-05-19 Fri>
+  :LOGBOOK:
+  CLOCK: [2017-05-16 Tue 14:47]--[2017-05-16 Tue 14:49] =>  0:02
+  :END:
+[2017-05-16 Tue 14:47]
+* DONE Check with Justin on water addition for Champs mac and cheese
+  CLOSED: [2017-05-18 Thu 10:13] DEADLINE: <2017-05-18 Thu>
+  - CLOSING NOTE [2017-05-18 Thu 10:13] \\
+    Verified with Justin that we add 10 gallons per starch bucket (20 gallons total)
+  :LOGBOOK:
+  CLOCK: [2017-05-17 Wed 15:47]--[2017-05-17 Wed 15:47] =>  0:00
+  :END:
+[2017-05-17 Wed 15:47]

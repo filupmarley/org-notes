@@ -1,0 +1,155 @@
+#+TITLE: Champs (PFS)
+
+* Notes
+
+** Sous Vide Beef
+ [2017-05-12 Fri 11:03]
+
+ Feedback from Champs:
+ Wants to see samples on steak cut, and dices like that if the pork. The texture felt tuffer than the previous sample, and he asked if the cook time was the same as previous or shortened? 
+ He also wants us to add a combination of liquid smoke and Worcestershire at low levels, or utilize the smoked ancho/chipotle purée used in enchilada revisions (Tony is familiar with the RM). 
+
+ Per Jen: 
+ Sample #1:
+	 • No seasoning and no Consista, 
+	 • Cook: 190F for 4.5 hours.
+ Sample #2 (CC-SVB-02)
+	 • Conatined 1% Consista, 0.38% House Seasoning.
+	 • Cook: 180F for 5 hours.
+
+ Both samples were Inside Round (no roll). What we have seen with adding the 1% Consista, the meat is more tender.
+ - Will compare no roll and choice select.
+
+*** WAITING Need direction of what Beef cut to use for Sous Vide Beef :WAITING:
+    SCHEDULED: <2017-05-15 Mon>
+
+    - State "WAITING"    from "TODO"       [2017-05-15 Mon 14:59] \\
+      Will be comparing the no roll option and choice/select
+
+*** TODO Need to make samples of Sous Vide Beef
+    SCHEDULED: <2017-05-15 Mon>
+  - Making steak cut and dices on Monday
+
+** Sous Vide Pork
+[2017-05-12 Fri 11:05]
+
+Feedback from Champs Sample (CC-SVP-05):
+Pork - hold out water in starch mixture and reduce onions and chiles by 20%. Maintain the same seasoning level and move forward with the dice cut.
+
+Per Jen - We did not add any additional water. All water is from purge and IQF items.
+
+*** DONE TODO Make Sous Vide Pork Samples with 20% less onions and chiles
+    CLOSED: [2017-05-18 Thu 08:05] DEADLINE: <2017-05-16 Tue>
+    :PROPERTIES:
+    :Product:  Sous Vide Pork
+    :END:
+    - CLOSING NOTE [2017-05-18 Thu 08:05] \\
+      Sending out samples on Thursday 5/18/2017
+   :LOGBOOK:
+   CLOCK: [2017-05-12 Fri 10:46]--[2017-05-12 Fri 10:50] =>  0:04
+   :END:
+ [2017-05-12 Fri 10:46]
+
+
+ 
+
+** Queso
+[2017-05-12 Fri 11:07]
+ - On 5/3/2017 Sent Jeremy Samples of the Leigh Oliver Queso and Comfort Cuisine Hot (Red Lid)
+ - Wants to see more green chiles, cumin, onion powder, garlic (powder or minced, be cost efficient), with mild - medium heat. They prefer to use capsicum as a control measure for heat rather than peppers. Also they'd like to add some of the smoked ancho/chipotle purée to a portion (their fear is that it will impact color, use low levels or even liquid smoke)
+
+** TODO Make samples of Champs Queso
+   SCHEDULED: <2017-05-16 Tue>
+ - Wants to see more green chiles, cumin, onion powder, garlic
+ - Mild to medium heat use capsicum.
+
+** Beans
+ - We can try adding some of their seasoning to to each for internal cuttings. If it adds value in flavor than we will send samples with this addition.
+
+*** DONE Make Pinto using IQF Beans.
+    CLOSED: [2017-05-16 Tue 14:57] DEADLINE: <2017-05-16 Tue>
+    - CLOSING NOTE [2017-05-16 Tue 14:57] \\
+      Benchwork completed today.
+
+*** DONE Make Pinto/Black Bean mix using IQF beans.
+    CLOSED: [2017-05-16 Tue 14:58] DEADLINE: <2017-05-16 Tue>
+
+    - CLOSING NOTE [2017-05-16 Tue 14:58] \\
+      Benchwork completed today.
+*** DONE Make samples of Champs Black Beans Using IQF Beans
+    CLOSED: [2017-05-18 Thu 10:15] SCHEDULED: <2017-05-16 Tue>
+    - CLOSING NOTE [2017-05-18 Thu 10:15] \\
+      Benchwork complete
+ - [2017-05-16 Tue 14:59] Benchwork tomorrow (5/16)
+
+*** WAITING Need to evaluate cost of IQF beans.                     :WAITING:
+    SCHEDULED: <2017-05-15 Mon>
+    - State "WAITING"    from "WAITING"    [2017-05-16 Tue 15:02] \\
+      Hanover IQF bean costs:
+      50# IQF Black Beans are $38.00  FOB = .76 fob + .072 freight = $.832 del cost
+      50# IQF Pinto Beans are $37.00 FOB = .74 fob + .072 freight = $.812 del cost
+      
+      1# Tote IQF Black Beans are .65/lb FOB + .072 freight = $.722 del cost
+      1# Tote IQF Pinto Beans are .62/lb FOB + .072 freight =  $.692 del cost
+      
+      Other IQF bean samples from Norpac arrived there last week.
+      Norpac IQF Beans Costs:
+      IQF Pinto Beans – totes –  .65 fob Oregon + .11 freight = $.76 delivered cost
+      IQF Black beans – totes -  .68 fob Oregon + .11 freight = $.79 delivered cost
+      
+      
+      Current delivered costs on Hanover canned beans – 
+      Pintos – .4686 lb. del.
+      Black beans - .511 lb. del.
+      
+      Del Monte/Allens also has #10 canned pintos and black beans.
+      I have samples of both here at Harding.
+      Their pricing is cheaper than Hanover.
+      Pintos - .4084 lb delivered
+      Black Beans - .4444 delivered
+      
+      If we choose not to go with the IQF beans, the Delmonte/Allen product might be a cheaper option for canned beans.
+    - State "WAITING"    from "TODO"       [2017-05-15 Mon 07:56] \\
+      Mike is evaluating these costs.Could have it today (5/15/2017)
+
+* General Tasks
+** DONE [#A] Ship Jeremy 40 S-Boxes. [5/5]
+   CLOSED: [2017-05-18 Thu 10:11] DEADLINE: <2017-05-15 Mon> SCHEDULED: <2017-05-11 Thu>
+
+   - State "DONE"       from "WAITING"    [2017-05-18 Thu 10:11]
+   - State "WAITING"    from "TODO"       [2017-05-15 Mon 15:07] \\
+     Brent to give direction on how to ship.
+  - [X] Need to be prelabeled
+  - [X] Get labels
+  - [X] Apply labels to case
+  - [X] Box needs to be printed with code date.
+  - [X] Get with Arlo to get printer setup for code printing
+
+** CANCELLED Take a look at using creamed corn in Champs Corn     :CANCELLED:
+   CLOSED: [2017-05-18 Thu 10:16] DEADLINE: <2017-05-15 Mon>
+   
+   - State "CANCELLED"  from "WAITING"    [2017-05-18 Thu 10:16] \\
+     There are currently no current vendors that currently grind corn.
+   - State "WAITING"    from "TODO"       [2017-05-15 Mon 15:06] \\
+     Requested cream corn sample on 5/15/17
+
+
+
+
+** DONE [#A] Ship 40 stuffing boxes for Jeremy of Champs Chicken [6/6]
+   CLOSED: [2017-05-18 Thu 10:12] DEADLINE: <2017-05-17 Wed>
+   - State "DONE"       from "WAITING"    [2017-05-18 Thu 10:12]
+   - State "WAITING"    from "TODO"       [2017-05-15 Mon 15:58] \\
+     Boxes will arrive on Tuesday 5/16/2017
+ - [X] Boxes are on-site
+ - [X] Need to be prelabeled
+ - [X] Get labels from Jessica
+ - [X] Apply labels to case
+ - [X] Box needs to be printed with code date.
+ - [X] Get with Arlo to get printer setup for code printing
+** TODO Reissue champs mac and cheese with 10lbs additional starch
+   DEADLINE: <2017-05-17 Wed>
+   :LOGBOOK:
+   CLOCK: [2017-05-17 Wed 08:56]--[2017-05-17 Wed 08:57] =>  0:01
+   :END:
+ [2017-05-17 Wed 08:56]

@@ -1,0 +1,17 @@
+#+TITLE: Jay Alley
+
+* Notes
+** [2017-05-12 Fri 09:58]
+  - Jay Alley would like all future productions of Hot Pepper Queso.
+  - These need to match R&D samples sent out on 3/28/2017. These samples were made on 3/27 (P2 variable).
+  - P2 variable increased the starch from 0.954% to 1.296% (35.8% increase)
+
+
+* Tasks
+** DONE [#A] Need to finalize processing sheets for Jay Alley Hot pepper Queso :Processing_Sheets:
+   CLOSED: [2017-05-15 Mon 13:46] DEADLINE: <2017-05-15 Mon>
+   :PROPERTIES:
+   :Product:  Hot Pepper Queso
+   :END:
+   - CLOSING NOTE [2017-05-15 Mon 13:46] \\
+     Updated formula to reflect higher starch level. Will watch production.

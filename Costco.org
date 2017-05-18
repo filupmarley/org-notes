@@ -1,0 +1,13 @@
+#+TITLE: Costco
+#+FILETAGS: Costco
+
+* Notes
+[2017-05-18 Thu 10:33]
+ - Looking to increase the current shelf life of the veggie and dressing blend to 53 days various reasons such as, production scheduling, logistics, RM ordering and usage, etc.
+ - Before we approach Costco for approval we need very detailed results of both organoleptic and micro data. 
+
+* Tasks
+
+** TODO Need to perform micro testing on the Veggie and Dressing blend on day 53
+
+** TODO Need to perform sensory analysis of veggie and dressing blend for day 53.
