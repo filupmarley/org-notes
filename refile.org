@@ -19,8 +19,10 @@
   CLOCK: [2017-05-12 Fri 10:46]--[2017-05-12 Fri 10:50] =>  0:04
   :END:
 [2017-05-12 Fri 10:46]
-* TODO Evaluate Red and Green Peppers from Eckert and Hanover
-  DEADLINE: <2017-05-19 Fri>
+* DONE Evaluate Red and Green Peppers from Eckert and Hanover
+  CLOSED: [2017-05-19 Fri 11:20] DEADLINE: <2017-05-19 Fri>
+  - CLOSING NOTE [2017-05-19 Fri 11:20] \\
+    No issues going to Eckert. We'll need to watch how we're starging the tote to make sure we don't have a lot of freeze/thaw issues.
   :LOGBOOK:
   CLOCK: [2017-05-16 Tue 14:47]--[2017-05-16 Tue 14:49] =>  0:02
   :END:

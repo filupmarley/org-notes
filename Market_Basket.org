@@ -1,5 +1,9 @@
 #+TITLE: Market Basket
 
 * Notes
+[2017-05-19 Fri 09:09] Sauce Reformulation
+ - Making round 2 of Market Basket Alfredo Sauce today
+ - Making round 2 of Market Basket Carbonara Sauce today
+ - Making round 2 of Market Basket Vodka Sauce today 
 
 * Task

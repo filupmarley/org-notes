@@ -1,13 +1,30 @@
 #+TITLE: Costco
-#+FILETAGS: Costco
+#+FILETAGS:
 
-* Notes
-[2017-05-18 Thu 10:33]
- - Looking to increase the current shelf life of the veggie and dressing blend to 53 days various reasons such as, production scheduling, logistics, RM ordering and usage, etc.
- - Before we approach Costco for approval we need very detailed results of both organoleptic and micro data. 
+* Projects
+** Cranberry Cream Cheese
+** Chicken Salad Dressing
+*** Notes
+[2017-05-19 Fri 10:21]
+ - Sensory tasting on day 60 product on 5/18.
+   - Product tasted ok. Chicken had a shredded appearance. Not sure if it was just that container, or is it caused by handling during the HPP process, or is it th HPP process itself.
+
+** Veggie Salad Dressing
+*** Notes
+  [2017-05-18 Thu 10:33] 
+   - Looking to increase the current shelf life of the veggie and dressing blend to 53 days various reasons such as, production scheduling, logistics, RM ordering and usage, etc.
+   - Before we approach Costco for approval we need very detailed results of both organoleptic and micro data.
+
 
 * Tasks
 
 ** TODO Need to perform micro testing on the Veggie and Dressing blend on day 53
 
 ** TODO Need to perform sensory analysis of veggie and dressing blend for day 53.
+
+** TODO Ship 2 32oz Queso Mama samples to Costco                       :Ship:
+   DEADLINE: <2017-05-22 Mon>
+ - Ship Address
+ - 3980 Ventura Drive
+ - Suite W-100
+ - Duluth GA 30096
