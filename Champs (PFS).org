@@ -1,89 +1,110 @@
 #+TITLE: Champs (PFS)
 
-* Notes
-
+* Projects
 ** Sous Vide Beef
- [2017-05-12 Fri 11:03]
+***  [2017-05-12 Fri 11:03]
+  Feedback from Champs:
+  Wants to see samples on steak cut, and dices like that if the pork. The texture felt tuffer than the previous sample, and he asked if the cook time was the same as previous or shortened? 
+  He also wants us to add a combination of liquid smoke and Worcestershire at low levels, or utilize the smoked ancho/chipotle purée used in enchilada revisions (Tony is familiar with the RM). 
 
- Feedback from Champs:
- Wants to see samples on steak cut, and dices like that if the pork. The texture felt tuffer than the previous sample, and he asked if the cook time was the same as previous or shortened? 
- He also wants us to add a combination of liquid smoke and Worcestershire at low levels, or utilize the smoked ancho/chipotle purée used in enchilada revisions (Tony is familiar with the RM). 
+  Per Jen: 
+  Sample #1:
+	  • No seasoning and no Consista, 
+	  • Cook: 190F for 4.5 hours.
+  Sample #2 (CC-SVB-02)
+	  • Conatined 1% Consista, 0.38% House Seasoning.
+	  • Cook: 180F for 5 hours.
 
- Per Jen: 
- Sample #1:
-	 • No seasoning and no Consista, 
-	 • Cook: 190F for 4.5 hours.
- Sample #2 (CC-SVB-02)
-	 • Conatined 1% Consista, 0.38% House Seasoning.
-	 • Cook: 180F for 5 hours.
+  Both samples were Inside Round (no roll). What we have seen with adding the 1% Consista, the meat is more tender.
+  - Will compare no roll and choice select.
 
- Both samples were Inside Round (no roll). What we have seen with adding the 1% Consista, the meat is more tender.
- - Will compare no roll and choice select.
+**** WAITING Need direction of what Beef cut to use for Sous Vide Beef :WAITING:
+     SCHEDULED: <2017-05-15 Mon>
 
-*** WAITING Need direction of what Beef cut to use for Sous Vide Beef :WAITING:
-    SCHEDULED: <2017-05-15 Mon>
+     - State "WAITING"    from "TODO"       [2017-05-15 Mon 14:59] \\
+       Will be comparing the no roll option and choice/select
 
-    - State "WAITING"    from "TODO"       [2017-05-15 Mon 14:59] \\
-      Will be comparing the no roll option and choice/select
+**** DONE Need to make samples of Sous Vide Beef
+     CLOSED: [2017-05-24 Wed 16:05] SCHEDULED: <2017-05-15 Mon>
+     - CLOSING NOTE [2017-05-24 Wed 16:05] \\
+       Samples completed on Monday 5/55
+   - Making steak cut and dices on Monday
 
-*** TODO Need to make samples of Sous Vide Beef
-    SCHEDULED: <2017-05-15 Mon>
-  - Making steak cut and dices on Monday
-
+*** [2017-05-24 Wed 16:07]
+ - Champs wants us to add a combination of liquid smoke and Worcestershire at low levels, or utilize the smoked ancho/chipotle purée used in enchilada revisions (Tony is familiar with the RM).
+**** TODO Make samples of Sous Vide Beef using smoke ancho/chipotle puree
+ - Champs wants us to add a combination of liquid smoke and Worcestershire at low levels
+ - or utilize the smoked ancho/chipotle purée used in enchilada revisions (Tony is familiar with the RM).
 ** Sous Vide Pork
-[2017-05-12 Fri 11:05]
+*** [2017-05-12 Fri 11:05]
 
-Feedback from Champs Sample (CC-SVP-05):
-Pork - hold out water in starch mixture and reduce onions and chiles by 20%. Maintain the same seasoning level and move forward with the dice cut.
+ Feedback from Champs Sample (CC-SVP-05):
+ Pork - hold out water in starch mixture and reduce onions and chiles by 20%. Maintain the same seasoning level and move forward with the dice cut.
 
-Per Jen - We did not add any additional water. All water is from purge and IQF items.
-
-*** DONE TODO Make Sous Vide Pork Samples with 20% less onions and chiles
-    CLOSED: [2017-05-18 Thu 08:05] DEADLINE: <2017-05-16 Tue>
-    :PROPERTIES:
-    :Product:  Sous Vide Pork
+ Per Jen - We did not add any additional water. All water is from purge and IQF items.
+**** DONE TODO Make Sous Vide Pork Samples with 20% less onions and chiles
+     CLOSED: [2017-05-18 Thu 08:05] DEADLINE: <2017-05-16 Tue>
+     :PROPERTIES:
+     :Product:  Sous Vide Pork
+     :END:
+     - CLOSING NOTE [2017-05-18 Thu 08:05] \\
+       Sending out samples on Thursday 5/18/2017
+    :LOGBOOK:
+    CLOCK: [2017-05-12 Fri 10:46]--[2017-05-12 Fri 10:50] =>  0:04
     :END:
-    - CLOSING NOTE [2017-05-18 Thu 08:05] \\
-      Sending out samples on Thursday 5/18/2017
-   :LOGBOOK:
-   CLOCK: [2017-05-12 Fri 10:46]--[2017-05-12 Fri 10:50] =>  0:04
-   :END:
- [2017-05-12 Fri 10:46]
+  [2017-05-12 Fri 10:46]
 
 
  
 
+*** [2017-05-24 Wed 15:29]
+ - (Version1) The starch level is perfect and gives a good moisture level that soaks into the shred. However they want to keep the pork diced and like the size of the dice as well. This gives them versatility with the product.
+   - They would like to see a 25% reduction in the Green Chiles, while ensuring onions are maintained at the same as the previous sample.
+ - (Version 2) In addition they want to see several samples of the exact formula with the exclusion of all onions and Green Chiles.
+**** TODO Make samples of Sous Vide Pork with 25% reduction in chiles Based on version 1 samples
+**** TODO Make samples of Sous Vide Pork with no onions and green peppers. Based on version 1 samples
 ** Queso
 [2017-05-12 Fri 11:07]
  - On 5/3/2017 Sent Jeremy Samples of the Leigh Oliver Queso and Comfort Cuisine Hot (Red Lid)
  - Wants to see more green chiles, cumin, onion powder, garlic (powder or minced, be cost efficient), with mild - medium heat. They prefer to use capsicum as a control measure for heat rather than peppers. Also they'd like to add some of the smoked ancho/chipotle purée to a portion (their fear is that it will impact color, use low levels or even liquid smoke)
+ - 
 
-** TODO Make samples of Champs Queso
-   SCHEDULED: <2017-05-16 Tue>
- - Wants to see more green chiles, cumin, onion powder, garlic
- - Mild to medium heat use capsicum.
+*** DONE Make samples of Champs Queso
+    CLOSED: [2017-05-24 Wed 16:13] SCHEDULED: <2017-05-16 Tue>
+    - CLOSING NOTE [2017-05-24 Wed 16:13] \\
+      Completed
+  - Wants to see more green chiles, cumin, onion powder, garlic
+  - Mild to medium heat use capsicum.
+*** [2017-05-24 Wed 15:58]
+ - Queso Mild
+   - Reduce cumin by 30%, it was too strong.
+   - Increase both the garlic and onion powders to provide a more prominent flavor over the cumin.
+   - Take the heat level down by removing both roasted jalapeños and capsicum.
+   - Ensure the Chiles do not increase (they’re thinking they will utilize in-house Chiles to increase the heat for a hot version and maintain less SKU’s).
+   - Bump up the cheese level to provide a stronger cheese delivery (5% increase), and possibly increase the NFDM to provide a creamier mouthfeel.
+   - He’d also like a version using gum as a thickening agent along with the starch. If we use one recommended for dairies it will give a longer mouthfeel.
+**** TODO Make samples of Champs Mild Queso
+   - Reduce cumin by 30%, it was too strong.
+   - Increase both the garlic and onion powders to provide a more prominent flavor over the cumin.
+   - Take the heat level down by removing both roasted jalapeños and capsicum.
+   - Ensure the Chiles do not increase (they’re thinking they will utilize in-house Chiles to increase the heat for a hot version and maintain less SKU’s).
+   - Bump up the cheese level to provide a stronger cheese delivery (5% increase), and possibly increase the NFDM to provide a creamier mouthfeel.
 
-** Beans
+**** TODO Make samples of Champs Mild Queso using gum/starch mixture.
+   - He’d also like a version using gum as a thickening agent along with the starch. If we use one recommended for dairies it will give a longer mouthfeel.
+** Black Beans
  - We can try adding some of their seasoning to to each for internal cuttings. If it adds value in flavor than we will send samples with this addition.
-
-*** DONE Make Pinto using IQF Beans.
-    CLOSED: [2017-05-16 Tue 14:57] DEADLINE: <2017-05-16 Tue>
-    - CLOSING NOTE [2017-05-16 Tue 14:57] \\
-      Benchwork completed today.
-
-*** DONE Make Pinto/Black Bean mix using IQF beans.
-    CLOSED: [2017-05-16 Tue 14:58] DEADLINE: <2017-05-16 Tue>
-
-    - CLOSING NOTE [2017-05-16 Tue 14:58] \\
-      Benchwork completed today.
+[2017-05-24 Wed 15:19]
+ - Champs has decided to not pursue black beans, but will move forward with a Black Bean/Pinto mix.
 *** DONE Make samples of Champs Black Beans Using IQF Beans
     CLOSED: [2017-05-18 Thu 10:15] SCHEDULED: <2017-05-16 Tue>
     - CLOSING NOTE [2017-05-18 Thu 10:15] \\
       Benchwork complete
  - [2017-05-16 Tue 14:59] Benchwork tomorrow (5/16)
 
-*** WAITING Need to evaluate cost of IQF beans.                     :WAITING:
-    SCHEDULED: <2017-05-15 Mon>
+*** DONE Need to evaluate cost of IQF beans.
+    CLOSED: [2017-05-24 Wed 15:13] SCHEDULED: <2017-05-15 Mon>
+    - State "DONE"       from "WAITING"    [2017-05-24 Wed 15:13]
     - State "WAITING"    from "WAITING"    [2017-05-16 Tue 15:02] \\
       Hanover IQF bean costs:
       50# IQF Black Beans are $38.00  FOB = .76 fob + .072 freight = $.832 del cost
@@ -112,6 +133,25 @@ Per Jen - We did not add any additional water. All water is from purge and IQF i
     - State "WAITING"    from "TODO"       [2017-05-15 Mon 07:56] \\
       Mike is evaluating these costs.Could have it today (5/15/2017)
 
+** Pinto Beans
+[2017-05-24 Wed 15:20]
+ - Champs has decided to not pursue Pinto beans, but will move forward with a Black Bean/Pinto mix.
+*** DONE Make Pinto using IQF Beans.
+    CLOSED: [2017-05-16 Tue 14:57] DEADLINE: <2017-05-16 Tue>
+    - CLOSING NOTE [2017-05-16 Tue 14:57] \\
+      Benchwork completed today.
+
+** Black/Pinto Mix
+*** [2017-05-24 Wed 15:18]
+ - Champs has narrowed this down to just the Black and Pinto Mixture. The appearance and texture are spot on. 
+ - Champs liked the overall flavor, but want to remove tomatoes and maintain Green Chile level. The bacon fat has to be removed for labeling purposes. The appearance and texture were great, so stick to the same cook time. The slurry was to thin and needs to be thickened with a starch.
+ - Jen and Toni made samples today (5/24).
+*** DONE Make Pinto/Black Bean mix using IQF beans.
+    CLOSED: [2017-05-16 Tue 14:58] DEADLINE: <2017-05-16 Tue>
+
+    - CLOSING NOTE [2017-05-16 Tue 14:58] \\
+      Benchwork completed today.
+
 ** Mac and Cheese
 [2017-05-18 Thu 15:54]
  - Production consistently adds 8 - 11 lbs of additional starch, per batch to meet viscosity spec. Consista starch (100107) was increased by 10 lbs from 49.6 to 59.6 lbs to match production.
@@ -120,6 +160,13 @@ Per Jen - We did not add any additional water. All water is from purge and IQF i
  - Sauce Batch size was decreased from 2576.7 lbs to 2502.1 lbs. because of the water difference.
  - Total water was reduced from 1931 lbs to 1846.4 lbs
  - This change will be implemented for 5/23 production.
+
+** Pepper Jack Mac & Cheese
+[2017-05-24 Wed 14:54]
+ - Brent updated processing sheets on Tuesday (5/23) to reflect thicker sauce and 1% egg noodle. Ready for production.
+
+
+
 
 * General Tasks
 ** DONE [#A] Ship Jeremy 40 S-Boxes. [5/5]
@@ -156,8 +203,10 @@ Per Jen - We did not add any additional water. All water is from purge and IQF i
  - [X] Apply labels to case
  - [X] Box needs to be printed with code date.
  - [X] Get with Arlo to get printer setup for code printing
-** TODO Reissue champs mac and cheese with 10lbs additional starch
-   DEADLINE: <2017-05-17 Wed>
+** DONE Reissue champs mac and cheese with 10lbs additional starch
+   CLOSED: [2017-05-24 Wed 16:14] DEADLINE: <2017-05-17 Wed>
+   - CLOSING NOTE [2017-05-24 Wed 16:14] \\
+     Process sheets updated on Friday 5/19
    :LOGBOOK:
    CLOCK: [2017-05-17 Wed 08:56]--[2017-05-17 Wed 08:57] =>  0:01
    :END:

@@ -1,0 +1,9 @@
+#+TITLE: Denny's
+
+
+* Projects
+
+** Meatloaf
+[2017-05-24 Wed 15:07]
+ - First production will be on Thursday 5/25/2017.
+ - Processing sheets are set at 1,000 lbs.
