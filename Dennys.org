@@ -4,6 +4,11 @@
 * Projects
 
 ** Meatloaf
-[2017-05-24 Wed 15:07]
- - First production will be on Thursday 5/25/2017.
- - Processing sheets are set at 1,000 lbs.
+*** [2017-05-25 Thu 14:24]
+  - First meatloaf production. No major issues mixing.
+  - Arlo would like to have a premixing step for step #3
+**** TODO Grab 2 loaves of meat loaf and freeze them. Cook them the next day for comparisons.
+     DEADLINE: <2017-05-26 Fri>
+*** [2017-05-24 Wed 15:07]
+  - First production will be on Thursday 5/25/2017.
+  - Processing sheets are set at 1,000 lbs.

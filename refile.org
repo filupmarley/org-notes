@@ -35,3 +35,16 @@
   CLOCK: [2017-05-17 Wed 15:47]--[2017-05-17 Wed 15:47] =>  0:00
   :END:
 [2017-05-17 Wed 15:47]
+* TODO Need to discuss variable numbering with Jen.
+  DEADLINE: <2017-05-26 Fri>
+  :LOGBOOK:
+  CLOCK: [2017-05-25 Thu 09:31]--[2017-05-25 Thu 09:31] =>  0:00
+  :END:
+[2017-05-25 Thu 09:31]
+[[file:~/files/org-files/Chesters.org::*Projects][Projects]]
+* TODO Update champs mac and cheese with additional 8lbs of starch
+  :LOGBOOK:
+  CLOCK: [2017-05-25 Thu 14:26]--[2017-05-25 Thu 14:26] =>  0:00
+  :END:
+[2017-05-25 Thu 14:26]
+[[file:~/files/org-files/Dennys.org::*]]

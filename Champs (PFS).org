@@ -64,17 +64,6 @@
 **** TODO Make samples of Sous Vide Pork with 25% reduction in chiles Based on version 1 samples
 **** TODO Make samples of Sous Vide Pork with no onions and green peppers. Based on version 1 samples
 ** Queso
-[2017-05-12 Fri 11:07]
- - On 5/3/2017 Sent Jeremy Samples of the Leigh Oliver Queso and Comfort Cuisine Hot (Red Lid)
- - Wants to see more green chiles, cumin, onion powder, garlic (powder or minced, be cost efficient), with mild - medium heat. They prefer to use capsicum as a control measure for heat rather than peppers. Also they'd like to add some of the smoked ancho/chipotle purée to a portion (their fear is that it will impact color, use low levels or even liquid smoke)
- - 
-
-*** DONE Make samples of Champs Queso
-    CLOSED: [2017-05-24 Wed 16:13] SCHEDULED: <2017-05-16 Tue>
-    - CLOSING NOTE [2017-05-24 Wed 16:13] \\
-      Completed
-  - Wants to see more green chiles, cumin, onion powder, garlic
-  - Mild to medium heat use capsicum.
 *** [2017-05-24 Wed 15:58]
  - Queso Mild
    - Reduce cumin by 30%, it was too strong.
@@ -92,6 +81,18 @@
 
 **** TODO Make samples of Champs Mild Queso using gum/starch mixture.
    - He’d also like a version using gum as a thickening agent along with the starch. If we use one recommended for dairies it will give a longer mouthfeel.
+
+*** [2017-05-12 Fri 11:07]
+ - On 5/3/2017 Sent Jeremy Samples of the Leigh Oliver Queso and Comfort Cuisine Hot (Red Lid)
+ - Wants to see more green chiles, cumin, onion powder, garlic (powder or minced, be cost efficient), with mild - medium heat. They prefer to use capsicum as a control measure for heat rather than peppers. Also they'd like to add some of the smoked ancho/chipotle purée to a portion (their fear is that it will impact color, use low levels or even liquid smoke)
+
+**** DONE Make samples of Champs Queso
+     CLOSED: [2017-05-24 Wed 16:13] SCHEDULED: <2017-05-16 Tue>
+     - CLOSING NOTE [2017-05-24 Wed 16:13] \\
+       Completed
+   - Wants to see more green chiles, cumin, onion powder, garlic
+   - Mild to medium heat use capsicum.
+
 ** Black Beans
  - We can try adding some of their seasoning to to each for internal cuttings. If it adds value in flavor than we will send samples with this addition.
 [2017-05-24 Wed 15:19]

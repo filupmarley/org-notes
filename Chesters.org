@@ -1,5 +1,8 @@
 #+TITLE: Chester's
 
-* Note
- - Making a test note.
- - Test note #2
+* Projects
+
+** Value Engineered (VE) Mashed Potatoes
+
+*** [2017-05-25 Thu 08:55]
+ - Need to get cost down to $0.95/lb
