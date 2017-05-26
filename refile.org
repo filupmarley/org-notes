@@ -36,7 +36,7 @@
   :END:
 [2017-05-17 Wed 15:47]
 * TODO Need to discuss variable numbering with Jen.
-  DEADLINE: <2017-05-26 Fri>
+  DEADLINE: <2017-05-30 Tue>
   :LOGBOOK:
   CLOCK: [2017-05-25 Thu 09:31]--[2017-05-25 Thu 09:31] =>  0:00
   :END:
