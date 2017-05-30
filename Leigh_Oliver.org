@@ -8,8 +8,13 @@
  - Product should run on the thin side of the spec.
 
 **** TODO Make Queso Mama Mild Queso samples with no added salt
+     DEADLINE: <2017-05-30 Tue>
 
 **** TODO Make Queso Mama Mild Queso samples using Bongard cheese
+     DEADLINE: <2017-06-01 Thu>
+
+**** SHIP Ship Leigh Oliver queso samples 
+     DEADLINE: <2017-06-01 Thu>
 ** Queso Mama Shelf Life Study
 
 *** TODO 120 Day Shelf Life Tasting
