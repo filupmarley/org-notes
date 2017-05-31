@@ -7,9 +7,11 @@
  - Feedback from Costco buyers is product was too salty
  - Product should run on the thin side of the spec.
 
-**** TODO Make Queso Mama Mild Queso samples with no added salt
-     DEADLINE: <2017-05-30 Tue>
+**** DONE Make Queso Mama Mild Queso samples with no added salt
+     CLOSED: [2017-05-31 Wed 08:00] DEADLINE: <2017-05-30 Tue>
 
+     - CLOSING NOTE [2017-05-31 Wed 08:00] \\
+       Benchwork completed on 5/30.
 **** TODO Make Queso Mama Mild Queso samples using Bongard cheese
      DEADLINE: <2017-06-01 Thu>
 

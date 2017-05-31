@@ -194,8 +194,10 @@
 ** Pepper Jack Mac & Cheese
 [2017-05-24 Wed 14:54]
  - Brent updated processing sheets on Tuesday (5/23) to reflect thicker sauce and 1% egg noodle. Ready for production.
-** SHIP Ship Champs samples SV Beef/Pork, Queso, and Pinto/Black bean mix [4/4] [100%]
-   DEADLINE: <2017-05-30 Tue>
+** DONE Ship Champs samples SV Beef/Pork, Queso, and Pinto/Black bean mix [4/4] [100%]
+   CLOSED: [2017-05-31 Wed 16:39] DEADLINE: <2017-05-30 Tue>
+   - CLOSING NOTE [2017-05-31 Wed 16:39] \\
+     Jen/Tony Shipped on 5/30.
  - [X] Sous Vide Beef [2/2]
    - [X] Using Liquid smoke and Worcestershire Sauce
    - [X] Using Smoked Ancho/Chipotle puree
