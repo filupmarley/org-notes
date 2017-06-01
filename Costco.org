@@ -34,7 +34,7 @@
    - What is the handling procedures/testing procedures for Microlab.
      - Is it acceptable?
 **** TODO Look into the shelf life protocol.
-     DEADLINE: <2017-05-31 Wed>
+     DEADLINE: <2017-06-09 Fri>
 
 
 * Tasks

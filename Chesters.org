@@ -1,8 +1,24 @@
 #+TITLE: Chester's
 
 * Projects
-
 ** Value Engineered (VE) Mashed Potatoes
 
 *** [2017-05-25 Thu 08:55]
  - Need to get cost down to $0.95/lb
+
+* Tasks
+
+** DONE [#A] Make Chester's Green Bean samples using Champs green bean (150053)
+   CLOSED: [2017-05-31 Wed 12:58] DEADLINE: <2017-05-31 Wed>
+   - CLOSING NOTE [2017-05-31 Wed 12:58] \\
+     Samples for bacon and ham made on 5/31. Will ship today as well.
+ - Using Champs green bean (150053)
+ - Using Chester's formula for ratio
+
+** TODO [#A] Ship Chester's green beans to Chester's (John Grave)      :Ship:
+Ship Address:
+Wynn’s Grain and Spice 
+Attn Patrick Spence 
+2750 Gunter Park Drive W
+Montgomery, AL  36109 
+

@@ -18,24 +18,44 @@
   Both samples were Inside Round (no roll). What we have seen with adding the 1% Consista, the meat is more tender.
   - Will compare no roll and choice select.
 
-**** WAITING Need direction of what Beef cut to use for Sous Vide Beef :WAITING:
-     SCHEDULED: <2017-05-15 Mon>
+**** DONE Need direction of what Beef cut to use for Sous Vide Beef
+     CLOSED: [2017-05-30 Tue 08:35] SCHEDULED: <2017-05-15 Mon>
 
+     - State "DONE"       from "WAITING"    [2017-05-30 Tue 08:35]
      - State "WAITING"    from "TODO"       [2017-05-15 Mon 14:59] \\
        Will be comparing the no roll option and choice/select
 
 **** DONE Need to make samples of Sous Vide Beef
      CLOSED: [2017-05-24 Wed 16:05] SCHEDULED: <2017-05-15 Mon>
      - CLOSING NOTE [2017-05-24 Wed 16:05] \\
-       Samples completed on Monday 5/55
+       Samples completed on Monday 5/22
    - Making steak cut and dices on Monday
 
 *** [2017-05-24 Wed 16:07]
  - Champs wants us to add a combination of liquid smoke and Worcestershire at low levels, or utilize the smoked ancho/chipotle purée used in enchilada revisions (Tony is familiar with the RM).
-**** TODO Make samples of Sous Vide Beef using smoke ancho/chipotle puree
- - Champs wants us to add a combination of liquid smoke and Worcestershire at low levels
- - or utilize the smoked ancho/chipotle purée used in enchilada revisions (Tony is familiar with the RM).
+**** DONE Make samples of Sous Vide Beef using smoke ancho/chipotle puree
+     CLOSED: [2017-05-30 Tue 12:13]
+     - CLOSING NOTE [2017-05-30 Tue 12:13] \\
+       Completed by Tony and Jen on 5/22. Made the following samples:
+       1. Using liquid smoke and Worcestershire.
+       2. Using smoked ancho/chipotle puree
+     - Champs wants us to add a combination of liquid smoke and Worcestershire at low levels
+     - or utilize the smoked ancho/chipotle purée used in enchilada revisions (Tony is familiar with the RM).
 ** Sous Vide Pork
+*** [2017-05-24 Wed 15:29]
+ - (Version1) The starch level is perfect and gives a good moisture level that soaks into the shred. However they want to keep the pork diced and like the size of the dice as well. This gives them versatility with the product.
+   - They would like to see a 25% reduction in the Green Chiles, while ensuring onions are maintained at the same as the previous sample.
+ - (Version 2) In addition they want to see several samples of the exact formula with the exclusion of all onions and Green Chiles.
+**** DONE Make samples of Sous Vide Pork with 25% reduction in chiles Based on version 1 samples
+     CLOSED: [2017-05-30 Tue 12:13]
+     - CLOSING NOTE [2017-05-30 Tue 12:13] \\
+       Completed b tony and Jen
+**** DONE Make samples of Sous Vide Pork with no onions and green peppers. Based on version 1 samples
+     CLOSED: [2017-05-30 Tue 12:14]
+     - CLOSING NOTE [2017-05-30 Tue 12:14] \\
+       Completed by Tony and Jen. MAde the following samples:
+       1. 25% green chile reduction
+       2. No onions or green peppers
 *** [2017-05-12 Fri 11:05]
 
  Feedback from Champs Sample (CC-SVP-05):
@@ -57,12 +77,6 @@
 
  
 
-*** [2017-05-24 Wed 15:29]
- - (Version1) The starch level is perfect and gives a good moisture level that soaks into the shred. However they want to keep the pork diced and like the size of the dice as well. This gives them versatility with the product.
-   - They would like to see a 25% reduction in the Green Chiles, while ensuring onions are maintained at the same as the previous sample.
- - (Version 2) In addition they want to see several samples of the exact formula with the exclusion of all onions and Green Chiles.
-**** TODO Make samples of Sous Vide Pork with 25% reduction in chiles Based on version 1 samples
-**** TODO Make samples of Sous Vide Pork with no onions and green peppers. Based on version 1 samples
 ** Queso
 *** [2017-05-24 Wed 15:58]
  - Queso Mild
@@ -72,14 +86,20 @@
    - Ensure the Chiles do not increase (they’re thinking they will utilize in-house Chiles to increase the heat for a hot version and maintain less SKU’s).
    - Bump up the cheese level to provide a stronger cheese delivery (5% increase), and possibly increase the NFDM to provide a creamier mouthfeel.
    - He’d also like a version using gum as a thickening agent along with the starch. If we use one recommended for dairies it will give a longer mouthfeel.
-**** TODO Make samples of Champs Mild Queso
+**** DONE Make samples of Champs Mild Queso
+     CLOSED: [2017-05-30 Tue 12:15]
+     - CLOSING NOTE [2017-05-30 Tue 12:15] \\
+       completed by Tony and Jen.
    - Reduce cumin by 30%, it was too strong.
    - Increase both the garlic and onion powders to provide a more prominent flavor over the cumin.
    - Take the heat level down by removing both roasted jalapeños and capsicum.
    - Ensure the Chiles do not increase (they’re thinking they will utilize in-house Chiles to increase the heat for a hot version and maintain less SKU’s).
    - Bump up the cheese level to provide a stronger cheese delivery (5% increase), and possibly increase the NFDM to provide a creamier mouthfeel.
 
-**** TODO Make samples of Champs Mild Queso using gum/starch mixture.
+**** DONE Make samples of Champs Mild Queso using gum/starch mixture.
+     CLOSED: [2017-05-30 Tue 12:15]
+     - CLOSING NOTE [2017-05-30 Tue 12:15] \\
+       Completed by Tony and Jen.
    - He’d also like a version using gum as a thickening agent along with the starch. If we use one recommended for dairies it will give a longer mouthfeel.
 
 *** [2017-05-12 Fri 11:07]
@@ -154,21 +174,41 @@
       Benchwork completed today.
 
 ** Mac and Cheese
-[2017-05-18 Thu 15:54]
- - Production consistently adds 8 - 11 lbs of additional starch, per batch to meet viscosity spec. Consista starch (100107) was increased by 10 lbs from 49.6 to 59.6 lbs to match production.
- - There was a discrepancy with the water amount. Sauce checklist states to add 20 gallons of water per starch bucket. This is 40 gallons total. This is how the remaining water was calculated on the Sauce Checklist tab. Total water was 1931 lbs (241.4 gallons). 40 gallons would be used for the starch hydration, the remaining 201.4 gallons would be added to the kettle. The cooks; however, were only adding 10 gallons per bucket. 20 gallons for starch hydration and 201.4 gallons added to the kettle. Because of this difference the batch was being shorted by 20 gallons (160 lbs) each time. What the cooks are doing is consistent with the directions on the sauce formula tab. The mistake lies in the Sauce Checklist tab. The remaining water was calculated based on using 40 gallons of water for the starch vs 20 gallons. This has been corrected to match production.
- - I used a water density of 8.34 to convert water to lbs. 221.4 total gallons equals 1846.4 total pounds of water.
- - Sauce Batch size was decreased from 2576.7 lbs to 2502.1 lbs. because of the water difference.
- - Total water was reduced from 1931 lbs to 1846.4 lbs
- - This change will be implemented for 5/23 production.
+*** [2017-05-18 Thu 15:54]
+  - Production consistently adds 8 - 11 lbs of additional starch, per batch to meet viscosity spec. Consista starch (100107) was increased by 10 lbs from 49.6 to 59.6 lbs to match production.
+  - There was a discrepancy with the water amount. Sauce checklist states to add 20 gallons of water per starch bucket. This is 40 gallons total. This is how the remaining water was calculated on the Sauce Checklist tab. Total water was 1931 lbs (241.4 gallons). 40 gallons would be used for the starch hydration, the remaining 201.4 gallons would be added to the kettle. The cooks; however, were only adding 10 gallons per bucket. 20 gallons for starch hydration and 201.4 gallons added to the kettle. Because of this difference the batch was being shorted by 20 gallons (160 lbs) each time. What the cooks are doing is consistent with the directions on the sauce formula tab. The mistake lies in the Sauce Checklist tab. The remaining water was calculated based on using 40 gallons of water for the starch vs 20 gallons. This has been corrected to match production.
+  - I used a water density of 8.34 to convert water to lbs. 221.4 total gallons equals 1846.4 total pounds of water.
+  - Sauce Batch size was decreased from 2576.7 lbs to 2502.1 lbs. because of the water difference.
+  - Total water was reduced from 1931 lbs to 1846.4 lbs
+  - This change will be implemented for 5/23 production.
 
+**** DONE Update champs mac and cheese with additional 8lbs of starch
+     CLOSED: [2017-05-30 Tue 12:07]
+     - CLOSING NOTE [2017-05-30 Tue 12:07] \\
+       Completed on 5/25. Email sent to CF Formula group as well on 5/25.
+     :LOGBOOK:
+     CLOCK: [2017-05-25 Thu 14:26]--[2017-05-25 Thu 14:26] =>  0:00
+     :END:
+   [2017-05-25 Thu 14:26]
+   [[file:~/files/org-files/Dennys.org::*]]
 ** Pepper Jack Mac & Cheese
 [2017-05-24 Wed 14:54]
  - Brent updated processing sheets on Tuesday (5/23) to reflect thicker sauce and 1% egg noodle. Ready for production.
-
-
-
-
+** DONE Ship Champs samples SV Beef/Pork, Queso, and Pinto/Black bean mix [4/4] [100%]
+   CLOSED: [2017-05-31 Wed 16:39] DEADLINE: <2017-05-30 Tue>
+   - CLOSING NOTE [2017-05-31 Wed 16:39] \\
+     Jen/Tony Shipped on 5/30.
+ - [X] Sous Vide Beef [2/2]
+   - [X] Using Liquid smoke and Worcestershire Sauce
+   - [X] Using Smoked Ancho/Chipotle puree
+ - [X] Sous Vide Pork [2/2]
+   - [X] 25% reduction in Green Chiles
+   - [X] No onions and green chiles
+ - [X] Queso [2/2]
+   - [X] Reduced cumin, Increased: onion, garlic, and cheese
+   - [X] Using gum for viscosity.
+ - [X] Pinto/Black bean mix [1/1]
+   - [X] Removed tomatoes and bacon fat. used starch for slurry viscosity.
 * General Tasks
 ** DONE [#A] Ship Jeremy 40 S-Boxes. [5/5]
    CLOSED: [2017-05-18 Thu 10:11] DEADLINE: <2017-05-15 Mon> SCHEDULED: <2017-05-11 Thu>
