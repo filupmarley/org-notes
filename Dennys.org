@@ -1,9 +1,12 @@
 #+TITLE: Denny's
 
-
 * Projects
 
 ** Meatloaf
+*** [2017-06-01 Thu 11:31]
+**** TODO [#A] Update Denny's Meatloaf formula
+     DEADLINE: <2017-06-05 Mon>
+update cooking temp and wip formula
 *** [2017-05-26 Fri 10:57]
  - Meatloaf sous vide cooked for 65 minutes.
    - Internal temps of 3 separate loaves were 167°

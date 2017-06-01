@@ -73,10 +73,25 @@
     CLOCK: [2017-05-12 Fri 10:46]--[2017-05-12 Fri 10:50] =>  0:04
     :END:
   [2017-05-12 Fri 10:46]
-
-
- 
-
+** Sous Vide Chicken
+**** TODO Taste Sous Vide Chicken with 1% starch with Dan
+     SCHEDULED: <2017-06-06 Tue>
+*** TODO Make Sous Vide Chicken for Chicken salad work.
+    DEADLINE: <2017-06-05 Mon>
+    :LOGBOOK:
+    CLOCK: [2017-06-01 Thu 16:01]--[2017-06-01 Thu 16:02] =>  0:01
+    :END:
+  [2017-06-01 Thu 16:01]
+*** DONE Need to discuss variable numbering with Jen.
+    CLOSED: [2017-06-01 Thu 16:22] DEADLINE: <2017-05-30 Tue>
+    - State "DONE"       from "WAITING"    [2017-06-01 Thu 16:22]
+    - CLOSING NOTE [2017-05-30 Tue 12:06] \\
+      Had discussion with Jen on 5/30.
+    :LOGBOOK:
+    CLOCK: [2017-05-25 Thu 09:31]--[2017-05-25 Thu 09:31] =>  0:00
+    :END:
+  [2017-05-25 Thu 09:31]
+  [[file:~/files/org-files/Chesters.org::*Projects][Projects]]
 ** Queso
 *** [2017-05-24 Wed 15:58]
  - Queso Mild
@@ -194,6 +209,13 @@
 ** Pepper Jack Mac & Cheese
 [2017-05-24 Wed 14:54]
  - Brent updated processing sheets on Tuesday (5/23) to reflect thicker sauce and 1% egg noodle. Ready for production.
+** Salsa Verde
+**** DONE [#A] Translate salsa verde formula to Champs ethinic folder
+     CLOSED: [2017-06-01 Thu 11:30] DEADLINE: <2017-06-01 Thu>
+     - CLOSING NOTE [2017-06-01 Thu 11:30] \\
+       Formula upated on 6/1
+**** TODO Make samples of the Champs Salsa Verde
+     SCHEDULED: <2017-06-05 Mon>
 ** DONE Ship Champs samples SV Beef/Pork, Queso, and Pinto/Black bean mix [4/4] [100%]
    CLOSED: [2017-05-31 Wed 16:39] DEADLINE: <2017-05-30 Tue>
    - CLOSING NOTE [2017-05-31 Wed 16:39] \\

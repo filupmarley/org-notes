@@ -35,12 +35,3 @@
   CLOCK: [2017-05-17 Wed 15:47]--[2017-05-17 Wed 15:47] =>  0:00
   :END:
 [2017-05-17 Wed 15:47]
-* DONE Need to discuss variable numbering with Jen.
-  CLOSED: [2017-05-30 Tue 12:06] DEADLINE: <2017-05-30 Tue>
-  - CLOSING NOTE [2017-05-30 Tue 12:06] \\
-    Had discussion with Jen on 5/30.
-  :LOGBOOK:
-  CLOCK: [2017-05-25 Thu 09:31]--[2017-05-25 Thu 09:31] =>  0:00
-  :END:
-[2017-05-25 Thu 09:31]
-[[file:~/files/org-files/Chesters.org::*Projects][Projects]]
