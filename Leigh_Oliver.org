@@ -19,5 +19,7 @@
      DEADLINE: <2017-06-01 Thu>
 ** Queso Mama Shelf Life Study
 
-*** TODO 120 Day Shelf Life Tasting
-    SCHEDULED: <2017-05-22 Mon>
+*** CANCELLED 120 Day Shelf Life Tasting                          :CANCELLED:
+    CLOSED: [2017-06-02 Fri 14:59] SCHEDULED: <2017-05-22 Mon>
+    - State "CANCELLED"  from "TODO"       [2017-06-02 Fri 14:59] \\
+      Never heard any details about this item.
