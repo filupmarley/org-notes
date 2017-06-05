@@ -1,19 +1,20 @@
 #+TITLE: Jay Alley
 
-* Projects
+* /Projects
 ** Guacamole Chicken Salad
 *** [2017-05-25 Thu 11:03]
  - Use sous vide chicken with out seasoning.
  - 2-lb pouch
  - Use whatever formula we come up with
 **** TODO Make 2 lb sample of Quacamole Chicken Salad 2 lb pouch for Jay Alley :Benchwork:
-     SCHEDULED: <2017-06-19 Mon> DEADLINE: <2017-06-12 Mon>
+     SCHEDULED: <2017-06-12 Mon> DEADLINE: <2017-06-12 Mon>
 ** Savory Chicken Salad
 *** [2017-05-25 Thu 11:03]
  - Use sous vide chicken with out seasoning.
  - 2-lb pouch
 **** TODO Make 2 lb sample of Savory Chicken Salad in pouch for Jay Alley :Benchwork:Samples:
-     DEADLINE: <2017-06-12 Mon> SCHEDULED: <2017-06-05 Mon>
+     DEADLINE: <2017-06-12 Mon> SCHEDULED: <2017-06-12 Mon>
+ - Using Roberts formula as a starting point.
 ** Cranberry Chicken Salad 
 *** [2017-05-25 Thu 11:03]
  - Use sous vide chicken with out seasoning.
@@ -31,7 +32,7 @@
    - These need to match R&D samples sent out on 3/28/2017. These samples were made on 3/27 (P2 variable).
    - P2 variable increased the starch from 0.954% to 1.296% (35.8% increase)
 
-** SHIP [#B] Ship all Jay Alley Chicken Salad Products  out for HPP processing [0/6][0%]
+** SHIP [#C] Ship all Jay Alley Chicken Salad Products  out for HPP processing [0/6][0%]
    DEADLINE: <2017-06-13 Tue>
 - [ ] 2-lb pouch sample Quacamole Chicken Salad
 - [ ] 2-lb pouch sample Savory Chicken Salad
@@ -39,7 +40,7 @@
 - [ ] 12 oz tub sample Cranberry Chicken Salad
 - [ ] 24-oz tub sample Cranberry Chicken Salad
 - [ ] 40-oz tub sample Cranberry Chicken Salad
-** SHIP [#B] Ship all Jay Alley Chicken Salad Dressings  [0/6] [0%]    :Ship:
+** SHIP [#C] Ship all Jay Alley Chicken Salad Dressings  [0/6] [0%]    :Ship:
    DEADLINE: <2017-06-19 Mon>
 - [ ] 2-lb pouch sample Quacamole Chicken Salad
 - [ ] 2-lb pouch sample Savory Chicken Salad

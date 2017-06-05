@@ -13,10 +13,17 @@
      - CLOSING NOTE [2017-05-31 Wed 08:00] \\
        Benchwork completed on 5/30.
 **** TODO Make Queso Mama Mild Queso samples using Bongard cheese
-     DEADLINE: <2017-06-06 Tue>
+     DEADLINE: <2017-06-12 Mon>
+[2017-06-05 Mon 14:35] Bongard Cheese update
+Cheese should arrive this week for benchwork.
 
-**** SHIP Ship Leigh Oliver queso samples 
-     DEADLINE: <2017-06-01 Thu>
+**** SHIP Ship Leigh Oliver queso samples
+     DEADLINE: <2017-06-15 Thu>
+
+**** DONE [#A] Update Queso Mama Mild Queso to reflect salt removal
+     CLOSED: [2017-06-05 Mon 16:34] DEADLINE: <2017-06-05 Mon>
+     - CLOSING NOTE [2017-06-05 Mon 16:34] \\
+       Completed processing sheets.
 ** Queso Mama Shelf Life Study
 
 *** CANCELLED 120 Day Shelf Life Tasting                          :CANCELLED:
