@@ -1,0 +1,27 @@
+* Tasks
+
+** TODO Just Testing
+   - State "TODO"       from "CANCELLED"  [2017-05-10 Wed 16:16]
+   - State "CANCELLED"  from "HOLD"       [2017-05-10 Wed 16:16] \\
+     Too expensive
+   - State "HOLD"       from "WAITING"    [2017-05-10 Wed 16:15] \\
+     Holding
+   - State "WAITING"    from "TODO"       [2017-05-10 Wed 16:15]
+   - State "TODO"       from "WAITING"    [2017-05-10 Wed 16:15]
+   - State "HOLD"       from "NEXT"       [2017-05-10 Wed 16:14]
+   - State "NEXT"       from "HOLD"       [2017-05-10 Wed 16:13]
+   - State "HOLD"       from "NEXT"       [2017-05-10 Wed 16:13]
+   - State "TODO"       from "HOLD"       [2017-05-10 Wed 16:12]
+   - State "HOLD"       from "WAITING"    [2017-05-10 Wed 16:12] \\
+     Holding
+   - State "HOLD"       from "WAITING"    [2017-05-10 Wed 12:44] \\
+     Waiting no call back
+<2017-05-10 Wed 12:28>
+
+** Test Task
+
+* Notes
+
+** Just a quick Note
+[2017-05-10 Wed 12:29]
+

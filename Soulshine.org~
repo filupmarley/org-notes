@@ -1,0 +1,25 @@
+#+TITLE: Soulshine
+
+* Projects
+  
+** Pizza Sauce
+*** [2017-05-31 Wed 15:13]
+- Issued batch size for Soulshine pizza sauce will be  2020.8 lbs
+- This will allow for an even amount of cans for both the 74 40 tomatoes and tomato paste.
+- Paste was reduced slightly from 12.026% to 12.0154% (0.088% reduction)
+*** [2017-05-31 Wed 08:10]
+- Need the following info to complete processing sheets [5/8]
+  - [X] Resource # for Stanislaus74/40 Tomoatoes, Peeled (Stanislaus)
+  - [X] Resource # for Tomato Paste (Stanislaus)
+  - [X] Resource # for fresh garlic
+  - [ ] Item #
+  - [X] Pack size (8/4# using the "S" box
+  - [X] Process instructions
+  - [ ] Costing
+  - [ ] Special coding requirements
+
+*** [2017-05-30 Tue 14:55]
+**** WAITING [#A] Setup the Soulshine Pizza Sauce Proecssing Sheets :Processing_Sheets:WAITING:
+     DEADLINE: <2017-06-02 Fri>
+     - State "WAITING"    from "TODO"       [2017-06-01 Thu 15:53] \\
+       [2017-06-01 Thu 15:53] Sent to Brent for review
