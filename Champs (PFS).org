@@ -74,10 +74,14 @@
     :END:
   [2017-05-12 Fri 10:46]
 ** Sous Vide Chicken
-**** TODO Taste Sous Vide Chicken with 1% starch with Dan
-     SCHEDULED: <2017-06-06 Tue>
-*** TODO Make Sous Vide Chicken for Chicken salad work.
-    DEADLINE: <2017-06-06 Tue>
+**** DONE Taste Sous Vide Chicken with 1% starch with Dan
+     CLOSED: [2017-06-06 Tue 16:19] SCHEDULED: <2017-06-06 Tue>
+     - CLOSING NOTE [2017-06-06 Tue 16:19] \\
+       Dan likes using the purge for flavor.
+*** DONE Make Sous Vide Chicken for Chicken salad work.
+    CLOSED: [2017-06-06 Tue 16:20] DEADLINE: <2017-06-06 Tue>
+    - CLOSING NOTE [2017-06-06 Tue 16:20] \\
+      completed 6/6/2017
     :LOGBOOK:
     CLOCK: [2017-06-01 Thu 16:01]--[2017-06-01 Thu 16:02] =>  0:01
     :END:
@@ -93,7 +97,22 @@
   [2017-05-25 Thu 09:31]
   [[file:~/files/org-files/Chesters.org::*Projects][Projects]]
 ** Queso
-*** [2017-05-24 Wed 15:58]
+*** [2017-06-06 Tue 15:31] Sample feedback
+ - Version #2 (CC-MWQ-04) was the favorable sample from the last round
+ - Need to increase  onion an garlic powder
+ - Possibility of using Pepper Jack cheese
+ - Wants to try using a Roasted Poblano pepper in place of the chiles.
+   - Brent wants to make a sample using the in-house Pepper Jack before trying this.
+**** TODO Make sample of the Champs Queso
+     DEADLINE: <2017-06-09 Fri>
+- Version #2 (CC-MWQ-04) was the favorable sample from the last round
+- Need to increase  onion an garlic powder
+- Possibility of using Pepper Jack cheese
+**** TODO Make sample of Champs Queso using roasted poblano peppers
+     DEADLINE: <2017-06-16 Fri>
+ - Wants to try using a Roasted Poblano pepper in place of the chiles.
+   - Brent wants to make a sample using the in-house Pepper Jack before trying this.
+*** [2017-05-24 Wed 15:58] Sample feedback
  - Queso Mild
    - Reduce cumin by 30%, it was too strong.
    - Increase both the garlic and onion powders to provide a more prominent flavor over the cumin.
@@ -216,6 +235,8 @@
        Formula upated on 6/1
 **** TODO Make samples of the Champs Salsa Verde
      SCHEDULED: <2017-06-08 Thu>
+**** TODO Evaluate Salsa Verde
+     DEADLINE: <2017-06-12 Mon>
 ** DONE Ship Champs samples SV Beef/Pork, Queso, and Pinto/Black bean mix [4/4] [100%]
    CLOSED: [2017-05-31 Wed 16:39] DEADLINE: <2017-05-30 Tue>
    - CLOSING NOTE [2017-05-31 Wed 16:39] \\

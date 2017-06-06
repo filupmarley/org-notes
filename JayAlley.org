@@ -32,9 +32,8 @@
    - These need to match R&D samples sent out on 3/28/2017. These samples were made on 3/27 (P2 variable).
    - P2 variable increased the starch from 0.954% to 1.296% (35.8% increase)
 
-** SHIP [#C] Ship all Jay Alley Chicken Salad Products  out for HPP processing [0/6][0%]
+** SHIP [#C] Ship all Jay Alley Chicken Salad Products  out for HPP processing [0/5][0%]
    DEADLINE: <2017-06-13 Tue>
-- [ ] 2-lb pouch sample Quacamole Chicken Salad
 - [ ] 2-lb pouch sample Savory Chicken Salad
 - [ ] 4-lb pouch sample Cranberry Chicken Salad
 - [ ] 12 oz tub sample Cranberry Chicken Salad
