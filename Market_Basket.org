@@ -2,23 +2,41 @@
 
 * Projects
 ** Alfredo Sauce Reformulation
+*** [2017-06-07 Wed 09:53] Benwork Feeback
+ - Our sample was thicker than control. Could be something with the freeze/thaw process. Whiter than control as well. Less parm flavor.
+   1. Will reduce starch amount. Will target a slightly thinner sauce prior to freezing.
+   2. Reduce Titanium Dioxide
+   3. Increase parm through either parm cheese or parm base.
+**** TODO Make revised Market Basket Alfredo Sauce                :Benchwork:
+     SCHEDULED: <2017-06-14 Wed>
+
 *** [2017-05-19 Fri 09:09] Sauce Reformulation
    - Making round 2 of Market Basket Alfredo Sauce today
    - Making round 2 of Market Basket Carbonara Sauce today
    - Making round 2 of Market Basket Vodka Sauce today 
 ** Carbonara Sauce Reformulation
+*** [2017-06-07 Wed 10:05] Benchwork feedback
+**** TODO Make sample of Market Basket Carbonara sauce            :Benchwork:
+     SCHEDULED: <2017-06-14 Wed>
+ - Our sample wa slightly thinner a little less garlic flavor.
+   1. Reduce starch
+   2. slight increase to garlic
 *** [2017-05-19 Fri 09:09] Sauce Reformulation
    - Making round 2 of Market Basket Alfredo Sauce today
    - Making round 2 of Market Basket Carbonara Sauce today
    - Making round 2 of Market Basket Vodka Sauce today 
 ** Vodka Sauce Reformulation
+*** [2017-06-07 Wed 10:09] Benchwork feedback
+**** TODO Make sample of Market Basket Vodka Sauce                :Benchwork:
+     SCHEDULED: <2017-06-14 Wed>
+ - There appeared to be a great deal more tomatoes in our sample veresus control. The amount was actually not changed so we need to look at what the difference might be.
+   1. Blend tomatoes with an emulsion blender.
 *** [2017-05-19 Fri 09:09] Sauce Reformulation
    - Making round 2 of Market Basket Alfredo Sauce today
    - Making round 2 of Market Basket Carbonara Sauce today
    - Making round 2 of Market Basket Vodka Sauce today 
 
 * Task
-
 **** DONE Taste new Market Basket formulas with Dan.
      CLOSED: [2017-06-06 Tue 14:58] SCHEDULED: <2017-06-06 Tue>
      - CLOSING NOTE [2017-06-06 Tue 14:58] \\

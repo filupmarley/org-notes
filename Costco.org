@@ -13,8 +13,10 @@
    - Product tasted ok. Chicken had a shredded appearance. Not sure if it was just that container, or is it caused by handling during the HPP process, or is it th HPP process itself.
 ** Veggie Salad Dressing
 *** [2017-06-05 Mon 15:25]
-**** TODO [#A] Look for 2 gallon sample of eggless dressing from Sourthern Classic
-     DEADLINE: <2017-06-06 Tue>
+**** DONE [#A] Look for 2 gallon sample of eggless dressing from Sourthern Classic
+     CLOSED: [2017-06-07 Wed 16:05] DEADLINE: <2017-06-06 Tue>
+     - CLOSING NOTE [2017-06-07 Wed 16:05] \\
+       Sample located.
 *** [2017-05-25 Thu 10:56]
  - Need to taste the following items
 **** TODO Taste current Ventura Dressing (w/egg)

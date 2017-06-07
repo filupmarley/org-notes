@@ -74,6 +74,13 @@
     :END:
   [2017-05-12 Fri 10:46]
 ** Sous Vide Chicken
+*** [2017-06-07 Wed 10:41]
+ - After the cutting, with Dan, yesterday, we preferred the product with the purge to the drained product.
+ - With the purge our cost is improved.
+ - There was a slight flavor reduction to the BBQ version due to the dilution caused by the purge.
+   - We added a slight amount of additional amount of BBQ to bump up flavor.
+ - Dan had the idea to use TVP to help bind up excess purge.
+   - Make those samples this morning. Results were mixed. added a spongy texture.
 **** DONE Taste Sous Vide Chicken with 1% starch with Dan
      CLOSED: [2017-06-06 Tue 16:19] SCHEDULED: <2017-06-06 Tue>
      - CLOSING NOTE [2017-06-06 Tue 16:19] \\
@@ -97,6 +104,21 @@
   [2017-05-25 Thu 09:31]
   [[file:~/files/org-files/Chesters.org::*Projects][Projects]]
 ** Queso
+*** [2017-06-07 Wed 10:58] Additional sample feedback from PFS
+**** TODO Make Champs queso samples option 1
+     SCHEDULED: <2017-06-14 Wed>
+  - Queso – Two separate paths here Option 1
+    - Take current formulation (CC-MWQ-04)
+    - increase garlic by 20% & onion by 10%.
+    - I also want to substitute the green chiles for roasted poblanos.
+**** TODO Make Champs queso samples option 2
+     SCHEDULED: <2017-06-14 Wed>
+  - Queso Option 2 Changing cheese to Bongard and Pepper Jack blend.
+    - Overall cheese level of 40% (offset with water).
+      - Blend ratio of 60:40 Bongard:pepper jack
+    - May need to increase starch
+    - Increase the garlic by 20% and increase the onion by 10%
+    - Substitute the green chiles for roasted poblanos
 *** [2017-06-06 Tue 15:31] Sample feedback
  - Version #2 (CC-MWQ-04) was the favorable sample from the last round
  - Need to increase  onion an garlic powder
