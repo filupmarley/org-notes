@@ -6,10 +6,12 @@
      CLOSED: [2017-06-08 Thu 16:30] DEADLINE: <2017-06-08 Thu>
      - CLOSING NOTE [2017-06-08 Thu 16:30] \\
        Updated formula with increase water
-**** TODO Update all HEB formulas with increased starch hold time of 12 minutes [0/5] [0%]
+***** TODO Forward Queso Mama Queso Blanco for Costing once we produced this item with water change.
+      SCHEDULED: <2017-06-12 Mon>
+**** TODO Update all HEB formulas with increased starch hold time of 12 minutes [2/5] [40%]
      SCHEDULED: <2017-06-09 Fri>
- - [ ] HEB Classic Queso
+ - [X] HEB Classic Queso
  - [ ] HEB Hot Pepper Queso
- - [ ] HEB Queso Blanco
+ - [X] HEB Queso Blanco
  - [ ] HEB Queso with Pork Chorizo
  - [ ] HEB Queso with Pork Sausage

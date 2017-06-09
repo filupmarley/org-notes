@@ -256,7 +256,7 @@
      - CLOSING NOTE [2017-06-01 Thu 11:30] \\
        Formula upated on 6/1
 **** TODO Make samples of the Champs Salsa Verde
-     SCHEDULED: <2017-06-08 Thu>
+     SCHEDULED: <2017-06-12 Mon>
 **** TODO Evaluate Salsa Verde
      DEADLINE: <2017-06-12 Mon>
 ** DONE Ship Champs samples SV Beef/Pork, Queso, and Pinto/Black bean mix [4/4] [100%]

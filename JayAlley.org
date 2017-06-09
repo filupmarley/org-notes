@@ -19,7 +19,10 @@
 *** [2017-05-25 Thu 11:03]
  - Use sous vide chicken with out seasoning.
  - This is our current Cape Cod Salad Dressing.
-**** TODO [#B] Cordinate running Chicken Salad to make samples for Jay Alley :Samples:
+**** DONE [#B] Cordinate running Chicken Salad to make samples for Jay Alley :Samples:
+     CLOSED: [2017-06-09 Fri 15:43]
+     - CLOSING NOTE [2017-06-09 Fri 15:43] \\
+       Completed by Ellen week of 6/5
 **** DONE Make pouch/tub samples of  Cranberry Chcken Salad [4/4][100%]
      CLOSED: [2017-06-07 Wed 16:06] DEADLINE: <2017-06-12 Mon> SCHEDULED: <2017-05-30 Tue>
      - CLOSING NOTE [2017-06-07 Wed 16:06] \\
@@ -37,11 +40,12 @@
 ** IN-PROGRESS [#A] Ship all Jay Alley Chicken Salad Products  out for HPP processing [4/5][80%]
    DEADLINE: <2017-06-13 Tue>
 - [ ] 2-lb pouch sample Savory Chicken Salad
+ - shipiing on Monday
 - [X] 4-lb pouch sample Cranberry Chicken Salad
 - [X] 12 oz tub sample Cranberry Chicken Salad
 - [X] 24-oz tub sample Cranberry Chicken Salad
 - [X] 40-oz tub sample Cranberry Chicken Salad
-** SHIP [#C] Ship all Jay Alley Chicken Salad Dressings  [0/6] [0%]    :Ship:
+** SHIP [#C] Ship all Jay Alley Chicken Salad Dressings to Customer  [0/6] [0%] :Ship:
    DEADLINE: <2017-06-19 Mon>
 - [ ] 2-lb pouch sample Quacamole Chicken Salad
 - [ ] 2-lb pouch sample Savory Chicken Salad

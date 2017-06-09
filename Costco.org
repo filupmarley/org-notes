@@ -19,12 +19,18 @@
        Sample located.
 *** [2017-05-25 Thu 10:56]
  - Need to taste the following items
-**** TODO Taste current Ventura Dressing (w/egg)
-     DEADLINE: <2017-05-25 Thu>
-**** TODO Taste Opened container of Ventura Dressing (no egg)
-     DEADLINE: <2017-05-25 Thu>
-**** TODO Taste earlier version of dressing from Sheldon (no egg)
-     DEADLINE: <2017-05-25 Thu>
+**** CANCELLED Taste current Ventura Dressing (w/egg)             :CANCELLED:
+     CLOSED: [2017-06-09 Fri 08:38] DEADLINE: <2017-05-25 Thu>
+     - State "CANCELLED"  from "TODO"       [2017-06-09 Fri 08:38] \\
+       I missed the tasting.
+**** CANCELLED Taste Opened container of Ventura Dressing (no egg) :CANCELLED:
+     CLOSED: [2017-06-09 Fri 08:39] DEADLINE: <2017-05-25 Thu>
+     - State "CANCELLED"  from "TODO"       [2017-06-09 Fri 08:39] \\
+       I missed the tasting.
+**** CANCELLED Taste earlier version of dressing from Sheldon (no egg) :CANCELLED:
+     CLOSED: [2017-06-09 Fri 08:39] DEADLINE: <2017-05-25 Thu>
+     - State "CANCELLED"  from "TODO"       [2017-06-09 Fri 08:39] \\
+       I missed the tasting.
 *** [2017-05-25 Thu 10:41]
  - Looking to get 90 days shelf life to gaurantee 60 days for Costco.
 *** [2017-05-18 Thu 10:33] 
