@@ -35,21 +35,6 @@
   CLOCK: [2017-05-17 Wed 15:47]--[2017-05-17 Wed 15:47] =>  0:00
   :END:
 [2017-05-17 Wed 15:47]
-* TODO Update HEB formulas to reflect 12 minute starch hold period and tri-blades on high.
-  :LOGBOOK:
-  CLOCK: [2017-06-06 Tue 14:45]--[2017-06-06 Tue 14:46] =>  0:01
-  :END:
-[2017-06-06 Tue 14:45]
-* TODO Update HEB formula to have increased water 3 gallons/1175 lbs bath
-  :LOGBOOK:
-  CLOCK: [2017-06-06 Tue 14:46]--[2017-06-06 Tue 14:47] =>  0:01
-  :END:
-[2017-06-06 Tue 14:46]
-* TODO Update costing for HEB blanco queso
-  :LOGBOOK:
-  CLOCK: [2017-06-06 Tue 14:47]--[2017-06-06 Tue 14:47] =>  0:00
-  :END:
-[2017-06-06 Tue 14:47]
 * TODO Look into Champs Apples. Sauce is separating
   :LOGBOOK:
   CLOCK: [2017-06-09 Fri 10:37]--[2017-06-09 Fri 10:37] =>  0:00

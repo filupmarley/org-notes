@@ -2,6 +2,9 @@
 
 * Projects
 ** Value Engineered (VE) Mashed Potatoes
+*** [2017-06-12 Mon 09:01] Benchwork feedback
+**** TODO Make up additional samples of VE Mashed Potatoes
+  - VEMP-03 seemed too salty.
 *** [2017-05-25 Thu 08:55]
  - Need to get cost down to $0.95/lb
 
