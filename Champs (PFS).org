@@ -2,6 +2,23 @@
 
 * Projects
 ** Sous Vide Beef
+*** [2017-06-13 Tue 09:15]
+ - Wants only diced option
+**** TODO Make samples of Sous Vide Beef
+     SCHEDULED: <2017-06-14 Wed>
+ - Use ancho variable as the base
+ - Double the ancho and liquid smoke.
+ - use same amount of worcestershire as previous sample.
+*** [2017-05-24 Wed 16:07]
+ - Champs wants us to add a combination of liquid smoke and Worcestershire at low levels, or utilize the smoked ancho/chipotle purée used in enchilada revisions (Tony is familiar with the RM).
+**** DONE Make samples of Sous Vide Beef using smoke ancho/chipotle puree
+     CLOSED: [2017-05-30 Tue 12:13]
+     - CLOSING NOTE [2017-05-30 Tue 12:13] \\
+       Completed by Tony and Jen on 5/22. Made the following samples:
+       1. Using liquid smoke and Worcestershire.
+       2. Using smoked ancho/chipotle puree
+     - Champs wants us to add a combination of liquid smoke and Worcestershire at low levels
+     - or utilize the smoked ancho/chipotle purée used in enchilada revisions (Tony is familiar with the RM).
 ***  [2017-05-12 Fri 11:03]
   Feedback from Champs:
   Wants to see samples on steak cut, and dices like that if the pork. The texture felt tuffer than the previous sample, and he asked if the cook time was the same as previous or shortened? 
@@ -31,17 +48,13 @@
        Samples completed on Monday 5/22
    - Making steak cut and dices on Monday
 
-*** [2017-05-24 Wed 16:07]
- - Champs wants us to add a combination of liquid smoke and Worcestershire at low levels, or utilize the smoked ancho/chipotle purée used in enchilada revisions (Tony is familiar with the RM).
-**** DONE Make samples of Sous Vide Beef using smoke ancho/chipotle puree
-     CLOSED: [2017-05-30 Tue 12:13]
-     - CLOSING NOTE [2017-05-30 Tue 12:13] \\
-       Completed by Tony and Jen on 5/22. Made the following samples:
-       1. Using liquid smoke and Worcestershire.
-       2. Using smoked ancho/chipotle puree
-     - Champs wants us to add a combination of liquid smoke and Worcestershire at low levels
-     - or utilize the smoked ancho/chipotle purée used in enchilada revisions (Tony is familiar with the RM).
 ** Sous Vide Pork
+*** [2017-06-13 Tue 09:10]
+**** TODO Make Champs Sous Vide Pork 2 variables
+     SCHEDULED: <2017-06-13 Tue>
+ - 2 Variables
+   - No starch
+   - 50% starch reduction
 *** [2017-05-24 Wed 15:29]
  - (Version1) The starch level is perfect and gives a good moisture level that soaks into the shred. However they want to keep the pork diced and like the size of the dice as well. This gives them versatility with the product.
    - They would like to see a 25% reduction in the Green Chiles, while ensuring onions are maintained at the same as the previous sample.
@@ -125,13 +138,17 @@
  - Possibility of using Pepper Jack cheese
  - Wants to try using a Roasted Poblano pepper in place of the chiles.
    - Brent wants to make a sample using the in-house Pepper Jack before trying this.
-**** TODO Make sample of the Champs Queso
-     DEADLINE: <2017-06-09 Fri>
+**** CANCELLED Make sample of the Champs Queso                    :CANCELLED:
+     CLOSED: [2017-06-13 Tue 09:25] DEADLINE: <2017-06-09 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-06-13 Tue 09:25] \\
+       This task is captured elsewhere
 - Version #2 (CC-MWQ-04) was the favorable sample from the last round
 - Need to increase  onion an garlic powder
 - Possibility of using Pepper Jack cheese
-**** TODO Make sample of Champs Queso using roasted poblano peppers
-     DEADLINE: <2017-06-16 Fri>
+**** CANCELLED Make sample of Champs Queso using roasted poblano peppers :CANCELLED:
+     CLOSED: [2017-06-13 Tue 09:25] DEADLINE: <2017-06-16 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-06-13 Tue 09:25] \\
+       This task is capture elsewhere.
  - Wants to try using a Roasted Poblano pepper in place of the chiles.
    - Brent wants to make a sample using the in-house Pepper Jack before trying this.
 *** [2017-05-24 Wed 15:58] Sample feedback
@@ -170,9 +187,14 @@
    - Mild to medium heat use capsicum.
 
 ** Black Beans
- - We can try adding some of their seasoning to to each for internal cuttings. If it adds value in flavor than we will send samples with this addition.
-[2017-05-24 Wed 15:19]
- - Champs has decided to not pursue black beans, but will move forward with a Black Bean/Pinto mix.
+*** [2017-06-13 Tue 09:19]
+ - Champs will pursue a black bean option
+**** TODO Make samples of champs black beans
+     SCHEDULED: <2017-06-14 Wed>
+ - Reduce slurry viscosity. Too slimy!
+ [2017-05-24 Wed 15:19]
+  - We can try adding some of their seasoning to to each for internal cuttings. If it adds value in flavor than we will send samples with this addition.
+  - Champs has decided to not pursue black beans, but will move forward with a Black Bean/Pinto mix.
 *** DONE Make samples of Champs Black Beans Using IQF Beans
     CLOSED: [2017-05-18 Thu 10:15] SCHEDULED: <2017-05-16 Tue>
     - CLOSING NOTE [2017-05-18 Thu 10:15] \\
@@ -211,14 +233,21 @@
       Mike is evaluating these costs.Could have it today (5/15/2017)
 
 ** Pinto Beans
-[2017-05-24 Wed 15:20]
- - Champs has decided to not pursue Pinto beans, but will move forward with a Black Bean/Pinto mix.
+*** [2017-06-13 Tue 09:23]
+ - Champs will pursue a black bean option
+**** TODO Make samples of champs pinto beans
+     SCHEDULED: <2017-06-14 Wed>
+ - Reduce slurry viscosity. Too slimy!
+*** [2017-05-24 Wed 15:20]
+  - Champs has decided to not pursue Pinto beans, but will move forward with a Black Bean/Pinto mix.
 *** DONE Make Pinto using IQF Beans.
     CLOSED: [2017-05-16 Tue 14:57] DEADLINE: <2017-05-16 Tue>
     - CLOSING NOTE [2017-05-16 Tue 14:57] \\
       Benchwork completed today.
 
 ** Black/Pinto Mix
+*** [2017-06-07 Wed 09:22]
+ - Champs will not pursue a pinto/black bean mix. 
 *** [2017-05-24 Wed 15:18]
  - Champs has narrowed this down to just the Black and Pinto Mixture. The appearance and texture are spot on. 
  - Champs liked the overall flavor, but want to remove tomatoes and maintain Green Chile level. The bacon fat has to be removed for labeling purposes. The appearance and texture were great, so stick to the same cook time. The slurry was to thin and needs to be thickened with a starch.
@@ -258,7 +287,7 @@
 **** TODO Make samples of the Champs Salsa Verde
      SCHEDULED: <2017-06-12 Mon>
 **** TODO Evaluate Salsa Verde
-     DEADLINE: <2017-06-12 Mon>
+     DEADLINE: <2017-06-16 Fri>
 ** DONE Ship Champs samples SV Beef/Pork, Queso, and Pinto/Black bean mix [4/4] [100%]
    CLOSED: [2017-05-31 Wed 16:39] DEADLINE: <2017-05-30 Tue>
    - CLOSING NOTE [2017-05-31 Wed 16:39] \\

@@ -1,0 +1,10 @@
+#+TITLE: Process Improvement Team
+
+* General Questions
+** [2017-06-13 Tue 16:17]
+ - Any capital involed?
+* Ideas
+** [2017-06-13 Tue 16:18]
+ - Temp range for bostwick checks
+ - go to a 15 second bostwick check.
+ - Record all test results even if out of spec.

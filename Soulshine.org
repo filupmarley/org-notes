@@ -20,7 +20,7 @@
 
 *** [2017-05-30 Tue 14:55]
 **** WAITING [#A] Setup the Soulshine Pizza Sauce Proecssing Sheets :Processing_Sheets:WAITING:
-     DEADLINE: <2017-06-02 Fri>
+     DEADLINE: <2017-06-23 Fri>
      - State "WAITING"    from "TODO"       [2017-06-01 Thu 15:53] \\
        [2017-06-01 Thu 15:53] Sent to Brent for review
        
