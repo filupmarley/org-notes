@@ -2,12 +2,24 @@
 
 * Projects
 ** Guacamole Chicken Salad
+*** [2017-06-14 Wed 08:10]
+ - Using Parm variable.
+*** [2017-06-14 Wed 09:26]
+ - Moving towards a kit with a few couple of different variables
+   - Variable 1
+     - Bag of guac
+     - Bag of everything else (chicken, rotel, celery, parm, cilantro, onion, salt)
+   - Variable 2
+     - Bag of quac
+     - Bag of wets (chicken, rotel, onions, rotel, celery, cilantro, onion)
+     - Bag of dries (parm, salt)
 *** [2017-05-25 Thu 11:03]
+*** 
  - Use sous vide chicken with out seasoning.
  - 2-lb pouch
  - Use whatever formula we come up with
-**** TODO Make 2 lb sample of Quacamole Chicken Salad 2 lb pouch for Jay Alley :Benchwork:
-     SCHEDULED: <2017-06-19 Mon> DEADLINE: <2017-06-12 Mon>
+**** IN-PROGRESS Make 2 lb sample of Quacamole Chicken Salad 2 lb pouch for Jay Alley :Benchwork:
+     SCHEDULED: <2017-06-14 Wed> DEADLINE: <2017-06-19 Mon>
 ** Savory Chicken Salad
 *** [2017-05-25 Thu 11:03]
  - Use sous vide chicken with out seasoning.
@@ -54,6 +66,7 @@
   - Sample due back from HPP on 6/13
 - [X] 40-oz tub sample Cranberry Chicken Salad
   - Sample due back from HPP on 6/13
+ - Making prototypes today (6/14) to determine how the kit approach will work.
 ** SHIP [#A] Ship all Jay Alley Chicken Salad Dressings to Customer  [0/6] [0%] :Ship:
    DEADLINE: <2017-06-19 Mon>
 - [ ] 2-lb pouch sample Quacamole Chicken Salad
