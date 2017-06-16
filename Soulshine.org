@@ -19,8 +19,9 @@
   - [ ] Special coding requirements
 
 *** [2017-05-30 Tue 14:55]
-**** WAITING [#A] Setup the Soulshine Pizza Sauce Proecssing Sheets :Processing_Sheets:WAITING:
-     DEADLINE: <2017-06-23 Fri>
+**** DONE [#A] Setup the Soulshine Pizza Sauce Proecssing Sheets :Processing_Sheets:
+     CLOSED: [2017-06-16 Fri 11:31] DEADLINE: <2017-06-23 Fri>
+     - State "DONE"       from "WAITING"    [2017-06-16 Fri 11:31]
      - State "WAITING"    from "TODO"       [2017-06-01 Thu 15:53] \\
        [2017-06-01 Thu 15:53] Sent to Brent for review
        

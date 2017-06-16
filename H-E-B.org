@@ -6,8 +6,10 @@
      CLOSED: [2017-06-08 Thu 16:30] DEADLINE: <2017-06-08 Thu>
      - CLOSING NOTE [2017-06-08 Thu 16:30] \\
        Updated formula with increase water
-***** TODO Forward Queso Mama Queso Blanco for Costing once we produced this item with water change.
-      SCHEDULED: <2017-06-12 Mon>
+***** DONE Forward Queso Blanco for Costing once we produced this item with water change.
+      CLOSED: [2017-06-16 Fri 12:24] SCHEDULED: <2017-06-12 Mon>
+      - CLOSING NOTE [2017-06-16 Fri 12:24] \\
+	Formula sent to Bill on 6/16.
 **** DONE Update all HEB formulas with increased starch hold time of 12 minutes [5/5] [100%]
      CLOSED: [2017-06-12 Mon 16:31] SCHEDULED: <2017-06-09 Fri>
      - CLOSING NOTE [2017-06-12 Mon 16:31] \\

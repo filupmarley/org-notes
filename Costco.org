@@ -47,6 +47,13 @@
 **** TODO Look into the shelf life protocol.
      DEADLINE: <2017-06-09 Fri>
 
+** Turkey Dressing
+*** [2017-06-16 Fri 13:49]
+**** TODO Perform Freeze/thaw testing on Costco stuffing
+     SCHEDULED: <2017-06-19 Mon>
+ - Need to freeze costo turkey and stuffing and then stick in the fridge for 20 days to see what happens.
+**** TODO Make beef queso samples                         :Benchwork:Samples:
+     SCHEDULED: <2017-06-20 Tue>
 
 * Tasks
 

@@ -15,11 +15,12 @@
      - Bag of dries (parm, salt)
 *** [2017-05-25 Thu 11:03]
 *** 
- - Use sous vide chicken with out seasoning.
+ - Use sous vide chicken without seasoning.
  - 2-lb pouch
  - Use whatever formula we come up with
 **** IN-PROGRESS Make 2 lb sample of Quacamole Chicken Salad 2 lb pouch for Jay Alley :Benchwork:
-     SCHEDULED: <2017-06-14 Wed> DEADLINE: <2017-06-19 Mon>
+      DEADLINE: <2017-06-19 Mon>
+
 ** Savory Chicken Salad
 *** [2017-05-25 Thu 11:03]
  - Use sous vide chicken with out seasoning.

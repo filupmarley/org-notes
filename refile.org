@@ -35,9 +35,3 @@
   CLOCK: [2017-05-17 Wed 15:47]--[2017-05-17 Wed 15:47] =>  0:00
   :END:
 [2017-05-17 Wed 15:47]
-* TODO Look into Champs Apples. Sauce is separating
-  :LOGBOOK:
-  CLOCK: [2017-06-09 Fri 10:37]--[2017-06-09 Fri 10:37] =>  0:00
-  :END:
-[2017-06-09 Fri 10:37]
-[[file:~/files/org-files/H-E-B.org::*Update%20all%20HEB%20formulas%20with%20increased%20starch%20hold%20time%20of%2012%20minutes][Update all HEB formulas with increased starch hold time of 12 minutes {1/5} {20%}]]

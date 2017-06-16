@@ -52,8 +52,9 @@
 
 ** Sous Vide Pork
 *** [2017-06-13 Tue 09:10]
-**** TODO Make Champs Sous Vide Pork 2 variables
-     SCHEDULED: <2017-06-13 Tue>
+**** DONE Make Champs Sous Vide Pork 2 variables
+     CLOSED: [2017-06-16 Fri 13:44] SCHEDULED: <2017-06-13 Tue>
+     - CLOSING NOTE [2017-06-16 Fri 13:44]
  - 2 Variables
    - No starch
    - 50% starch reduction
@@ -97,7 +98,7 @@
    - 4 bags per layer x 10 layers x 2 sides = 80 5 lb bags per SV rack. That’s 400  lbs of chicken per SV rack.
    - 2 Sv racks in the cooker at a time that’s 800 lbs of chicken cooking at one time @ 2 hours or so cook time.
    - This is a worse case scenario
-**** TODO Setup Cutting to evaluate SV Chicken variables.
+**** TODO Cutting to evaluate SV Chicken variables.
      SCHEDULED: <2017-06-20 Tue>
   - Trying to determine how to properly process the chicken and seasoning.
     1. Option 1 is to process with no seasoning
@@ -135,19 +136,19 @@
 ** Queso
 *** [2017-06-07 Wed 10:58] Additional sample feedback from PFS
 **** TODO Make Champs queso samples option 1
-     SCHEDULED: <2017-06-14 Wed>
+     SCHEDULED: <2017-06-21 Wed>
   - Queso – Two separate paths here Option 1
     - Take current formulation (CC-MWQ-04)
     - increase garlic by 20% & onion by 10%.
-    - I also want to substitute the green chiles for roasted poblanos.
+    - substitute the green chiles with roasted poblanos.
 **** TODO Make Champs queso samples option 2
-     SCHEDULED: <2017-06-14 Wed>
+     SCHEDULED: <2017-06-21 Wed>
   - Queso Option 2 Changing cheese to Bongard and Pepper Jack blend.
     - Overall cheese level of 40% (offset with water).
       - Blend ratio of 60:40 Bongard:pepper jack
     - May need to increase starch
     - Increase the garlic by 20% and increase the onion by 10%
-    - Substitute the green chiles for roasted poblanos
+    - Substitute the green chiles with roasted poblanos
 *** [2017-06-06 Tue 15:31] Sample feedback
  - Version #2 (CC-MWQ-04) was the favorable sample from the last round
  - Need to increase  onion an garlic powder
@@ -205,8 +206,10 @@
 ** Black Beans
 *** [2017-06-13 Tue 09:19]
  - Champs will pursue a black bean option
-**** TODO Make samples of champs black beans
-     SCHEDULED: <2017-06-14 Wed>
+**** DONE Make samples of champs black beans
+     CLOSED: [2017-06-16 Fri 13:45] SCHEDULED: <2017-06-14 Wed>
+     - CLOSING NOTE [2017-06-16 Fri 13:45] \\
+       Samples need to be shipped. Will probably ship with beans.
  - Reduce slurry viscosity. Too slimy!
 *** [2017-05-24 Wed 15:19]
  - We can try adding some of their seasoning to to each for internal cuttings. If it adds value in flavor than we will send samples with this addition.
@@ -251,8 +254,10 @@
 ** Pinto Beans
 *** [2017-06-13 Tue 09:23]
  - Champs will pursue a black bean option
-**** TODO Make samples of champs pinto beans
-     SCHEDULED: <2017-06-14 Wed>
+**** DONE Make samples of champs pinto beans
+     CLOSED: [2017-06-16 Fri 13:48] SCHEDULED: <2017-06-14 Wed>
+     - CLOSING NOTE [2017-06-16 Fri 13:48] \\
+       Samples need to be shipped. Will probably ship with beans.
  - Reduce slurry viscosity. Too slimy!
 *** [2017-05-24 Wed 15:20]
   - Champs has decided to not pursue Pinto beans, but will move forward with a Black Bean/Pinto mix.
@@ -301,9 +306,10 @@
      - CLOSING NOTE [2017-06-01 Thu 11:30] \\
        Formula upated on 6/1
 **** TODO Make samples of the Champs Salsa Verde
-     SCHEDULED: <2017-06-12 Mon>
+     SCHEDULED: <2017-06-21 Wed>
 **** TODO Evaluate Salsa Verde
-     DEADLINE: <2017-06-16 Fri>
+     SCHEDULED: <2017-06-23 Fri>
+
 ** DONE Ship Champs samples SV Beef/Pork, Queso, and Pinto/Black bean mix [4/4] [100%]
    CLOSED: [2017-05-31 Wed 16:39] DEADLINE: <2017-05-30 Tue>
    - CLOSING NOTE [2017-05-31 Wed 16:39] \\
@@ -362,3 +368,18 @@
    CLOCK: [2017-05-17 Wed 08:56]--[2017-05-17 Wed 08:57] =>  0:01
    :END:
  [2017-05-17 Wed 08:56]
+** DONE Look into Champs Apples. Sauce is separating
+   CLOSED: [2017-06-16 Fri 14:04]
+   - CLOSING NOTE [2017-06-16 Fri 14:04] \\
+     Per Jen:
+     Summary of Evaluation:
+     
+     (5-19-17) 17129 Heated sample to 160F. Sample was the sweetest, did not have a cloudy appearance, syrup was shiny.
+     (3-11-17) 17070 Heated sample to 160F. Not as sweet, cloudy appearance. Additional sample was boiled for 1 hour and evaluated; visually similar with slightly sweeter taste, cloudy appearance.
+     
+     After samples were heated there was no visual separation. I did not see it prior to heating.
+   :LOGBOOK:
+   CLOCK: [2017-06-09 Fri 10:37]--[2017-06-09 Fri 10:37] =>  0:00
+   :END:
+ [2017-06-09 Fri 10:37]
+ [[file:~/files/org-files/H-E-B.org::*Update%20all%20HEB%20formulas%20with%20increased%20starch%20hold%20time%20of%2012%20minutes][Update all HEB formulas with increased starch hold time of 12 minutes {1/5} {20%}]]
