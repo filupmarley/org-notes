@@ -18,9 +18,11 @@
  - Use sous vide chicken without seasoning.
  - 2-lb pouch
  - Use whatever formula we come up with
-**** IN-PROGRESS Make 2 lb sample of Quacamole Chicken Salad 2 lb pouch for Jay Alley :Benchwork:
-      DEADLINE: <2017-06-19 Mon>
+**** DONE [#A] Make 2 lb sample of Quacamole Chicken Salad 2 lb pouch for Jay Alley :Benchwork:
+      CLOSED: [2017-06-19 Mon 16:43] DEADLINE: <2017-06-19 Mon>
 
+      - CLOSING NOTE [2017-06-19 Mon 16:43] \\
+	Completed guac on 6/16. Kit is 8oz bag of HolyGuacamole and 1 bag of everyting else (chicken, parm, rotel, garlic, etc.)
 ** Savory Chicken Salad
 *** [2017-05-25 Thu 11:03]
  - Use sous vide chicken with out seasoning.
@@ -68,14 +70,22 @@
 - [X] 40-oz tub sample Cranberry Chicken Salad
   - Sample due back from HPP on 6/13
  - Making prototypes today (6/14) to determine how the kit approach will work.
-** SHIP [#A] Ship all Jay Alley Chicken Salad Dressings to Customer  [0/6] [0%] :Ship:
-   DEADLINE: <2017-06-19 Mon>
-- [ ] 2-lb pouch sample Quacamole Chicken Salad
-- [ ] 2-lb pouch sample Savory Chicken Salad
-- [ ] 4-lb pouch sample Cranberry Chicken Salad
-- [ ] 12 oz tub sample Cranberry Chicken Salad
-- [ ] 24-oz tub sample Cranberry Chicken Salad
-- [ ] 40-oz tub sample Cranberry Chicken Salad
+** DONE [#A] Ship all Jay Alley Chicken Salad Dressings to Customer  [6/6] [100%] :Ship:
+   CLOSED: [2017-06-19 Mon 13:44] DEADLINE: <2017-06-19 Mon>
+   - CLOSING NOTE [2017-06-19 Mon 13:44] \\
+     1 guac kit
+     2 samples of 2 lb savory
+     2 samples each of 4 lb, 12/24/40 oz cranberry
+     
+     tracking #: 779437702757
+- [X] Guacamole Chicken Salad kit
+  - [2017-06-19 Mon 09:00] This item was changed to a kit
+  - 1 sample sent
+- [X] 2-lb pouch sample Savory Chicken Salad 2 samples sent
+- [X] 4-lb pouch sample Cranberry Chicken Salad 2 samples sent
+- [X] 12 oz tub sample Cranberry Chicken Salad 2 samples sent
+- [X] 24-oz tub sample Cranberry Chicken Salad 2 samples sent
+- [X] 40-oz tub sample Cranberry Chicken Salad 2 samples sent
 
 
 * Tasks

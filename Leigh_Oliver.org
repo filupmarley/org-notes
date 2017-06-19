@@ -1,7 +1,6 @@
 #+TITLE: Leigh Oliver
 
 * Projects
-
 ** Queso Mama Reformulation
 *** [2017-05-25 Thu 12:35]
  - Feedback from Costco buyers is product was too salty
@@ -12,12 +11,14 @@
 
      - CLOSING NOTE [2017-05-31 Wed 08:00] \\
        Benchwork completed on 5/30.
-**** TODO Make Queso Mama Mild Queso samples using Bongard cheese
-     DEADLINE: <2017-06-20 Tue>
+**** TODO Make Queso Mama Mild Queso samples using Bongard cheese :Benchwork:Samples:
+     SCHEDULED: <2017-06-20 Tue>
+[2017-06-19 Mon 09:44] Cheese is on site.
+
 [2017-06-05 Mon 14:35] Bongard Cheese update
 Cheese should arrive this week for benchwork.
 
-**** SHIP Ship Leigh Oliver queso samples 
+**** SHIP Ship Leigh Oliver queso samples Using Bongard Cheese
      DEADLINE: <2017-06-23 Fri>
 - Sample using the bongard cheese
 **** DONE [#A] Update Queso Mama Mild Queso to reflect salt removal
@@ -25,7 +26,8 @@ Cheese should arrive this week for benchwork.
      - CLOSING NOTE [2017-06-05 Mon 16:34] \\
        Completed processing sheets.
 ** Queso Mama Shelf Life Study
-*** CANCELLED 120 Day Shelf Life Tasting                          :CANCELLED:
-    CLOSED: [2017-06-02 Fri 14:59] SCHEDULED: <2017-05-22 Mon>
-    - State "CANCELLED"  from "TODO"       [2017-06-02 Fri 14:59] \\
-      Never heard any details about this item.
+** Beef Queso
+*** [2017-06-19 Mon 10:04]
+**** TODO Make sample of Beef Queso for Costco Queso Mama group
+     SCHEDULED: <2017-06-20 Tue>
+ - Queso Mama group at Costco is looking for a queso with beef.
