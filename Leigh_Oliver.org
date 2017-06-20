@@ -11,7 +11,7 @@
 
      - CLOSING NOTE [2017-05-31 Wed 08:00] \\
        Benchwork completed on 5/30.
-**** TODO Make Queso Mama Mild Queso samples using Bongard cheese :Benchwork:Samples:
+**** TODO [#B] Make Queso Mama Mild Queso samples using Bongard cheese :Benchwork:Samples:
      SCHEDULED: <2017-06-20 Tue>
 [2017-06-19 Mon 09:44] Cheese is on site.
 
@@ -28,6 +28,6 @@ Cheese should arrive this week for benchwork.
 ** Queso Mama Shelf Life Study
 ** Beef Queso
 *** [2017-06-19 Mon 10:04]
-**** TODO Make sample of Beef Queso for Costco Queso Mama group
+**** TODO [#B] Make sample of Beef Queso for Costco Queso Mama group
      SCHEDULED: <2017-06-20 Tue>
  - Queso Mama group at Costco is looking for a queso with beef.

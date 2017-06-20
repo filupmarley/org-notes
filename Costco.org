@@ -44,18 +44,19 @@
    - What is the handling procedures at the HPP facility?
    - What is the handling procedures/testing procedures for Microlab.
      - Is it acceptable?
-**** WAITING Look into the shelf life protocol.                     :WAITING:
+**** IN-PROGRESS Look into the shelf life protocol.
      DEADLINE: <r2017-06-23 Fri>
 
+     - State "IN-PROGRESS" from "WAITING"    [2017-06-20 Tue 16:16]
      - State "WAITING"    from "IN-PROGRESS" [2017-06-19 Mon 10:23] \\
        Sent a followup note to Morgan on 6/19
 ** Turkey Dressing
 *** [2017-06-16 Fri 13:49]
-**** TODO Perform Freeze/thaw testing on Costco stuffing
+**** TODO [#B] Perform Freeze/thaw testing on Costco stuffing
      SCHEDULED: <2017-06-19 Mon>
  - Need to freeze costo turkey and stuffing and then stick in the fridge for 20 days to see what happens.
 **** TODO Make beef queso samples                         :Benchwork:Samples:
-     SCHEDULED: <2017-06-20 Tue>
+     SCHEDULED: <2017-06-21 Wed>
 
 * Tasks
 
