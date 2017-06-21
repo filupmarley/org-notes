@@ -17,5 +17,5 @@
   :PROPERTIES:
   :CATEGORY: Anniversary
   :END:
-%%(org-anniversary 2001 4 14)   %d years
-
+%%(org-anniversary 2001 4 14) %d years
+%%(org-anniversary 1988 6 17) Mom and Tim married for %d years
