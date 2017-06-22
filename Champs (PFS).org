@@ -94,6 +94,17 @@
     :END:
   [2017-05-12 Fri 10:46]
 ** Sous Vide Chicken
+*** [2017-06-22 Thu 13:51] Tasting SV Chicken with Dan
+ - Dan preferred the variable with the current amount of house seasoning just dumped into the bag, no tumbling required.
+ - We will move forward with processing chicken without tempering it.
+   - We will transfer chicken straight from vendor pack to a either a 12x18 or 12x20 multivac pouch.
+**** DONE Follow up with Mitch on 14x20 Multivac bags
+     CLOSED: [2017-06-22 Thu 16:04] SCHEDULED: <2017-06-26 Mon>
+     - CLOSING NOTE [2017-06-22 Thu 16:04] \\
+       - 14x20 sample size bags arriving on Monday 6/26.
+        - Production quantity will arrive on Wednesday 6/28
+**** TODO [#A] Finalize SV Chicken Processing Sheets
+     DEADLINE: <2017-06-23 Fri>
 *** [2017-06-15 Thu 16:13] Multi-vac Testing
  - Tested frozen chicken blocks using various sizes Results
  - The 12x14 and 12x16 bags will not work. The 12x18 bag will work but the width may make it difficult to get the chicken in the bag. Also, it may be a bit tight on the length as well.
@@ -102,8 +113,10 @@
    - 4 bags per layer x 10 layers x 2 sides = 80 5 lb bags per SV rack. That’s 400  lbs of chicken per SV rack.
    - 2 Sv racks in the cooker at a time that’s 800 lbs of chicken cooking at one time @ 2 hours or so cook time.
    - This is a worse case scenario
-**** TODO Cutting to evaluate SV Chicken variables.
-     SCHEDULED: <2017-06-27 Tue>
+**** DONE Cutting to evaluate SV Chicken variables.
+     CLOSED: [2017-06-22 Thu 13:53] SCHEDULED: <2017-06-27 Tue>
+     - CLOSING NOTE [2017-06-22 Thu 13:53] \\
+       Dan preferred the variable with the current amount of house seasoning just dumped into the bag, no tumbling required.
      - NOTE [2017-06-20 Tue 15:16] //
        Dan wants to see the following variables
        1. Control
@@ -345,6 +358,7 @@
  - [X] Queso - increased garlic and onion, sub roasted poblanos.
  - [X] Black Beans Thinner broth
  - [X] Pinto Beans thinner broth
+
 * General Tasks
 ** DONE [#A] Ship Jeremy 40 S-Boxes. [5/5]
    CLOSED: [2017-05-18 Thu 10:11] DEADLINE: <2017-05-15 Mon> SCHEDULED: <2017-05-11 Thu>

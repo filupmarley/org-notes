@@ -36,7 +36,7 @@
   :END:
 [2017-05-17 Wed 15:47]
 * TODO Decide if Thursday of Friday will work best for Microbac visit
-  DEADLINE: <2017-06-21 Wed>
+  DEADLINE: <2017-06-23 Fri>
   :LOGBOOK:
   CLOCK: [2017-06-20 Tue 15:29]--[2017-06-20 Tue 15:30] =>  0:01
   :END:

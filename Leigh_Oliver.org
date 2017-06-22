@@ -29,5 +29,8 @@ Cheese should arrive this week for benchwork.
 ** Beef Queso
 *** [2017-06-19 Mon 10:04]
 **** TODO [#B] Make sample of Beef Queso for Costco Queso Mama group
-     SCHEDULED: <2017-06-20 Tue>
+     SCHEDULED: <2017-06-23 Fri>
  - Queso Mama group at Costco is looking for a queso with beef.
+   - NOTE [2017-06-22 Thu 13:49]
+     - Had to remake product. Should have used yellow bongard, but instead used uncolored.
+

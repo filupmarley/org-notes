@@ -3,20 +3,35 @@
 * Projects
   
 ** Pizza Sauce
+*** [2017-06-22 Thu 09:42]
+First production of SS Pizza Sauce. Produced 2 batches @2500 lbs each.
+ - No major issues
+ - Product tasted great.
+ - No issues during batching.
+ - No issues during Cryovac filling.
+ - Call outs
+   - Tomato skins collecting on the rotosolver mix head.
+     - May need to add an in-line filter to catch these skins.
+   - The rotosolver mix time of 10 minutes may have been too long.
+     - The production product was smoother than lab product. This may not be an issue, but we may need to adjust this procedure.
+**** TODO Update soulshine pizza sauce processing sheets to remove instructions on checklist
+     SCHEDULED: <2017-07-07 Fri>
+**** TODO Add slurry sheet to Soulshine Pizza Sauce
+     SCHEDULED: <2017-07-07 Fri>
 *** [2017-05-31 Wed 15:13]
 - Issued batch size for Soulshine pizza sauce will be  2020.8 lbs
 - This will allow for an even amount of cans for both the 74 40 tomatoes and tomato paste.
 - Paste was reduced slightly from 12.026% to 12.0154% (0.088% reduction)
 *** [2017-05-31 Wed 08:10]
-- Need the following info to complete processing sheets [5/8]
+- Need the following info to complete processing sheets [8/8]
   - [X] Resource # for Stanislaus74/40 Tomoatoes, Peeled (Stanislaus)
   - [X] Resource # for Tomato Paste (Stanislaus)
   - [X] Resource # for fresh garlic
-  - [ ] Item #
+  - [X] Item #
   - [X] Pack size (8/4# using the "S" box
   - [X] Process instructions
-  - [ ] Costing
-  - [ ] Special coding requirements
+  - [X] Costing
+  - [X] Special coding requirements
 
 *** [2017-05-30 Tue 14:55]
 **** DONE [#A] Setup the Soulshine Pizza Sauce Proecssing Sheets :Processing_Sheets:
