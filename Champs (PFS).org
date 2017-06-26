@@ -2,6 +2,16 @@
 
 * Projects
 ** Sous Vide Beef
+*** [2017-06-26 Mon 09:23]
+**** HOLD Make samples of Champs SV Beef                               :HOLD:
+     SCHEDULED: <2017-06-28 Wed>
+     - State "HOLD"       from "TODO"       [2017-06-26 Mon 16:28] \\
+       [2017-06-26 Mon 16:29] On hold until further notice from Dan.
+ - Champs wants a fully seasoned beef ready to serve.
+ - Ideally shredded but they are aware they we do not have the capability to do this prior to be cooked and do not want us to drain it.
+ - For now stick to the diced samples.
+ - Keep ingredients at their current level, but add a small amount of beef base (Aus Jus base) for an enhanced beef flavor, and some lime to help balance out all the other flavors.
+ - No starch.
 *** [2017-06-13 Tue 09:15]
  - Wants only diced option
 **** DONE Make samples of Sous Vide Beef
@@ -53,6 +63,16 @@
    - Making steak cut and dices on Monday
 
 ** Sous Vide Pork
+*** [2017-06-26 Mon 09:27]
+**** HOLD Make samples of Champs SV Pork                               :HOLD:
+     SCHEDULED: <2017-06-28 Wed>
+     - State "HOLD"       from "TODO"       [2017-06-26 Mon 16:29] \\
+       On hold until further notice from Dan.
+ - Fully seasoned ready to serve meal.
+ - SEASONING RATIO: ¾ oz. of the protein seasoning to each 2 lb. portion of the Pork.
+ - They prefer they sample that did contain the starch and the consistency it provided.
+ - Concerns on the coating of starch on the pork in a scaled production form a consistency standpoint.
+ - Please try blending the starch with the protein seasoning and see if it will properly disperse.
 *** [2017-06-13 Tue 09:10]
 **** DONE Make Champs Sous Vide Pork 2 variables
      CLOSED: [2017-06-16 Fri 13:44] SCHEDULED: <2017-06-13 Tue>
@@ -103,8 +123,10 @@
      - CLOSING NOTE [2017-06-22 Thu 16:04] \\
        - 14x20 sample size bags arriving on Monday 6/26.
         - Production quantity will arrive on Wednesday 6/28
-**** TODO [#A] Finalize SV Chicken Processing Sheets
+**** WAITING [#A] Finalize SV Chicken Processing Sheets             :WAITING:
      DEADLINE: <2017-06-23 Fri>
+     - State "WAITING"    from "TODO"       [2017-06-26 Mon 12:38] \\
+       Forwarded processing sheets to Brent/Chuck for review on 6/26.
 *** [2017-06-15 Thu 16:13] Multi-vac Testing
  - Tested frozen chicken blocks using various sizes Results
  - The 12x14 and 12x16 bags will not work. The 12x18 bag will work but the width may make it difficult to get the chicken in the bag. Also, it may be a bit tight on the length as well.
@@ -157,7 +179,27 @@
     :END:
   [2017-05-25 Thu 09:31]
   [[file:~/files/org-files/Chesters.org::*Projects][Projects]]
+** Sous Vide Chicken Option #2
+*** [2017-06-26 Mon 09:49]
+**** HOLD Make samples of Champs SV Chicken #2                         :HOLD:
+     SCHEDULED: <2017-07-06 Thu>
+     - State "HOLD"       from "TODO"       [2017-06-26 Mon 16:30] \\
+       On hold until further notice from Dan.
+ - Champs has decided to have a separate sous vide cook chicken sku other than that from the Champs concept.
+ - This item will not be drained and also must be ready to serve.
+ - The initial direction is to keep the house seasoning at the same level as the current product; however we will need to add a small amount of IQF cilantro and some lime.
+ - No protein seasoning at this point.
 ** Queso
+*** [2017-06-26 Mon 09:34]
+**** TODO Make sample of Champs Queso option #1
+     SCHEDULED: <2017-06-28 Wed>
+ - Bongard Xtra Melt flavor profile is preferred.
+ - Consistency is good but the coloration was off. It needs to remain white-beige.
+ - Need to include chiles in formula moving forward. If this causing an increase in heat it will be ok, however the heat level needs to remain mild-medium.
+**** TODO Make sample of Champs Queso option #2
+     SCHEDULED: <2017-06-28 Wed>
+ - Same base formula as Option #1
+ - Use Bongard:Pepper Jack blend. Approximateley 60:40 blend.
 *** [2017-06-07 Wed 10:58] Additional sample feedback from PFS
 **** DONE Make Champs queso samples option 1
      CLOSED: [2017-06-20 Tue 15:10] SCHEDULED: <2017-06-21 Wed>
@@ -167,8 +209,10 @@
     - Take current formulation (CC-MWQ-04)
     - increase garlic by 20% & onion by 10%.
     - substitute the green chiles with roasted poblanos.
-**** TODO Make Champs queso samples option 2
-     SCHEDULED: <2017-06-21 Wed>
+**** CANCELLED Make Champs queso samples option 2                 :CANCELLED:
+     CLOSED: [2017-06-26 Mon 09:36] SCHEDULED: <2017-06-21 Wed>
+     - State "CANCELLED"  from "TODO"       [2017-06-26 Mon 09:36] \\
+       New feedback and direction from Jeremy on 6/23. This item will be made using a different todo.
   - Queso Option 2 Changing cheese to Bongard and Pepper Jack blend.
     - Overall cheese level of 40% (offset with water).
       - Blend ratio of 60:40 Bongard:pepper jack
@@ -230,6 +274,12 @@
    - Mild to medium heat use capsicum.
 
 ** Black Beans
+*** [2017-06-26 Mon 09:31]
+**** TODO Make Sample of Champs Black Beans
+     SCHEDULED: <2017-06-28 Wed>
+ - Great flavor, but they’d like to see approx. 15-20% more moisture in the beans with starch consistency reduced by 50%.
+ - It was too thick.
+ - Considering that there will be more moisture we may not want to back off the starch by exactly 50%.
 *** [2017-06-13 Tue 09:19]
  - Champs will pursue a black bean option
 **** DONE Make samples of champs black beans
@@ -280,7 +330,14 @@
       Mike is evaluating these costs.Could have it today (5/15/2017)
 
 ** Pinto Beans
+*** [2017-06-26 Mon 09:33]
+**** TODO Make Sample of Champs Pinto Beans
+     SCHEDULED: <2017-06-28 Wed>
+ - Great flavor, but they’d like to see approx. 15-20% more moisture in the beans with starch consistency reduced by 50%.
+ - It was too thick.
+ - Considering that there will be more moisture we may not want to back off the starch by exactly 50%.
 *** [2017-06-13 Tue 09:23]
+*** 
  - Champs will pursue a black bean option
 **** DONE Make samples of champs pinto beans
      CLOSED: [2017-06-16 Fri 13:48] SCHEDULED: <2017-06-14 Wed>
@@ -318,15 +375,50 @@
 [2017-05-24 Wed 14:54]
  - Brent updated processing sheets on Tuesday (5/23) to reflect thicker sauce and 1% egg noodle. Ready for production.
 ** Salsa Verde
+*** [2017-06-26 Mon 09:52]
+**** TODO Make sample of Champs Salsa Verde
+     SCHEDULED: <2017-07-07 Fri>
+- Reduce citric acid flavor
+- Tomatillos we used provided a different flavor. We may need to  buy/source the tomatillos that Jeremy spec’d to see if our formula is a match to his. 
+
 **** DONE [#A] Translate salsa verde formula to Champs ethinic folder
      CLOSED: [2017-06-01 Thu 11:30] DEADLINE: <2017-06-01 Thu>
      - CLOSING NOTE [2017-06-01 Thu 11:30] \\
        Formula upated on 6/1
-**** TODO Make samples of the Champs Salsa Verde
-     SCHEDULED: <2017-06-21 Wed>
-**** TODO Evaluate Salsa Verde
-     SCHEDULED: <2017-06-23 Fri>
+**** DONE Make samples of the Champs Salsa Verde
+     CLOSED: [2017-06-26 Mon 09:39] SCHEDULED: <2017-06-21 Wed>
+     - CLOSING NOTE [2017-06-26 Mon 09:39] \\
+       Gen 1 product is ok. Higher acid bite, too sweet, possibly source new supply of green chiles
+**** DONE Evaluate Salsa Verde
+     CLOSED: [2017-06-26 Mon 09:40] SCHEDULED: <2017-06-23 Fri>
 
+     - CLOSING NOTE [2017-06-26 Mon 09:40] \\
+       Product is too acidic. reduce citric acid. Increase salt. Possibly reduce starch slightly.and it seemed to have a stronger citric acid flavor and I believe the tomatillos we used provided a different flavor.
+     - I suggest we buy/source the tomatillos that Jeremy spec’d to see if our formula is a match to his.
+** Honey Habanero Salsa
+*** [2017-06-26 Mon 10:08]
+Initial formula received from Champs. Jen to enter into our system
+**** TODO Make samples of Champs Honey Habanero Salsa.
+     SCHEDULED: <2017-07-07 Fri>
+** Green Chile Sauce
+*** [2017-06-26 Mon 09:42]
+**** TODO Make sample of Champs Green Chile Sauce
+     SCHEDULED: <2017-07-05 Wed>
+  - Thiss will be a green sauce that is utilized to top burritos.
+  - Will use salsa verde as the base.
+  - Once the salsa verde is approved. We will take the Verde and add both poblanos and green chiles.
+  - Product will be pureed than post pack cooked.
+  - The level of peppers added to the sauce will be at fairly high level. We’re thinking a 30-50% increase over the current formula is good starting point.
+  - Several variations will need to be made and sampled.
+  - The direction is to focus on the best flavor rather than price.
+** IQF Rice
+*** [2017-06-26 Mon 09:46]
+**** TODO Make samples of Champs IQF Rice
+     SCHEDULED: <2017-07-05 Wed>
+ - Jeremy has developed a rice seasoning blend that he will send samples for us to use.
+ - We will take this seasoning and blend it with the rice. This item should not require any further cooking.
+ - Brent suggest using the 4-up dye on the Multivac as a starting point.
+ - This pouch will need to be similar to the drained chicken product as far its depth to ensure they are getting an even heat throughout without overcooking. 
 ** DONE Ship Champs samples SV Beef/Pork, Queso, and Pinto/Black bean mix [4/4] [100%]
    CLOSED: [2017-05-31 Wed 16:39] DEADLINE: <2017-05-30 Tue>
    - CLOSING NOTE [2017-05-31 Wed 16:39] \\
