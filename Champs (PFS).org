@@ -123,8 +123,9 @@
      - CLOSING NOTE [2017-06-22 Thu 16:04] \\
        - 14x20 sample size bags arriving on Monday 6/26.
         - Production quantity will arrive on Wednesday 6/28
-**** WAITING [#A] Finalize SV Chicken Processing Sheets             :WAITING:
-     DEADLINE: <2017-06-23 Fri>
+**** DONE [#A] Finalize SV Chicken Processing Sheets
+     CLOSED: [2017-06-27 Tue 12:30] DEADLINE: <2017-06-23 Fri>
+     - State "DONE"       from "WAITING"    [2017-06-27 Tue 12:30]
      - State "WAITING"    from "TODO"       [2017-06-26 Mon 12:38] \\
        Forwarded processing sheets to Brent/Chuck for review on 6/26.
 *** [2017-06-15 Thu 16:13] Multi-vac Testing
@@ -192,12 +193,12 @@
 ** Queso
 *** [2017-06-26 Mon 09:34]
 **** TODO Make sample of Champs Queso option #1
-     SCHEDULED: <2017-06-28 Wed>
+     SCHEDULED: <2017-06-27 Tue>
  - Bongard Xtra Melt flavor profile is preferred.
  - Consistency is good but the coloration was off. It needs to remain white-beige.
  - Need to include chiles in formula moving forward. If this causing an increase in heat it will be ok, however the heat level needs to remain mild-medium.
 **** TODO Make sample of Champs Queso option #2
-     SCHEDULED: <2017-06-28 Wed>
+     SCHEDULED: <2017-06-27 Tue>
  - Same base formula as Option #1
  - Use Bongard:Pepper Jack blend. Approximateley 60:40 blend.
 *** [2017-06-07 Wed 10:58] Additional sample feedback from PFS
@@ -400,6 +401,8 @@
 Initial formula received from Champs. Jen to enter into our system
 **** TODO Make samples of Champs Honey Habanero Salsa.
      SCHEDULED: <2017-07-07 Fri>
+     NOTE: [2017-06-27 Tue 12:48] //
+      - Control sample is on the way. Will arrive on Thursday 6/29. Tracking #668478107535
 ** Green Chile Sauce
 *** [2017-06-26 Mon 09:42]
 **** TODO Make sample of Champs Green Chile Sauce

@@ -11,8 +11,10 @@
 
      - CLOSING NOTE [2017-05-31 Wed 08:00] \\
        Benchwork completed on 5/30.
-**** TODO [#B] Make Queso Mama Mild Queso samples using Bongard cheese :Benchwork:Samples:
-     SCHEDULED: <2017-06-20 Tue>
+**** DONE [#B] Make Queso Mama Mild Queso samples using Bongard cheese :Benchwork:Samples:
+     CLOSED: [2017-06-27 Tue 12:31] SCHEDULED: <2017-06-20 Tue>
+     - CLOSING NOTE [2017-06-27 Tue 12:31] \\
+       Benchwork complete. Will ship product on Thursday 6/29
 [2017-06-19 Mon 09:44] Cheese is on site.
 
 [2017-06-05 Mon 14:35] Bongard Cheese update
@@ -28,8 +30,10 @@ Cheese should arrive this week for benchwork.
 ** Queso Mama Shelf Life Study
 ** Beef Queso
 *** [2017-06-19 Mon 10:04]
-**** TODO [#B] Make sample of Beef Queso for Costco Queso Mama group
-     SCHEDULED: <2017-06-23 Fri>
+**** DONE [#B] Make sample of Beef Queso for Costco Queso Mama group
+     CLOSED: [2017-06-27 Tue 12:45] SCHEDULED: <2017-06-23 Fri>
+     - CLOSING NOTE [2017-06-27 Tue 12:45] \\
+       Samples sent to customer by Aubrey on 6/26.
  - Queso Mama group at Costco is looking for a queso with beef.
    - NOTE [2017-06-22 Thu 13:49]
      - Had to remake product. Should have used yellow bongard, but instead used uncolored.

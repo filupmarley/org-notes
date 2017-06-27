@@ -55,9 +55,11 @@
 **** TODO [#B] Perform Freeze/thaw testing on Costco stuffing
      SCHEDULED: <2017-06-19 Mon>
  - Need to freeze costo turkey and stuffing and then stick in the fridge for 20 days to see what happens.
-**** TODO Make beef queso samples                         :Benchwork:Samples:
-     SCHEDULED: <2017-06-21 Wed>
+**** DONE Make beef queso samples                         :Benchwork:Samples:
+     CLOSED: [2017-06-27 Tue 12:46] SCHEDULED: <2017-06-21 Wed>
 
+     - CLOSING NOTE [2017-06-27 Tue 12:46] \\
+       Samples sent by Aubrey on 6/26.
 * Tasks
 
 ** TODO Need to perform micro testing on the Veggie and Dressing blend on day 53
