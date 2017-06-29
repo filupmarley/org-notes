@@ -35,10 +35,18 @@
   CLOCK: [2017-05-17 Wed 15:47]--[2017-05-17 Wed 15:47] =>  0:00
   :END:
 [2017-05-17 Wed 15:47]
-* TODO Decide if Thursday of Friday will work best for Microbac visit
-  DEADLINE: <2017-06-23 Fri>
+* CANCELLED Decide if Thursday of Friday will work best for Microbac visit :CANCELLED:
+  CLOSED: [2017-06-29 Thu 10:12] DEADLINE: <2017-06-23 Fri>
+  - State "CANCELLED"  from "TODO"       [2017-06-29 Thu 10:12] \\
+    I will come back to this.
   :LOGBOOK:
   CLOCK: [2017-06-20 Tue 15:29]--[2017-06-20 Tue 15:30] =>  0:01
   :END:
 [2017-06-20 Tue 15:29]
 [[file:~/files/org-files/Champs%20(PFS).org::*Projects][Projects]]
+* TODO Check with Jen about pH probe and salsa
+  DEADLINE: <2017-06-30 Fri>
+  :LOGBOOK:
+  CLOCK: [2017-06-29 Thu 09:24]--[2017-06-29 Thu 09:25] =>  0:01
+  :END:
+[2017-06-29 Thu 09:24]

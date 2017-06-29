@@ -89,3 +89,10 @@
 
 
 * Tasks
+
+**** SHIP [#C] Ship samples of quesos to Jay Alley for tailgate concept [0/4]
+     DEADLINE: <2017-07-10 Mon>
+ - [ ] 2 bags of Yellow Queso with Peppers (grab from inventory)
+ - [ ] 2 bags of Queso with Chorizo (grab form inventory)
+ - [ ] 2 bags of Blanco Queso (need to make)
+ - [ ] 6 HEB 16oz Queso Dips. Any flavor is fine.

@@ -7,11 +7,12 @@
      SCHEDULED: <2017-06-28 Wed>
      - State "HOLD"       from "TODO"       [2017-06-26 Mon 16:28] \\
        [2017-06-26 Mon 16:29] On hold until further notice from Dan.
- - Champs wants a fully seasoned beef ready to serve.
- - Ideally shredded but they are aware they we do not have the capability to do this prior to be cooked and do not want us to drain it.
- - For now stick to the diced samples.
- - Keep ingredients at their current level, but add a small amount of beef base (Aus Jus base) for an enhanced beef flavor, and some lime to help balance out all the other flavors.
- - No starch.
+     - Champs wants a fully seasoned beef ready to serve.
+     - Ideally shredded but they are aware they we do not have the capability to do this prior to be cooked and do not want us to drain it.
+     - For now stick to the diced samples.
+     - Keep ingredients at their current level, but add a small amount of beef base (Aus Jus base) for an enhanced beef flavor, and some lime to help balance out all the other flavors.
+     - Add small amount of Champs seasoning blend (5gr/1lb)
+     - No starch.
 *** [2017-06-13 Tue 09:15]
  - Wants only diced option
 **** DONE Make samples of Sous Vide Beef
@@ -192,13 +193,17 @@
  - No protein seasoning at this point.
 ** Queso
 *** [2017-06-26 Mon 09:34]
-**** TODO Make sample of Champs Queso option #1
-     SCHEDULED: <2017-06-27 Tue>
+**** DONE Make sample of Champs Queso option #1
+     CLOSED: [2017-06-29 Thu 10:06] SCHEDULED: <2017-06-27 Tue>
+     - CLOSING NOTE [2017-06-29 Thu 10:06] \\
+       Completed by Tony
  - Bongard Xtra Melt flavor profile is preferred.
  - Consistency is good but the coloration was off. It needs to remain white-beige.
  - Need to include chiles in formula moving forward. If this causing an increase in heat it will be ok, however the heat level needs to remain mild-medium.
-**** TODO Make sample of Champs Queso option #2
-     SCHEDULED: <2017-06-27 Tue>
+**** DONE Make sample of Champs Queso option #2
+     CLOSED: [2017-06-29 Thu 10:07] SCHEDULED: <2017-06-27 Tue>
+     - CLOSING NOTE [2017-06-29 Thu 10:07] \\
+       Completed by tony
  - Same base formula as Option #1
  - Use Bongard:Pepper Jack blend. Approximateley 60:40 blend.
 *** [2017-06-07 Wed 10:58] Additional sample feedback from PFS
@@ -455,6 +460,15 @@ Initial formula received from Champs. Jen to enter into our system
  - [X] Pinto Beans thinner broth
 
 * General Tasks
+** DONE Ship Queso and Bean samples to jeremy
+   CLOSED: [2017-06-29 Thu 15:59]
+   - CLOSING NOTE [2017-06-29 Thu 15:59] \\
+     Sent the following on 6/29 to deliver on 6/30:
+      - Tracking # 779527552471
+      - Queso CC-MWQ-06
+      - Queso CC-MWQ-07
+      - Black Beans: JAF-CBB-11A
+      - Pinto Beans: JAF-CBB-11B
 ** DONE [#A] Ship Jeremy 40 S-Boxes. [5/5]
    CLOSED: [2017-05-18 Thu 10:11] DEADLINE: <2017-05-15 Mon> SCHEDULED: <2017-05-11 Thu>
 
@@ -466,7 +480,6 @@ Initial formula received from Champs. Jen to enter into our system
   - [X] Apply labels to case
   - [X] Box needs to be printed with code date.
   - [X] Get with Arlo to get printer setup for code printing
-
 ** CANCELLED Take a look at using creamed corn in Champs Corn     :CANCELLED:
    CLOSED: [2017-05-18 Thu 10:16] DEADLINE: <2017-05-15 Mon>
    

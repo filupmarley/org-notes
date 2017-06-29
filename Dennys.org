@@ -4,7 +4,7 @@
 
 ** Meatloaf
 *** [2017-06-01 Thu 11:31]
-**** TODO Update Denny's Meatloaf formula
+**** IN-PROGRESS Update Denny's Meatloaf formula
      DEADLINE: <2017-06-30 Fri>
 update cooking temp and wip formula
 *** [2017-05-26 Fri 10:57]
