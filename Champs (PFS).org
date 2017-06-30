@@ -405,13 +405,13 @@
 *** [2017-06-26 Mon 10:08]
 Initial formula received from Champs. Jen to enter into our system
 **** TODO Make samples of Champs Honey Habanero Salsa.
-     SCHEDULED: <2017-07-07 Fri>
+     SCHEDULED: <2017-07-06 Thu>
      NOTE: [2017-06-27 Tue 12:48] //
       - Control sample is on the way. Will arrive on Thursday 6/29. Tracking #668478107535
 ** Green Chile Sauce
 *** [2017-06-26 Mon 09:42]
 **** TODO Make sample of Champs Green Chile Sauce
-     SCHEDULED: <2017-07-05 Wed>
+     SCHEDULED: <2017-07-06 Thu>
   - Thiss will be a green sauce that is utilized to top burritos.
   - Will use salsa verde as the base.
   - Once the salsa verde is approved. We will take the Verde and add both poblanos and green chiles.

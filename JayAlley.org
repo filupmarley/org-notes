@@ -96,3 +96,11 @@
  - [ ] 2 bags of Queso with Chorizo (grab form inventory)
  - [ ] 2 bags of Blanco Queso (need to make)
  - [ ] 6 HEB 16oz Queso Dips. Any flavor is fine.
+
+**** TODO Make Jay Alley Chorizo Queso
+     SCHEDULED: <2017-07-07 Fri>
+ - 2/5lb samples
+
+**** TODO Make Jay Alley Blanco Queso
+     SCHEDULED: <2017-07-07 Fri>
+ - 2/5lb sample

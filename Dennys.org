@@ -1,11 +1,17 @@
 #+TITLE: Denny's
 
 * Projects
-
+  
 ** Meatloaf
+*** [2017-06-30 Fri 15:41]
+**** TODO Process 110 lbs of Denny's Meatloaf
+ - 25 loaves Cooked
+ - 25 loaves Raw (No cooking). Otherwise, processed the same as cooked product. Customer will cook at store.
 *** [2017-06-01 Thu 11:31]
-**** IN-PROGRESS Update Denny's Meatloaf formula
-     DEADLINE: <2017-06-30 Fri>
+*** 
+**** DONE Update Denny's Meatloaf formula
+     CLOSED: [2017-06-30 Fri 15:40] DEADLINE: <2017-06-30 Fri>
+     - CLOSING NOTE [2017-06-30 Fri 15:40]
 update cooking temp and wip formula
 *** [2017-05-26 Fri 10:57]
  - Meatloaf sous vide cooked for 65 minutes.

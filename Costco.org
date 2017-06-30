@@ -53,7 +53,7 @@
 ** Turkey Dressing
 *** [2017-06-16 Fri 13:49]
 **** TODO [#B] Perform Freeze/thaw testing on Costco stuffing
-     SCHEDULED: <2017-06-19 Mon>
+     SCHEDULED: <2017-07-11 Tue>
  - Need to freeze costo turkey and stuffing and then stick in the fridge for 20 days to see what happens.
 **** DONE Make beef queso samples                         :Benchwork:Samples:
      CLOSED: [2017-06-27 Tue 12:46] SCHEDULED: <2017-06-21 Wed>
