@@ -192,6 +192,17 @@
  - The initial direction is to keep the house seasoning at the same level as the current product; however we will need to add a small amount of IQF cilantro and some lime.
  - No protein seasoning at this point.
 ** Queso
+*** [2017-07-03 Mon 15:24] Sample feedback
+**** TODO Look at queso retain try adding salt/club cheddar for increased flavor.
+***** Queso
+  - Champs prefer Version CC-MWQ-06 that has the pepper jack cheese in the product.
+  - The preference is to be slightly thicker and a 5-10% increase in Green Chiles.
+  - Champs is still seeking to get more of a cheese delivery (flavor) from this.
+    - Jeremy's initial suggestion is to increase in salt to possibly bring the cheese flavor out more, but then mentioned cheese flavoring etc.
+    - In the past we have utilized the Club Cheddar to provide this additional flavor.
+      SCHEDULED: <2017-07-07 Fri>
+   - If we have some retention bags available than lets heat a portion of it, and add salt to some and the uncolored cheddar to the other portion.
+   - We can sample these to see if it adds value.
 *** [2017-06-26 Mon 09:34]
 **** DONE Make sample of Champs Queso option #1
      CLOSED: [2017-06-29 Thu 10:06] SCHEDULED: <2017-06-27 Tue>
@@ -203,7 +214,7 @@
 **** DONE Make sample of Champs Queso option #2
      CLOSED: [2017-06-29 Thu 10:07] SCHEDULED: <2017-06-27 Tue>
      - CLOSING NOTE [2017-06-29 Thu 10:07] \\
-       Completed by tony
+       Completed by tony Labeled as Variable # CC-MWQ-06
  - Same base formula as Option #1
  - Use Bongard:Pepper Jack blend. Approximateley 60:40 blend.
 *** [2017-06-07 Wed 10:58] Additional sample feedback from PFS
@@ -280,6 +291,14 @@
    - Mild to medium heat use capsicum.
 
 ** Black Beans
+*** [2017-07-03 Mon 15:33] Sample Feedback
+**** TODO Make another round of Black Beans with Jeremy
+     SCHEDULED: <2017-07-05 Wed>
+ - Comments based on sample # JAF-CBB-11A
+ - Still too thick with not enough moisture.
+ - The starch appears to be giving the slurry an off-color white appearance. Champs would like to avoid this if at all possible.
+ - The suggestion is try a gum in place of a starch to provide less of the off color. With more moisture means we will need more seasoning.
+ - Considering this item is kettle cooked I’d like to have all ingredients over at Harding on Wednesday so we can make a sample batch while he is here.
 *** [2017-06-26 Mon 09:31]
 **** TODO Make Sample of Champs Black Beans
      SCHEDULED: <2017-06-28 Wed>
@@ -336,6 +355,14 @@
       Mike is evaluating these costs.Could have it today (5/15/2017)
 
 ** Pinto Beans
+*** [2017-07-03 Mon 15:33] Sample Feedback
+**** TODO Make another round of Pinto Beans with Jeremy
+     SCHEDULED: <2017-07-05 Wed>
+ - Comments based on sample # JAF-CBB-11B
+ - Still too thick with not enough moisture.
+ - The starch appears to be giving the slurry an off-color white appearance. Champs would like to avoid this if at all possible.
+ - The suggestion is try a gum in place of a starch to provide less of the off color. With more moisture means we will need more seasoning.
+ - Considering this item is kettle cooked I’d like to have all ingredients over at Harding on Wednesday so we can make a sample batch while he is here.
 *** [2017-06-26 Mon 09:33]
 **** TODO Make Sample of Champs Pinto Beans
      SCHEDULED: <2017-06-28 Wed>
@@ -423,6 +450,7 @@ Initial formula received from Champs. Jen to enter into our system
 *** [2017-06-26 Mon 09:46]
 **** TODO Make samples of Champs IQF Rice
      SCHEDULED: <2017-07-05 Wed>
+ - 5 grams seasoning per 1 lb cooked rice.
  - Jeremy has developed a rice seasoning blend that he will send samples for us to use.
  - We will take this seasoning and blend it with the rice. This item should not require any further cooking.
  - Brent suggest using the 4-up dye on the Multivac as a starting point.
