@@ -194,15 +194,21 @@
 ** Queso
 *** [2017-07-03 Mon 15:24] Sample feedback
 **** TODO Look at queso retain try adding salt/club cheddar for increased flavor.
+      SCHEDULED: <2017-07-07 Fri>
 ***** Queso
+  - [2017-07-05 Wed 16:19] Lab tasting with Jeremy
+    - Needs additional salt
+    - Needs more cheese flavor. Most likely use club cheddar. We can use colored or uncolored depending on usage level. We don't want to impart too much color.
+    - Could use Blue Cheese flavor as well.
+    - More Green chiles
+    - More starch
   - Champs prefer Version CC-MWQ-06 that has the pepper jack cheese in the product.
   - The preference is to be slightly thicker and a 5-10% increase in Green Chiles.
   - Champs is still seeking to get more of a cheese delivery (flavor) from this.
     - Jeremy's initial suggestion is to increase in salt to possibly bring the cheese flavor out more, but then mentioned cheese flavoring etc.
     - In the past we have utilized the Club Cheddar to provide this additional flavor.
-      SCHEDULED: <2017-07-07 Fri>
-   - If we have some retention bags available than lets heat a portion of it, and add salt to some and the uncolored cheddar to the other portion.
-   - We can sample these to see if it adds value.
+  - If we have some retention bags available than lets heat a portion of it, and add salt to some and the uncolored cheddar to the other portion.
+    - We can sample these to see if it adds value.
 *** [2017-06-26 Mon 09:34]
 **** DONE Make sample of Champs Queso option #1
      CLOSED: [2017-06-29 Thu 10:06] SCHEDULED: <2017-06-27 Tue>
@@ -411,6 +417,9 @@
 *** [2017-06-26 Mon 09:52]
 **** TODO Make sample of Champs Salsa Verde
      SCHEDULED: <2017-07-07 Fri>
+- [2017-07-05 Wed 16:22] Lab tasting with Jeremy
+  - Like to have a slighly finer appearance
+  - Increase Oregano and salt.
 - Reduce citric acid flavor
 - Tomatillos we used provided a different flavor. We may need to  buy/source the tomatillos that Jeremy spec’d to see if our formula is a match to his. 
 
