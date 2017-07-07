@@ -50,4 +50,9 @@
   CLOCK: [2017-06-29 Thu 09:24]--[2017-06-29 Thu 09:25] =>  0:01
   :END:
 [2017-06-29 Thu 09:24]
-
+* TODO Look into tortilla and cilantro usage for Enchilada Kit. 
+  SCHEDULED: <2017-07-11 Tue>
+  :LOGBOOK:
+  CLOCK: [2017-07-07 Fri 09:52]--[2017-07-07 Fri 09:53] =>  0:01
+  :END:
+[2017-07-07 Fri 09:52]

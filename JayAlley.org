@@ -54,53 +54,25 @@
    - These need to match R&D samples sent out on 3/28/2017. These samples were made on 3/27 (P2 variable).
    - P2 variable increased the starch from 0.954% to 1.296% (35.8% increase)
 
-** DONE [#A] Ship all Jay Alley Chicken Salad Products  out for HPP processing [5/5][100%]
-   CLOSED: [2017-06-12 Mon 14:09] DEADLINE: <2017-06-19 Mon>
-   - CLOSING NOTE [2017-06-12 Mon 14:09] \\
-     Savory sample sent out for HPP on 6/12. Should come back later this week.
-- [X] 2-lb pouch sample Savory Chicken Salad
-  - shipiing on Monday
-  - Trcking #: 779372806239
-- [X] 4-lb pouch sample Cranberry Chicken Salad
-  - Sample due back from HPP on 6/13
-- [X] 12 oz tub sample Cranberry Chicken Salad
-  - Sample due back from HPP on 6/13
-- [X] 24-oz tub sample Cranberry Chicken Salad
-  - Sample due back from HPP on 6/13
-- [X] 40-oz tub sample Cranberry Chicken Salad
-  - Sample due back from HPP on 6/13
- - Making prototypes today (6/14) to determine how the kit approach will work.
-** DONE [#A] Ship all Jay Alley Chicken Salad Dressings to Customer  [6/6] [100%] :Ship:
-   CLOSED: [2017-06-19 Mon 13:44] DEADLINE: <2017-06-19 Mon>
-   - CLOSING NOTE [2017-06-19 Mon 13:44] \\
-     1 guac kit
-     2 samples of 2 lb savory
-     2 samples each of 4 lb, 12/24/40 oz cranberry
-     
-     tracking #: 779437702757
-- [X] Guacamole Chicken Salad kit
-  - [2017-06-19 Mon 09:00] This item was changed to a kit
-  - 1 sample sent
-- [X] 2-lb pouch sample Savory Chicken Salad 2 samples sent
-- [X] 4-lb pouch sample Cranberry Chicken Salad 2 samples sent
-- [X] 12 oz tub sample Cranberry Chicken Salad 2 samples sent
-- [X] 24-oz tub sample Cranberry Chicken Salad 2 samples sent
-- [X] 40-oz tub sample Cranberry Chicken Salad 2 samples sent
-
-
 * Tasks
 
-**** SHIP [#C] Ship samples of quesos to Jay Alley for tailgate concept [0/4]
+**** SHIP [#A] Ship samples of quesos to Jay Alley for tailgate concept [4/4] :SHIP:
      DEADLINE: <2017-07-10 Mon>
- - [ ] 2 bags of Yellow Queso with Peppers (grab from inventory)
- - [ ] 2 bags of Queso with Chorizo (grab form inventory)
- - [ ] 2 bags of Blanco Queso (need to make)
- - [ ] 6 HEB 16oz Queso Dips. Any flavor is fine.
+     - State "SHIP"       from "SHIP"       [2017-07-07 Fri 13:22] \\
+       Shipping on Monday
+ - [X] 2 bags of Yellow Queso with Peppers (grab from inventory)
+ - [X] 2 bags of Queso with Chorizo (grab form inventory)
+ - [X] 2 bags of Blanco Queso (need to make)
+ - [X] 6 HEB 16oz Queso Dips. Any flavor is fine.
 
-**** TODO Make Jay Alley Chorizo Queso
-     SCHEDULED: <2017-07-07 Fri>
+**** CANCELLED Make Jay Alley Chorizo Queso                       :CANCELLED:
+     CLOSED: [2017-07-07 Fri 13:25] SCHEDULED: <2017-07-07 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-07-07 Fri 13:25] \\
+       We had product in inventory to ship so no benchwork was needed.
  - 2/5lb samples
 
-**** TODO Make Jay Alley Blanco Queso
-     SCHEDULED: <2017-07-07 Fri>
+**** DONE Make Jay Alley Blanco Queso
+     CLOSED: [2017-07-07 Fri 13:27] SCHEDULED: <2017-07-07 Fri>
+     - CLOSING NOTE [2017-07-07 Fri 13:27] \\
+       Completed today (7/7)
  - 2/5lb sample
