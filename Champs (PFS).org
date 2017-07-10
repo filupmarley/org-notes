@@ -5,6 +5,8 @@
 *** [2017-07-07 Fri 15:06]
 **** TODO [#B] Make samples of SV Beef for Champs                 :Benchwork:
      DEADLINE: <2017-07-14 Fri>
+     [2017-07-10 Mon 12:11] NOTE //
+     Beef SV cooked on 7/10. First 2hr cook was in the production sv tank, but it needed to be removed to make room for production. the remaining 2 hr cook happened in the R&D lab in a water bath.
  - Use variable #CC-SVB-08
  - cook plain protein, shred, then add seasoning and purge.
 *** [2017-06-26 Mon 09:23]
@@ -195,8 +197,10 @@
   [[file:~/files/org-files/Chesters.org::*Projects][Projects]]
 ** Sous Vide Chicken Option #2
 *** [2017-07-07 Fri 15:01]
-**** TODO [#B] Make SV Chicken with cilantro and lime             :Benchwork:
+**** IN-PROGRESS [#B] Make SV Chicken with cilantro and lime      :Benchwork:
      DEADLINE: <2017-07-14 Fri>
+     [2017-07-10 Mon 12:08] NOTE//
+     - Chicken 2hr SV cooked on 7/10. It was plain, no seasoning added.
  - Cook plain
  - Shred chicken and cilantro lime flavor.
  - House Seasoning at same level as current pulled chicken product.

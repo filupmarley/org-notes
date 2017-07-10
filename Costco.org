@@ -6,6 +6,33 @@
 *** [2017-05-25 Thu 10:41]
  - Looking to get 90 days shelf life to gaurantee 60 days for Costco.
 ** Chicken Salad Dressing
+*** [2017-07-10 Mon 10:59]
+Eggless salad dressing base
+ - Vendors
+   - Ventura foods
+   - Southern Classic
+**** TODO [#A] Receive eggless salad dressing bases from Ventura Foods
+     DEADLINE: <2017-07-11 Tue>
+**** DONE Ship Chicken, onions and celery to Southern Classic
+     CLOSED: [2017-07-10 Mon 16:02] DEADLINE: <2017-07-10 Mon>
+     - State "DONE"       from "SHIP"       [2017-07-10 Mon 16:02]
+       //NOTE [2017-07-10 Mon 16:03]
+       Shipped on 7/10. Tracking # 779593323047
+**** TODO [#A] Process Ventura foods salad dressing bases with veggies
+ - Salad Dressing base with onions and celery only.
+ - No chicken added
+**** SHIP [#A] Ship Ventura Foods salad dressing base out for HPP processing [0/2]:SHIP:
+     DEADLINE: <2017-07-11 Tue>
+ - [ ] Chicken Salad Dressing with onions and celery
+ - [ ] Eggless Chicken Salad Dressing with onions and celery
+**** SHIP [#A] Have samples sent from HPP site to Nic Lyons and Karen (R&D) [0/2]
+     DEADLINE: <2017-07-13 Thu>
+ - [ ] Chicken Salad Dressing [0/2]
+   - [ ] Two CSD for Nic
+   - [ ] One CSD for Karan
+ - [ ] Eggless Chickne Salad Dressing [0/2]
+   - [ ] Two eggless for Nic
+   - [ ] One eggless for Karen
 *** [2017-05-25 Thu 10:41]
  - Looking to get 90 days shelf life to gaurantee 60 days for Costco.
 *** [2017-05-19 Fri 10:21]
