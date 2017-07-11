@@ -1,28 +1,12 @@
 #+TITLE: @Home
 
-* DONE Contact Duke Energy
-  CLOSED: [2017-05-24 Wed 16:14]
-  - CLOSING NOTE [2017-05-24 Wed 16:14] \\
-    Contacted on 5/24. Effective shutoff date is 5/29
- - Account #: 3330-2205-02-2
-[2017-05-24 Wed 14:30]
- - Contacted Duke via online to cancel service. Effective date is 5/29.
-
-* DONE Contact Tate Monroe
-  CLOSED: [2017-05-24 Wed 14:41]
-  - CLOSING NOTE [2017-05-24 Wed 14:41] \\
-    Completed
-[2017-05-24 Wed 14:36]
- - Contacted today to cancel service. Effecttive date is 5/25/2017.
-
-** CANCELLED Need to contact buyer to get ahold of Tate Monroe.   :CANCELLED:
-   CLOSED: [2017-05-24 Wed 16:15]
-
-   - State "CANCELLED"  from "TODO"       [2017-05-24 Wed 16:15] \\
-     I don't have any contact information for the buyers.
-* DONE Contact Clermont Co. Sewer
-  CLOSED: [2017-05-24 Wed 14:42]
-  - CLOSING NOTE [2017-05-24 Wed 14:42] \\
-    completed
-[2017-05-24 Wed 14:42]
- - Contacted today to cancel service. Once Tata Monroe gets final water read, sewer will be canceled as well.
+* Netflix Interest
+ - Broadchurch
+ - River
+ - Is Genesis History
+ - Longmire
+ - Justifified
+ - How to get away with murder
+ - The Crown
+ - Blacklist
+ - The Keepers

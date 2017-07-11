@@ -6,7 +6,10 @@
 *** [2017-06-30 Fri 15:41]
 **** TODO Process 110 lbs of Denny's Meatloaf
  - 25 loaves Cooked
+   - // NOTE [2017-07-11 Tue 15:03] 24 loaves are being cooked on 7/11
  - 25 loaves Raw (No cooking). Otherwise, processed the same as cooked product. Customer will cook at store.
+**** TODO Ship meatloaf samples to Denny's
+     SCHEDULED: <2017-07-13 Thu>
 *** [2017-06-01 Thu 11:31]
 *** 
 **** DONE Update Denny's Meatloaf formula

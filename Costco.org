@@ -11,20 +11,26 @@ Eggless salad dressing base
  - Vendors
    - Ventura foods
    - Southern Classic
-**** TODO [#A] Receive eggless salad dressing bases from Ventura Foods
-     DEADLINE: <2017-07-11 Tue>
+**** DONE [#A] Receive eggless salad dressing bases from Ventura Foods
+     CLOSED: [2017-07-11 Tue 09:35] DEADLINE: <2017-07-11 Tue>
+     - CLOSING NOTE [2017-07-11 Tue 09:35] \\
+       4/1 gallon containers received on 7/11 @9:00. 2/1 gallon containers of control and 2/1 gallons containers of eggless.
 **** DONE Ship Chicken, onions and celery to Southern Classic
      CLOSED: [2017-07-10 Mon 16:02] DEADLINE: <2017-07-10 Mon>
      - State "DONE"       from "SHIP"       [2017-07-10 Mon 16:02]
        //NOTE [2017-07-10 Mon 16:03]
        Shipped on 7/10. Tracking # 779593323047
-**** TODO [#A] Process Ventura foods salad dressing bases with veggies
+**** DONE [#A] Process Ventura foods salad dressing bases with veggies
+     CLOSED: [2017-07-11 Tue 11:36]
+     - CLOSING NOTE [2017-07-11 Tue 11:36] \\
+       4 bags of each variable were produced
  - Salad Dressing base with onions and celery only.
  - No chicken added
-**** SHIP [#A] Ship Ventura Foods salad dressing base out for HPP processing [0/2]:SHIP:
-     DEADLINE: <2017-07-11 Tue>
- - [ ] Chicken Salad Dressing with onions and celery
- - [ ] Eggless Chicken Salad Dressing with onions and celery
+**** DONE [#A] Ship Ventura Foods salad dressing base out for HPP processing [2/2]:SHIP:
+     CLOSED: [2017-07-11 Tue 15:18] DEADLINE: <2017-07-11 Tue>
+     - State "DONE"       from "SHIP"       [2017-07-11 Tue 15:18]
+ - [X] Chicken Salad Dressing with onions and celery
+ - [X] Eggless Chicken Salad Dressing with onions and celery
 **** SHIP [#A] Have samples sent from HPP site to Nic Lyons and Karen (R&D) [0/2]
      DEADLINE: <2017-07-13 Thu>
  - [ ] Chicken Salad Dressing [0/2]
@@ -79,7 +85,7 @@ Eggless salad dressing base
        Sent a followup note to Morgan on 6/19
 ** Turkey Dressing
 *** [2017-06-16 Fri 13:49]
-**** TODO [#B] Perform Freeze/thaw testing on Costco stuffing
+**** IN-PROGRESS [#B] Perform Freeze/thaw testing on Costco stuffing
      SCHEDULED: <2017-07-11 Tue>
  - Need to freeze costo turkey and stuffing and then stick in the fridge for 20 days to see what happens.
 **** DONE Make beef queso samples                         :Benchwork:Samples:

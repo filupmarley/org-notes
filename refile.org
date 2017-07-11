@@ -50,8 +50,10 @@
   CLOCK: [2017-06-29 Thu 09:24]--[2017-06-29 Thu 09:25] =>  0:01
   :END:
 [2017-06-29 Thu 09:24]
-* TODO Look into tortilla and cilantro usage for Enchilada Kit. 
-  SCHEDULED: <2017-07-11 Tue>
+* DONE Look into tortilla and cilantro usage for Enchilada Kit.
+  CLOSED: [2017-07-11 Tue 15:24] SCHEDULED: <2017-07-11 Tue>
+  - CLOSING NOTE [2017-07-11 Tue 15:24] \\
+    Looks like damaged bags of tortilla and cilantro are adding up over time.
   :LOGBOOK:
   CLOCK: [2017-07-07 Fri 09:52]--[2017-07-07 Fri 09:53] =>  0:01
   :END:
