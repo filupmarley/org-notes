@@ -197,8 +197,11 @@
   [[file:~/files/org-files/Chesters.org::*Projects][Projects]]
 ** Sous Vide Chicken Option #2
 *** [2017-07-07 Fri 15:01]
-**** IN-PROGRESS [#B] Make SV Chicken with cilantro and lime      :Benchwork:
-     DEADLINE: <2017-07-14 Fri>
+**** DONE [#B] Make SV Chicken with cilantro and lime             :Benchwork:
+     CLOSED: [2017-07-12 Wed 15:44] DEADLINE: <2017-07-14 Fri>
+     - CLOSING NOTE [2017-07-12 Wed 15:44] \\
+       This did not go well. Product did not shred well being cold. Dan did not like what he saw. 
+       No further work to be done with this process per Dan.
      [2017-07-10 Mon 12:08] NOTE//
      - Chicken 2hr SV cooked on 7/10. It was plain, no seasoning added.
  - Cook plain
@@ -219,6 +222,9 @@
 *** [2017-07-07 Fri 14:05]
 **** TODO [#B] Make Queso samples for Champs                      :Benchwork:
      DEADLINE: <2017-07-14 Fri>
+     - NOTE [2017-07-12 Wed 15:47] \\
+       On the docket for Thursday 7/13.
+
  - Moving forward with queso using Bongard/Pepper Jack. (CC-MWQ-06)
  - added colored club cheddar, added salt, added green chiles, added starch
  - Version 1
@@ -334,8 +340,10 @@
 
 ** Black Beans
 *** [2017-07-07 Fri 14:17]
-**** TODO [#B] Make samples of of Black Beans for Champs          :Benchwork:
-     DEADLINE: <2017-07-14 Fri>
+**** DONE [#B] Make samples of of Black Beans for Champs          :Benchwork:
+     CLOSED: [2017-07-12 Wed 15:48] DEADLINE: <2017-07-14 Fri>
+     - CLOSING NOTE [2017-07-12 Wed 15:48] \\
+       Completed on 7/12. Samples look good. Good consistency and color.
  - Use varialbe #JAF-CBB-15A as base
  - using roux, but at decreased level [1%??]
  - with added water and possibly some caramel color and starch as control.
@@ -410,8 +418,10 @@
 
 ** Pinto Beans
 *** [2017-07-07 Fri 14:59]
-**** TODO [#B] Make samples of of Pinto Beans for Champs
-     DEADLINE: <2017-07-14 Fri>
+**** DONE [#B] Make samples of of Pinto Beans for Champs
+     CLOSED: [2017-07-12 Wed 15:49] DEADLINE: <2017-07-14 Fri>
+     - CLOSING NOTE [2017-07-12 Wed 15:49] \\
+       Completed on 7/12. Samples look good. Good consistency and color.
  - Use variable #JAF-CBB-15B as base.
  - using roux, but at decreased level [1%??]
  - with added water and possibly some caramel color and starch as control.
@@ -474,8 +484,10 @@
  - Brent updated processing sheets on Tuesday (5/23) to reflect thicker sauce and 1% egg noodle. Ready for production.
 ** Salsa Verde
 *** [2017-07-07 Fri 14:14]
-**** TODO [#B] Make Salsa Verde for Champs                        :Benchwork:
+**** IN-PROGRESS [#B] Make Salsa Verde for Champs                 :Benchwork:
      DEADLINE: <2017-07-14 Fri>
+     - NOTE [2017-07-12 Wed 15:49] \\
+       SV cooked on 7/12
  - Added oregano, smaller pieces of tomatillos
 *** [2017-06-26 Mon 09:52]
 **** DONE Make sample of Champs Salsa Verde

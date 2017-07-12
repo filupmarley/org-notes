@@ -29,8 +29,10 @@ Eggless salad dressing base
 **** DONE [#A] Ship Ventura Foods salad dressing base out for HPP processing [2/2]:SHIP:
      CLOSED: [2017-07-11 Tue 15:18] DEADLINE: <2017-07-11 Tue>
      - State "DONE"       from "SHIP"       [2017-07-11 Tue 15:18]
- - [X] Chicken Salad Dressing with onions and celery
- - [X] Eggless Chicken Salad Dressing with onions and celery
+     - NOTE - Shipment tracking number is 779604989699
+     - NOTE - Confirmed packages were delivered to HPP site on 7/12.
+     - [X] Chicken Salad Dressing with onions and celery
+     - [X] Eggless Chicken Salad Dressing with onions and celery
 **** SHIP [#A] Have samples sent from HPP site to Nic Lyons and Karen (R&D) [0/2]
      DEADLINE: <2017-07-13 Thu>
  - [ ] Chicken Salad Dressing [0/2]
