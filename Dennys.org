@@ -8,8 +8,11 @@
  - 25 loaves Cooked
    - // NOTE [2017-07-11 Tue 15:03] 24 loaves are being cooked on 7/11
  - 25 loaves Raw (No cooking). Otherwise, processed the same as cooked product. Customer will cook at store.
-**** TODO [#A] Ship meatloaf samples to Denny's
-     SCHEDULED: <2017-07-13 Thu>
+**** DONE [#A] Ship meatloaf samples to Denny's
+     CLOSED: [2017-07-13 Thu 15:47] SCHEDULED: <2017-07-13 Thu>
+     - CLOSING NOTE [2017-07-13 Thu 15:47] \\
+       Shipped on 7/13 to deliver on 7/14. Fedex Tracking # is: 779626253899
+       4 cases total - 2 cooked and 2 uncooked (no kitchen bouquet added)
 *** [2017-06-01 Thu 11:31]
 *** 
 **** DONE Update Denny's Meatloaf formula

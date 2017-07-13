@@ -3,8 +3,10 @@
 * Projects
 ** Sous Vide Beef
 *** [2017-07-07 Fri 15:06]
-**** TODO [#B] Make samples of SV Beef for Champs                 :Benchwork:
-     DEADLINE: <2017-07-14 Fri>
+**** DONE [#B] Make samples of SV Beef for Champs                 :Benchwork:
+     CLOSED: [2017-07-13 Thu 12:27] DEADLINE: <2017-07-14 Fri>
+     - CLOSING NOTE [2017-07-13 Thu 12:27] \\
+       Shredded and added seasonings and purge. Tumbled for 5 minutes. Product looks good.
      [2017-07-10 Mon 12:11] NOTE //
      Beef SV cooked on 7/10. First 2hr cook was in the production sv tank, but it needed to be removed to make room for production. the remaining 2 hr cook happened in the R&D lab in a water bath.
  - Use variable #CC-SVB-08
@@ -73,8 +75,11 @@
 
 ** Sous Vide Pork
 *** [2017-07-07 Fri 15:03]
-**** TODO [#B] Make Sv Pork samples for Champs                    :Benchwork:
-     DEADLINE: <2017-07-14 Fri>
+**** DONE [#B] Make Sv Pork samples for Champs                    :Benchwork:
+     CLOSED: [2017-07-13 Thu 12:28] DEADLINE: <2017-07-14 Fri>
+     - CLOSING NOTE [2017-07-13 Thu 12:28] \\
+       Shredded and mixed with seasonings and purge in tumbler for 5 minutes. Product looks good.
+       Looked at 10% and 20% seasoning reduction.
  - Use varialbe #CC-SVP-09
  - cook plain protein, shred, then add seasoning and purge
 *** [2017-06-26 Mon 09:27]
@@ -200,8 +205,7 @@
 **** DONE [#B] Make SV Chicken with cilantro and lime             :Benchwork:
      CLOSED: [2017-07-12 Wed 15:44] DEADLINE: <2017-07-14 Fri>
      - CLOSING NOTE [2017-07-12 Wed 15:44] \\
-       This did not go well. Product did not shred well being cold. Dan did not like what he saw. 
-       No further work to be done with this process per Dan.
+       Shredded and mixed with seasonings and purge. 1 variable included Champs house seasoning as well.
      [2017-07-10 Mon 12:08] NOTE//
      - Chicken 2hr SV cooked on 7/10. It was plain, no seasoning added.
  - Cook plain
@@ -222,15 +226,18 @@
 *** [2017-07-07 Fri 14:05]
 **** TODO [#B] Make Queso samples for Champs                      :Benchwork:
      DEADLINE: <2017-07-14 Fri>
+     - NOTE [2017-07-13 Thu 12:30] \\
+       Moved to Friday 7/14.
+
      - NOTE [2017-07-12 Wed 15:47] \\
        On the docket for Thursday 7/13.
 
- - Moving forward with queso using Bongard/Pepper Jack. (CC-MWQ-06)
- - added colored club cheddar, added salt, added green chiles, added starch
- - Version 1
-   - Add Red Pepper Flakes, Green Chilies (5-10%) and more Starch
- - Version 2
-   - Add Dried Red Bell Pepper, Green Chilies (5-10%) and more Starch
+     - Moving forward with queso using Bongard/Pepper Jack. (CC-MWQ-06)
+     - added colored club cheddar, added salt, added green chiles, added starch
+     - Version 1
+       - Add Red Pepper Flakes, Green Chilies (5-10%) and more Starch
+     - Version 2
+       - Add Dried Red Bell Pepper, Green Chilies (5-10%) and more Starch
 *** [2017-07-03 Mon 15:24] Sample feedback
 *** 
 **** DONE Look at queso retain try adding salt/club cheddar for increased flavor.
@@ -484,8 +491,10 @@
  - Brent updated processing sheets on Tuesday (5/23) to reflect thicker sauce and 1% egg noodle. Ready for production.
 ** Salsa Verde
 *** [2017-07-07 Fri 14:14]
-**** IN-PROGRESS [#B] Make Salsa Verde for Champs                 :Benchwork:
-     DEADLINE: <2017-07-14 Fri>
+**** DONE [#B] Make Salsa Verde for Champs                        :Benchwork:
+     CLOSED: [2017-07-13 Thu 12:31] DEADLINE: <2017-07-14 Fri>
+     - CLOSING NOTE [2017-07-13 Thu 12:31] \\
+       Samples completed on 7/12.
      - NOTE [2017-07-12 Wed 15:49] \\
        SV cooked on 7/12
  - Added oregano, smaller pieces of tomatillos
@@ -525,7 +534,7 @@ Initial formula received from Champs. Jen to enter into our system
 *** [2017-06-26 Mon 09:42]
 **** TODO Make sample of Champs Green Chile Sauce                 :Benchwork:
      SCHEDULED: <2017-07-21 Fri>
-  - Thiss will be a green sauce that is utilized to top burritos.
+  - This will be a green sauce that is utilized to top burritos.
   - Will use salsa verde as the base.
   - Once the salsa verde is approved. We will take the Verde and add both poblanos and green chiles.
   - Product will be pureed than post pack cooked.
@@ -559,16 +568,16 @@ Initial formula received from Champs. Jen to enter into our system
  - Idea is to get one additional serving out of the bag.
 * General Tasks
 ** SHIP Ship Champs samples to Jeremy [0/8]                            :SHIP:
-   DEADLINE: <2017-07-17 Mon>
+   DEADLINE: <2017-07-24 Mon>
 
  - [ ] Queso
  - [ ] Salsa Verde
  - [ ] Cilantro Lime Rice
  - [ ] Black Beans
  - [ ] Pinto Beans
- - [ ] SV Chicken
- - [ ] SV Pork (cook plain, shred, add seasoning)
- - [ ] SV Beef (cook plain, shred, add seasoning)
+ - [ ] SV Chicken (cook plain, shred, add seasoning and purge)
+ - [ ] SV Pork (cook plain, shred, add seasoning and purge)
+ - [ ] SV Beef (cook plain, shred, add seasoning and purge)
 ** DONE Ship Queso and Bean samples to jeremy
    CLOSED: [2017-06-29 Thu 15:59]
    - CLOSING NOTE [2017-06-29 Thu 15:59] \\

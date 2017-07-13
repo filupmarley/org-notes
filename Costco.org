@@ -33,14 +33,15 @@ Eggless salad dressing base
      - NOTE - Confirmed packages were delivered to HPP site on 7/12.
      - [X] Chicken Salad Dressing with onions and celery
      - [X] Eggless Chicken Salad Dressing with onions and celery
-**** SHIP [#A] Have samples sent from HPP site to Nic Lyons and Karen (R&D) [0/2]
-     DEADLINE: <2017-07-13 Thu>
- - [ ] Chicken Salad Dressing [0/2]
-   - [ ] Two CSD for Nic
-   - [ ] One CSD for Karan
- - [ ] Eggless Chickne Salad Dressing [0/2]
-   - [ ] Two eggless for Nic
-   - [ ] One eggless for Karen
+**** DONE [#A] Have samples sent from HPP site to Nic Lyons and Karen (R&D) [2/2]
+     CLOSED: [2017-07-13 Thu 15:50] DEADLINE: <2017-07-13 Thu>
+     - State "DONE"       from "SHIP"       [2017-07-13 Thu 15:50]
+ - [X] Chicken Salad Dressing [2/2]
+   - [X] Two CSD for Nic
+   - [X] One CSD for Karan
+ - [X] Eggless Chickne Salad Dressing [2/2]
+   - [X] Two eggless for Nic
+   - [X] One eggless for Karen
 *** [2017-05-25 Thu 10:41]
  - Looking to get 90 days shelf life to gaurantee 60 days for Costco.
 *** [2017-05-19 Fri 10:21]
