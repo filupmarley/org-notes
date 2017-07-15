@@ -13,6 +13,7 @@
 %%(org-anniversary 2007 6 8) Maddie is %d years old
 %%(org-anniversary 1948 5 31) John Henry Bonham would be %d years old
 %%(org-anniversary 1947 6 10) Mom is %d years old
+%%(org-anniversary 1991 8 9) Kayla is %d years old
 * Anniversary
   :PROPERTIES:
   :CATEGORY: Anniversary

@@ -224,8 +224,10 @@
  - No protein seasoning at this point.
 ** Queso
 *** [2017-07-07 Fri 14:05]
-**** TODO [#B] Make Queso samples for Champs                      :Benchwork:
-     DEADLINE: <2017-07-14 Fri>
+**** DONE [#B] Make Queso samples for Champs                      :Benchwork:
+     CLOSED: [2017-07-15 Sat 09:29] DEADLINE: <2017-07-14 Fri>
+     - CLOSING NOTE [2017-07-15 Sat 09:29] \\
+       Completed on 7/14
      - NOTE [2017-07-13 Thu 12:30] \\
        Moved to Friday 7/14.
 
@@ -527,7 +529,9 @@
 *** [2017-06-26 Mon 10:08]
 Initial formula received from Champs. Jen to enter into our system
 **** TODO Make samples of Champs Honey Habanero Salsa.            :Benchwork:
-     SCHEDULED: <2017-07-14 Fri>
+     SCHEDULED: <2017-07-21 Fri>
+     - NOTE [2017-07-15 Sat 09:34] \\
+     - Sample pushed back a week since Jeremy is on vacation.
      NOTE: [2017-06-27 Tue 12:48] //
       - Control sample is on the way. Will arrive on Thursday 6/29. Tracking #668478107535
 ** Green Chile Sauce
@@ -544,9 +548,13 @@ Initial formula received from Champs. Jen to enter into our system
 ** IQF Rice
 *** [2017-07-07 Fri 14:16]
 **** TODO [#B] Make Rice samples for Champs
-     DEADLINE: <2017-07-14 Fri>
+     DEADLINE: <2017-07-21 Fri>
  - Using variable CC-CLR-01C (2% level)
  - 4 lb samples needed
+   - NOTE [2017-07-15 Sat 09:31] \\
+     Pushed back a week due to Jeremy being on vacation.
+   
+   
 *** [2017-06-26 Mon 09:46]
 **** DONE Make samples of Champs IQF Rice
      CLOSED: [2017-07-07 Fri 13:37] SCHEDULED: <2017-07-05 Wed>
@@ -563,21 +571,21 @@ Initial formula received from Champs. Jen to enter into our system
      SCHEDULED: <2017-07-17 Mon>
  - need to add back onion powder (need to convert from onion flake
 **** TODO Talk to Brent to determine what level to Champs Green Beans broth level should be.
-     SCHEDULED: <2017-07-11 Tue>
+     SCHEDULED: <2017-07-18 Tue>
  - Champs is interested in looking at lowering broth amount per bag and increasing amount of beans.
  - Idea is to get one additional serving out of the bag.
 * General Tasks
-** SHIP Ship Champs samples to Jeremy [0/8]                            :SHIP:
+** SHIP Ship Champs samples to Jeremy [6/8]                            :SHIP:
    DEADLINE: <2017-07-24 Mon>
 
  - [ ] Queso
- - [ ] Salsa Verde
+ - [X] Salsa Verde
  - [ ] Cilantro Lime Rice
- - [ ] Black Beans
- - [ ] Pinto Beans
- - [ ] SV Chicken (cook plain, shred, add seasoning and purge)
- - [ ] SV Pork (cook plain, shred, add seasoning and purge)
- - [ ] SV Beef (cook plain, shred, add seasoning and purge)
+ - [X] Black Beans
+ - [X] Pinto Beans
+ - [X] SV Chicken (cook plain, shred, add seasoning and purge)
+ - [X] SV Pork (cook plain, shred, add seasoning and purge)
+ - [X] SV Beef (cook plain, shred, add seasoning and purge)
 ** DONE Ship Queso and Bean samples to jeremy
    CLOSED: [2017-06-29 Thu 15:59]
    - CLOSING NOTE [2017-06-29 Thu 15:59] \\

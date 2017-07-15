@@ -58,3 +58,36 @@
   CLOCK: [2017-07-07 Fri 09:52]--[2017-07-07 Fri 09:53] =>  0:01
   :END:
 [2017-07-07 Fri 09:52]
+* Saturday 2017/07/15                                                  :NOTE:
+  :LOGBOOK:
+  CLOCK: [2017-07-15 Sat 14:27]--[2017-07-15 Sat 14:46] =>  0:19
+  CLOCK: [2017-07-15 Sat 11:11]--[2017-07-15 Sat 11:15] =>  0:04
+  :END:
+** Champs Green Beans
+*** [2017-07-15 Sat 11:11]
+  - Unable to print Champs Green Beans case information properly
+    - Co Pilot printer and computer were not talking.
+    - We tried rebooting both the printer and the computer, but still couldn't get them to work.
+    - We tried everything we could think of, but nothing worked.
+    - We will print the use by date, but we are not able to print the bar code (mfg. date info).
+    - Printed code used is: 03018-17191-12 1 Use By 07/10/18
+** Chester's Green Beans
+[2017-07-15 Sat 14:32]
+- Cryovac
+  - Made 2 batches of broth then SV cooked a batch in the kettle. Went back to broth then SV cooked 2 bathes of beans. Will go back and  make last batch of broth.
+  - Scoop that was being used for the bacon went missing. Scoop was found in the Cryo hopper.
+- SV Cooking
+  - Kettle Cook: Down 30 minutes clearing bags away from the mixer and outlet pipe.
+** Queso Mama Green Chile Queso
+*** [2017-07-15 Sat 14:32]
+- All product packed.
+** SV Chicken 
+*** [2017-07-15 Sat 14:40]
+- 1 pallet was packed incorrectly from vendor. Chicken wasn't bagged or separated. It was just a box of chicken breast frozen into a block. It was not processed.
+- Having issues finding available totes between green beans and queso.
+** MV Chicken
+*** [2017-07-15 Sat 14:33]
+-No issues. 
+** Champs Mac and Cheese
+*** [2017-07-15 Sat 14:32]
+- Finished packing Champs Mac and Cheese from 7/14 production.
