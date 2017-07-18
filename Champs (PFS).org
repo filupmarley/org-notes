@@ -135,7 +135,7 @@
   [2017-05-12 Fri 10:46]
 ** Sous Vide Chicken
 *** [2017-07-17 Mon 16:33]
-**** TODO [#A] Check on SV Chicken cook/chill validation
+**** IN-PROGRESS [#A] Check on SV Chicken cook/chill validation
      DEADLINE: <2017-07-19 Wed>
  - Need to validate our cook/chill process of the Sous Vide chicken to verify the maximum amount of time it takes the product to reach the CCP, and chill back down below 40F.
  - In many cases there is a cook cycle that comes out at the end of the shift that will be left in the chiller overnight. This causes us to have incomplete documentation of the process.
@@ -478,6 +478,15 @@
       Benchwork completed today.
 
 ** Mac and Cheese
+*** [2017-07-18 Tue 16:35]
+**** TODO Look into potential color issue of Champs mac and Cheese
+     SCHEDULED: <2017-07-21 Fri>
+     - Club cheddar color issue
+     - Any other potential causes
+     - Contct vendor, look at club cheddar product.
+**** WAITING Arlo to request older samples of Champs mac and cheese for color evaluation :WAITING:
+     SCHEDULED: <2017-07-28 Fri>
+
 *** [2017-05-18 Thu 15:54]
   - Production consistently adds 8 - 11 lbs of additional starch, per batch to meet viscosity spec. Consista starch (100107) was increased by 10 lbs from 49.6 to 59.6 lbs to match production.
   - There was a discrepancy with the water amount. Sauce checklist states to add 20 gallons of water per starch bucket. This is 40 gallons total. This is how the remaining water was calculated on the Sauce Checklist tab. Total water was 1931 lbs (241.4 gallons). 40 gallons would be used for the starch hydration, the remaining 201.4 gallons would be added to the kettle. The cooks; however, were only adding 10 gallons per bucket. 20 gallons for starch hydration and 201.4 gallons added to the kettle. Because of this difference the batch was being shorted by 20 gallons (160 lbs) each time. What the cooks are doing is consistent with the directions on the sauce formula tab. The mistake lies in the Sauce Checklist tab. The remaining water was calculated based on using 40 gallons of water for the starch vs 20 gallons. This has been corrected to match production.
@@ -574,11 +583,15 @@ Initial formula received from Champs. Jen to enter into our system
  - This pouch will need to be similar to the drained chicken product as far its depth to ensure they are getting an even heat throughout without overcooking. 
 ** Green Beans
 *** [2017-07-07 Fri 15:23]
-**** TODO Make sample of Champls green beans with removed onion flakes
+**** WAITING Make sample of Champls green beans with removed onion flakes :WAITING:
      SCHEDULED: <2017-07-17 Mon>
+     - State "WAITING"    from "TODO"       [2017-07-18 Tue 16:39] \\
+       Waiting on direction from Dan to continue with this project.
  - need to add back onion powder (need to convert from onion flake
-**** TODO Talk to Brent to determine what level to Champs Green Beans broth level should be.
-     SCHEDULED: <2017-07-18 Tue>
+**** CANCELLED Talk to Brent to determine what level to Champs Green Beans broth level should be. :CANCELLED:
+     CLOSED: [2017-07-18 Tue 09:07] SCHEDULED: <2017-07-18 Tue>
+     - State "CANCELLED"  from "TODO"       [2017-07-18 Tue 09:07] \\
+       CF lost interest on this project.
  - Champs is interested in looking at lowering broth amount per bag and increasing amount of beans.
  - Idea is to get one additional serving out of the bag.
 * General Tasks

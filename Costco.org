@@ -90,12 +90,26 @@ Eggless salad dressing base
 *** [2017-06-16 Fri 13:49]
 **** IN-PROGRESS [#B] Perform Freeze/thaw testing on Costco stuffing
      SCHEDULED: <2017-07-11 Tue>
+     - NOTE [2017-07-18 Tue 14:20] \\
+       Look at 20 days and 30 days.
  - Need to freeze costo turkey and stuffing and then stick in the fridge for 20 days to see what happens.
+ 
 **** DONE Make beef queso samples                         :Benchwork:Samples:
      CLOSED: [2017-06-27 Tue 12:46] SCHEDULED: <2017-06-21 Wed>
 
      - CLOSING NOTE [2017-06-27 Tue 12:46] \\
        Samples sent by Aubrey on 6/26.
+** Leigh Oliver (Queso Mama) for Costco
+*** [2017-07-18 Tue 12:11]
+- Current Production product has LOL extra melt cheese and salt removed.
+- R&D version is using Bongard Extra melt Cheese and salt removed.
+**** TODO Make Leigh Oliver (Queso Mama) for Costco
+     SCHEDULED: <2017-07-28 Fri>
+- Use current formula
+- Maximize cost reduction
+- Ing Dec needs to be the same as current if possible.
+- Not as much freedom with this item.
+- Use Bongard Extra Melt cheese that is due to deliver today (7/18)
 * Tasks
 
 ** TODO Need to perform micro testing on the Veggie and Dressing blend on day 53

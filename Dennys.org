@@ -3,8 +3,19 @@
 * Projects
   
 ** Meatloaf
+*** [2017-07-18 Tue 14:17]
+**** TODO Need to decide what physical measurements Cf wants to perform on Denny's Meatloaf
+     DEADLINE: <2017-07-24 Mon>
+- what do we want to measure
+- How do we measure it
+- What do we need to purchase to measure it
+***** TODO Provide list of testing requirements for Denny's meatloaf testing
+      DEADLINE: <2017-07-24 Mon>
 *** [2017-06-30 Fri 15:41]
-**** TODO Process 110 lbs of Denny's Meatloaf
+**** DONE Process 110 lbs of Denny's Meatloaf
+     CLOSED: [2017-07-18 Tue 14:22]
+     - State "DONE"  from "TODO"       [2017-07-18 Tue 14:22] \\
+       Compled week of 7/10. Samples were sent to customer.
  - 25 loaves Cooked
    - // NOTE [2017-07-11 Tue 15:03] 24 loaves are being cooked on 7/11
  - 25 loaves Raw (No cooking). Otherwise, processed the same as cooked product. Customer will cook at store.

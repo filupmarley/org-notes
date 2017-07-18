@@ -1,0 +1,13 @@
+#+TITLE: S&K
+
+* Projects
+** Cranberry Stuffing (Starbucks)
+*** [2017-07-18 Tue 14:11]
+- Running from  August-September
+- Need to watch crouton "dust" (fines). May need to separate the fines from the cubes.
+- Complex setup. Need to fully understand this process.
+**** TODO Make Cranberry Stuffing
+     SCHEDULED: <2017-07-28 Fri>
+ - Need to make this product to become familiar with it.
+ - Must be consistent with moisture levels
+ - Complex setup. Need to fully understand this process.
