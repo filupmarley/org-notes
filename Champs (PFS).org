@@ -134,6 +134,13 @@
     :END:
   [2017-05-12 Fri 10:46]
 ** Sous Vide Chicken
+*** [2017-07-17 Mon 16:33]
+**** TODO [#A] Check on SV Chicken cook/chill validation
+     DEADLINE: <2017-07-19 Wed>
+ - Need to validate our cook/chill process of the Sous Vide chicken to verify the maximum amount of time it takes the product to reach the CCP, and chill back down below 40F.
+ - In many cases there is a cook cycle that comes out at the end of the shift that will be left in the chiller overnight. This causes us to have incomplete documentation of the process.
+ - The data loggers need to be utilized as a verification/validation tool of this process. In order to so the chicken will have to be thawed, than refroze, and complete the entire cook/chill process.
+   - This will need to be done on multiple production dates. I also suggest only using one probe for the chicken, while utilizing the second probe to monitor the water temperature of each throughout the entire process.
 *** [2017-06-22 Thu 13:51] Tasting SV Chicken with Dan
  - Dan preferred the variable with the current amount of house seasoning just dumped into the bag, no tumbling required.
  - We will move forward with processing chicken without tempering it.
