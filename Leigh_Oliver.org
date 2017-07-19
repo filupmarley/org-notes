@@ -29,8 +29,9 @@
 [2017-06-05 Mon 14:35] Bongard Cheese update
 Cheese should arrive this week for benchwork.
 
-**** SHIP Ship Leigh Oliver queso samples Using Bongard Cheese
-     DEADLINE: <2017-06-23 Fri>
+**** DONE Ship Leigh Oliver queso samples Using Bongard Cheese
+     CLOSED: [2017-07-19 Wed 12:19] DEADLINE: <2017-06-23 Fri>
+     - State "DONE"       from "SHIP"       [2017-07-19 Wed 12:19]
 - Sample using the bongard cheese
 **** DONE [#A] Update Queso Mama Mild Queso to reflect salt removal
      CLOSED: [2017-06-05 Mon 16:34] DEADLINE: <2017-06-05 Mon>

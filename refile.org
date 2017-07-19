@@ -91,3 +91,10 @@
 ** Champs Mac and Cheese
 *** [2017-07-15 Sat 14:32]
 - Finished packing Champs Mac and Cheese from 7/14 production.
+**** TODO Take a look at the new RS Bongard Cheese frozen to test grinder. Capture results.
+     SCHEDULED: <2017-07-28 Fri>
+     :LOGBOOK:
+     CLOCK: [2017-07-19 Wed 16:00]--[2017-07-19 Wed 16:02] =>  0:02
+     :END:
+   [2017-07-19 Wed 16:00]
+- Want to look at grinding a 45# block of cheese.

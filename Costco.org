@@ -89,10 +89,13 @@ Eggless salad dressing base
 ** Turkey Dressing
 *** [2017-06-16 Fri 13:49]
 **** IN-PROGRESS [#B] Perform Freeze/thaw testing on Costco stuffing
-     SCHEDULED: <2017-07-11 Tue>
+     SCHEDULED: <2017-07-26 Wed>
      - NOTE [2017-07-18 Tue 14:20] \\
        Look at 20 days and 30 days.
- - Need to freeze costo turkey and stuffing and then stick in the fridge for 20 days to see what happens.
+     - NOTE [2017-07-19 Wed 16:09] \\
+     - Looking at day 20 on 7/26.
+     - Looking at day 30 on 8/4
+- Need to freeze costo turkey and stuffing and then stick in the fridge for 20 days to see what happens.
  
 **** DONE Make beef queso samples                         :Benchwork:Samples:
      CLOSED: [2017-06-27 Tue 12:46] SCHEDULED: <2017-06-21 Wed>

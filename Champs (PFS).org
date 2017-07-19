@@ -135,12 +135,18 @@
   [2017-05-12 Fri 10:46]
 ** Sous Vide Chicken
 *** [2017-07-17 Mon 16:33]
-**** IN-PROGRESS [#A] Check on SV Chicken cook/chill validation
-     DEADLINE: <2017-07-19 Wed>
- - Need to validate our cook/chill process of the Sous Vide chicken to verify the maximum amount of time it takes the product to reach the CCP, and chill back down below 40F.
- - In many cases there is a cook cycle that comes out at the end of the shift that will be left in the chiller overnight. This causes us to have incomplete documentation of the process.
- - The data loggers need to be utilized as a verification/validation tool of this process. In order to so the chicken will have to be thawed, than refroze, and complete the entire cook/chill process.
-   - This will need to be done on multiple production dates. I also suggest only using one probe for the chicken, while utilizing the second probe to monitor the water temperature of each throughout the entire process.
+**** DONE [#A] Check on SV Chicken cook/chill validation
+     CLOSED: [2017-07-19 Wed 12:17] DEADLINE: <2017-07-19 Wed>
+     - NOTE [2017-07-19 Wed 12:10] \\
+     - Two runs with data loggers on 7/18. One probe was in the chicken, the other probe was in the water.
+     - Product temp was <40 after 2.5 hours in the chiller.
+     - Water temp, generally speaking, is within a couple of degrees of the product temp.
+     - Both data loggers were kept in the chicken over night.  One was in the cage in the cooler and one was left in the chiller, both show that we are able to keep the temperature below 40°F in both situations.
+     
+- Need to validate our cook/chill process of the Sous Vide chicken to verify the maximum amount of time it takes the product to reach the CCP, and chill back down below 40F.
+- In many cases there is a cook cycle that comes out at the end of the shift that will be left in the chiller overnight. This causes us to have incomplete documentation of the process.
+- The data loggers need to be utilized as a verification/validation tool of this process. In order to so the chicken will have to be thawed, than refroze, and complete the entire cook/chill process.
+  - This will need to be done on multiple production dates. I also suggest only using one probe for the chicken, while utilizing the second probe to monitor the water temperature of each throughout the entire process.
 *** [2017-06-22 Thu 13:51] Tasting SV Chicken with Dan
  - Dan preferred the variable with the current amount of house seasoning just dumped into the bag, no tumbling required.
  - We will move forward with processing chicken without tempering it.

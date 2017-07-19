@@ -4,8 +4,10 @@
   
 ** Meatloaf
 *** [2017-07-18 Tue 14:17]
-**** TODO Need to decide what physical measurements Cf wants to perform on Denny's Meatloaf
-     DEADLINE: <2017-07-24 Mon>
+**** DONE Need to decide what physical measurements Cf wants to perform on Denny's Meatloaf
+     CLOSED: [2017-07-19 Wed 12:19] DEADLINE: <2017-07-24 Mon>
+     - CLOSING NOTE [2017-07-19 Wed 12:19] \\
+       Jen set out protocal on 7/18. We are proposing pH, Fat, Moisture, and salt. These would be perfomred 2x/year.
 - what do we want to measure
 - How do we measure it
 - What do we need to purchase to measure it
