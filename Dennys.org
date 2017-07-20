@@ -11,8 +11,10 @@
 - what do we want to measure
 - How do we measure it
 - What do we need to purchase to measure it
-***** TODO Provide list of testing requirements for Denny's meatloaf testing
-      DEADLINE: <2017-07-24 Mon>
+***** DONE Provide list of testing requirements for Denny's meatloaf testing
+      CLOSED: [2017-07-20 Thu 09:52] DEADLINE: <2017-07-24 Mon>
+      - CLOSING NOTE [2017-07-20 Thu 09:52] \\
+	Sent earlier in the week to Chris.
 *** [2017-06-30 Fri 15:41]
 **** DONE Process 110 lbs of Denny's Meatloaf
      CLOSED: [2017-07-18 Tue 14:22]
