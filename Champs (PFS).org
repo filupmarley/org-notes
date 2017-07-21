@@ -551,7 +551,7 @@
 *** [2017-06-26 Mon 10:08]
 Initial formula received from Champs. Jen to enter into our system
 **** TODO Make samples of Champs Honey Habanero Salsa.            :Benchwork:
-     SCHEDULED: <2017-07-21 Fri>
+     SCHEDULED: <2017-07-28 Fri>
      - NOTE [2017-07-15 Sat 09:34] \\
      - Sample pushed back a week since Jeremy is on vacation.
      NOTE: [2017-06-27 Tue 12:48] //
@@ -559,7 +559,7 @@ Initial formula received from Champs. Jen to enter into our system
 ** Green Chile Sauce
 *** [2017-06-26 Mon 09:42]
 **** TODO Make sample of Champs Green Chile Sauce                 :Benchwork:
-     SCHEDULED: <2017-07-21 Fri>
+     SCHEDULED: <2017-07-28 Fri>
   - This will be a green sauce that is utilized to top burritos.
   - Will use salsa verde as the base.
   - Once the salsa verde is approved. We will take the Verde and add both poblanos and green chiles.
@@ -569,8 +569,10 @@ Initial formula received from Champs. Jen to enter into our system
   - The direction is to focus on the best flavor rather than price.
 ** IQF Rice
 *** [2017-07-07 Fri 14:16]
-**** TODO [#B] Make Rice samples for Champs
-     DEADLINE: <2017-07-21 Fri>
+**** CANCELLED [#B] Make Rice samples for Champs                  :CANCELLED:
+     CLOSED: [2017-07-21 Fri 11:52] DEADLINE: <2017-07-21 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-07-21 Fri 11:52] \\
+       Champs approved this product using the seasoning blend at 2%. No further samples are needed at this time.
  - Using variable CC-CLR-01C (2% level)
  - 4 lb samples needed
    - NOTE [2017-07-15 Sat 09:31] \\
@@ -590,7 +592,7 @@ Initial formula received from Champs. Jen to enter into our system
 ** Green Beans
 *** [2017-07-07 Fri 15:23]
 **** WAITING Make sample of Champls green beans with removed onion flakes :WAITING:
-     SCHEDULED: <2017-07-17 Mon>
+     SCHEDULED: <2017-07-28 Fri>
      - State "WAITING"    from "TODO"       [2017-07-18 Tue 16:39] \\
        Waiting on direction from Dan to continue with this project.
  - need to add back onion powder (need to convert from onion flake
