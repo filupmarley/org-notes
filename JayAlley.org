@@ -77,3 +77,6 @@
      - CLOSING NOTE [2017-07-07 Fri 13:27] \\
        Completed today (7/7)
  - 2/5lb sample
+
+**** TODO Make Yellow Queso with Peppers and Chorizo Queso 10lb pack samples for Jay
+     SCHEDULED: <2017-07-28 Fri>

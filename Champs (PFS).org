@@ -604,7 +604,7 @@ Initial formula received from Champs. Jen to enter into our system
  - Idea is to get one additional serving out of the bag.
 * General Tasks
 ** SHIP Ship Champs samples to Jeremy [6/8]                            :SHIP:
-   DEADLINE: <2017-07-24 Mon>
+   SCHEDULED: <2017-07-28 Fri>
 
  - [ ] Queso
  - [X] Salsa Verde
