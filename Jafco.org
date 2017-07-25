@@ -1,0 +1,9 @@
+#+TITLE: Jafco Foods
+
+* Projects
+** Mojo Pork
+*** [2017-07-25 Tue 15:41]
+**** TODO Process Pork butt whole in SV bag for Jafco             :Benchwork:
+     SCHEDULED: <2017-08-04 Fri>
+- Same exact product, whole, not chunked. Do they have the capability to cook an entire skinless picnic or Boston butt in the sous vide bag?
+- Same recipe, everything - customer just wants the option to cut/chop/pull it at the unit level now.

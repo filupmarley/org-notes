@@ -44,8 +44,10 @@
   :END:
 [2017-06-20 Tue 15:29]
 [[file:~/files/org-files/Champs%20(PFS).org::*Projects][Projects]]
-* TODO Check with Jen about pH probe and salsa
-  DEADLINE: <2017-06-30 Fri>
+* CANCELLED Check with Jen about pH probe and salsa               :CANCELLED:
+  CLOSED: [2017-07-25 Tue 08:13] DEADLINE: <2017-06-30 Fri>
+  - State "CANCELLED"  from "TODO"       [2017-07-25 Tue 08:13] \\
+    No need to look into this
   :LOGBOOK:
   CLOCK: [2017-06-29 Thu 09:24]--[2017-06-29 Thu 09:25] =>  0:01
   :END:

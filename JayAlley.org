@@ -78,5 +78,13 @@
        Completed today (7/7)
  - 2/5lb sample
 
-**** TODO Make Yellow Queso with Peppers and Chorizo Queso 10lb pack samples for Jay
-     SCHEDULED: <2017-07-28 Fri>
+**** DONE Make Yellow Queso with Peppers and Chorizo Queso 10lb pack samples for Jay
+     CLOSED: [2017-07-25 Tue 14:09] SCHEDULED: <2017-07-28 Fri>
+
+     - CLOSING NOTE [2017-07-25 Tue 14:09] \\
+       Products made on 7/25.
+**** DONE Ship Jay Alley Samples
+     CLOSED: [2017-07-25 Tue 14:09] SCHEDULED: <2017-07-28 Fri>
+     - State "DONE"       from "SHIP"       [2017-07-25 Tue 14:09]
+- [X] Yellow Queso with Peppers
+- [X] Chorizo Queso

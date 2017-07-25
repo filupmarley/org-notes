@@ -88,14 +88,19 @@ Eggless salad dressing base
        Sent a followup note to Morgan on 6/19
 ** Turkey Dressing
 *** [2017-06-16 Fri 13:49]
-**** IN-PROGRESS [#B] Perform Freeze/thaw testing on Costco stuffing
-     SCHEDULED: <2017-07-26 Wed>
+**** DONE [#B] Perform Freeze/thaw testing on Costco stuffing
+     CLOSED: [2017-07-25 Tue 14:34] SCHEDULED: <2017-07-26 Wed>
+     - CLOSING NOTE [2017-07-25 Tue 14:34] \\
+       Looked at the bags on 7/25 (Day #20). All 4 bags are beginning to swell. Brent will discuss with Club Chef and determine if a disinfectnt spray can be applied to the veggies. The issue is probably most likely being caused by the celery.
+     - NOTE [2017-07-25 Tue 14:31] \\
+       All 4 bags of stuffing and veggies began to swell on day 20.
+       Brent will check with Club Chef to see if they can spray the veggies with a preservative spray.
      - NOTE [2017-07-18 Tue 14:20] \\
        Look at 20 days and 30 days.
      - NOTE [2017-07-19 Wed 16:09] \\
      - Looking at day 20 on 7/26.
      - Looking at day 30 on 8/4
-- Need to freeze costo turkey and stuffing and then stick in the fridge for 20 days to see what happens.
+     - Need to freeze costo turkey and stuffing and then stick in the fridge for 20 days to see what happens.
  
 **** DONE Make beef queso samples                         :Benchwork:Samples:
      CLOSED: [2017-06-27 Tue 12:46] SCHEDULED: <2017-06-21 Wed>
