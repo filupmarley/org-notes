@@ -80,9 +80,11 @@ Eggless salad dressing base
    - What is the handling procedures at the HPP facility?
    - What is the handling procedures/testing procedures for Microlab.
      - Is it acceptable?
-**** IN-PROGRESS Look into the shelf life protocol.
-     DEADLINE: <r2017-06-23 Fri>
+**** CANCELLED Look into the shelf life protocol.                 :CANCELLED:
+     CLOSED: [2017-07-26 Wed 09:26] DEADLINE: <r2017-06-23 Fri>
 
+     - State "CANCELLED"  from "IN-PROGRESS" [2017-07-26 Wed 09:26] \\
+       No longer desire to do this.
      - State "IN-PROGRESS" from "WAITING"    [2017-06-20 Tue 16:16]
      - State "WAITING"    from "IN-PROGRESS" [2017-06-19 Mon 10:23] \\
        Sent a followup note to Morgan on 6/19

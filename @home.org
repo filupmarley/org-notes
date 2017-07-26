@@ -1,13 +1,13 @@
 #+TITLE: @Home
 
 * Netflix Interest
- - Broadchurch
- - River
- - Is Genesis History
- - Longmire
- - Justifified
- - How to get away with murder
- - The Crown
- - Blacklist
- - The Keepers
- - Lion
+ - [ ] Broadchurch
+ - [ ] River
+ - [X] Is Genesis History
+ - [ ] Longmire
+ - [ ] Justifified
+ - [ ] How to get away with murder
+ - [ ] The Crown
+ - [ ] Blacklist
+ - [ ] The Keepers
+ - [ ] Lion
