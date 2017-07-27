@@ -14,10 +14,14 @@ First production of SS Pizza Sauce. Produced 2 batches @2500 lbs each.
      - May need to add an in-line filter to catch these skins.
    - The rotosolver mix time of 10 minutes may have been too long.
      - The production product was smoother than lab product. This may not be an issue, but we may need to adjust this procedure.
-**** TODO Update soulshine pizza sauce processing sheets to remove instructions on checklist
-     SCHEDULED: <2017-07-21 Fri>
-**** TODO Add slurry sheet to Soulshine Pizza Sauce
-     SCHEDULED: <2017-07-21 Fri>
+**** CANCELLED Update soulshine pizza sauce processing sheets to remove instructions on checklist :CANCELLED:
+     CLOSED: [2017-07-27 Thu 11:05] SCHEDULED: <2017-07-21 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-07-27 Thu 11:05] \\
+       no need to remove instructions
+**** DONE Add slurry sheet to Soulshine Pizza Sauce
+     CLOSED: [2017-07-27 Thu 11:05] SCHEDULED: <2017-07-21 Fri>
+     - CLOSING NOTE [2017-07-27 Thu 11:05] \\
+       Slurry sheet was added to the processing sheet.
 *** [2017-05-31 Wed 15:13]
 - Issued batch size for Soulshine pizza sauce will be  2020.8 lbs
 - This will allow for an even amount of cans for both the 74 40 tomatoes and tomato paste.

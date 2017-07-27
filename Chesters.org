@@ -5,8 +5,10 @@
 *** [2017-06-19 Mon 10:16]
 Received a 40 lb samples of Idahoan potato flakes (labeled as Paradise Valley Quality Potato Flakes)
 *** [2017-06-12 Mon 09:01] Benchwork feedback
-**** TODO Make up additional samples of VE Mashed Potatoes
-     SCHEDULED: <2017-07-28 Fri>
+**** CANCELLED Make up additional samples of VE Mashed Potatoes   :CANCELLED:
+     CLOSED: [2017-07-27 Thu 11:16] SCHEDULED: <2017-07-28 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-07-27 Thu 11:16] \\
+       No longer involved with this
   - VEMP-03 seemed too salty.
   - Received a 40 lb samples of Idahoan potato flakes on 6/19 (labeled as Paradise Valley Quality Potato Flakes)
 *** [2017-05-25 Thu 08:55]

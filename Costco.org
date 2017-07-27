@@ -113,8 +113,10 @@ Eggless salad dressing base
 *** [2017-07-18 Tue 12:11]
 - Current Production product has LOL extra melt cheese and salt removed.
 - R&D version is using Bongard Extra melt Cheese and salt removed.
-**** TODO Make Leigh Oliver (Queso Mama) for Costco
-     SCHEDULED: <2017-07-28 Fri>
+**** CANCELLED Make Leigh Oliver (Queso Mama) for Costco          :CANCELLED:
+     CLOSED: [2017-07-27 Thu 11:16] SCHEDULED: <2017-07-28 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-07-27 Thu 11:16] \\
+       no longer involved with this
 - Use current formula
 - Maximize cost reduction
 - Ing Dec needs to be the same as current if possible.

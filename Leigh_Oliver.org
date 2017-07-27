@@ -7,8 +7,10 @@
 - Mild formula 32oz.
 - Need to maximize cost savings, but match Leigh Oliver glass jar product as closely as possible.
 - Cannot use current formula.
-**** TODO Make Queso Mama (Mild) to match glass jar retail pack
-     SCHEDULED: <2017-07-28 Fri>
+**** CANCELLED Make Queso Mama (Mild) to match glass jar retail pack :CANCELLED:
+     CLOSED: [2017-07-27 Thu 11:16] SCHEDULED: <2017-07-28 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-07-27 Thu 11:16] \\
+       No longer involved with this
 - New formula to match the Leigh Oliver glass retail as closely as possible.
 - Product should be on the thinner side of the spec.
 *** [2017-05-25 Thu 12:35]
