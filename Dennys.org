@@ -3,6 +3,10 @@
 * Projects
   
 ** Meatloaf
+*** [2017-07-27 Thu 17:09]
+- Cooked 2 racks of meatloaf for 70 minutes (3:40 - 4:50).
+- Data logger temp was 169F
+- Manual probe reading by me was 167F
 *** [2017-07-18 Tue 14:17]
 **** DONE Need to decide what physical measurements Cf wants to perform on Denny's Meatloaf
      CLOSED: [2017-07-19 Wed 12:19] DEADLINE: <2017-07-24 Mon>
