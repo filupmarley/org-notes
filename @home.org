@@ -11,3 +11,8 @@
  - [ ] Blacklist
  - [ ] The Keepers
  - [ ] Lion
+ - [ ] Founder
+ - [ ] The Matrix Trilogy
+ - [ ] Jackie Brown
+ - [ ] Cloud Atlas
+ - [ ] Lord of War
