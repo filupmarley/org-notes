@@ -106,3 +106,22 @@
      CLOCK: [2017-07-27 Thu 14:43]--[2017-07-27 Thu 14:43] =>  0:00
      :END:
    [2017-07-27 Thu 14:43]
+**** DONE Update Quesos to new raw material 3 114904 [11/11]
+     CLOSED: [2017-08-02 Wed 16:08]
+     - CLOSING NOTE [2017-08-02 Wed 16:08] \\
+       Completed all formula updates.
+     :LOGBOOK:
+     CLOCK: [2017-08-02 Wed 16:05]--[2017-08-02 Wed 16:07] =>  0:02
+     :END:
+   [2017-08-02 Wed 16:05]
+- [X] Champs Smoky PepperJack Mac & Cheese - 106260
+- [X] Champs Ultimate Mac & Cheese - 105250
+- [X] Comfort Quisine Jalapeno Queso - 116600.xls
+- [X] HEB Classic Queso - 075183
+- [X] HEB Hot Pepper Queso - 075186
+- [X] HEB Queso Blanco - 075155
+- [X] HEB Queso with Pork Chorizo - 074890
+- [X] HEB Queso with Pork Sausage - 074854
+- [X] Queso Mama Hot White Queso - 106200.xls
+- [X] Queso Mama Beer Queso - 106220
+- [X] Queso Mama White Queso w Pork Sausage - 106330
