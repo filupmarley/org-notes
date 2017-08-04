@@ -1,0 +1,34 @@
+#+TITLE: Chairmans Foods Operations
+
+* Projects
+** OPS Meeting
+*** [2017-08-03 Thu 13:00] Ops Meeting
+**** Meeting Notes
+- CF has a new tax ID number from changing from old CF to new CF.
+- Make Processing Sheets consistent for Mike Buck.
+- Pre-weigh Room - Buckets of cheese will be standardized to 100lb. They will have a lot number listed on each bucket.
+- Cranbery Stuffing producing on 8/21.
+
+**** TODO Work with Brent to determine the optimum process temperature for Queso Line
+     SCHEDULED: <2017-10-06 Fri>
+- What temperature is most efficient and safe?
+- How do we check it?
+- When do we check it?
+- Where do we check it?
+  - Probe placement
+  - Where on the line is the product sampled.
+**** TODO Make Processing sheets consistent for everyone
+     SCHEDULED: <2017-08-09 Wed>
+     - State "WAITING"    from "TODO"       [2017-08-04 Fri 11:11] \\
+       Waiting for Tubs to arrive to CF.
+**** WAITING Production will need to label Queso Mama tubs for a short period of time :WAITING:
+- Approximately 12,000 cups will need to be labeled for each flavor.
+**** WAITING Producing Onions and Celery WIP for Cranbury Stuffing  :WAITING:
+     SCHEDULED: <2017-08-09 Wed>
+     - State "WAITING"    from "HOLD"       [2017-08-04 Fri 11:15] \\
+       Preparing for stuffing production
+     - State "DONE"       from "WAITING"    [2017-08-04 Fri 11:14]
+**** WAITING Running Cranberry Stuffing broth 
+     SCHEDULED: <2017-08-17 Thu>
+**** WAITING Running Cranberry Stuffing Finished Product
+     SCHEDULED: <2017-08-21 Mon>
