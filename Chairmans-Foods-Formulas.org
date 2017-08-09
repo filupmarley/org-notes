@@ -1,0 +1,12 @@
+#+TITLE: Chairmans Foods Formulas
+
+* Projects
+** Raw Material Changes
+*** [2017-08-08 Tue 16:18] McCormick Seasoning Poultry 700864
+**** DONE [#A] Update processing sheets to reflect change from McCormick Poultry Seasoning to Elite Spices :Processing_Sheets:
+     CLOSED: [2017-08-09 Wed 16:08] DEADLINE: <2017-08-09 Wed>
+     - CLOSING NOTE [2017-08-09 Wed 16:08] \\
+       Completed on 8/9/2017. Forwarded to costing as well.
+- Old item: 700864 Seasoning, Poultry; McCormick; 12 oz.
+- New item: 700964 Seasoning, Poultry, 50#, 34580A2V1, Elite Spices
+- Update all formulas

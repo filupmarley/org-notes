@@ -100,8 +100,10 @@
      :END:
    [2017-07-19 Wed 16:00]
 - Want to look at grinding a 45# block of cheese.
-**** TODO Check with Ellen on Comfort Quisine mislabel
-     SCHEDULED: <2017-07-28 Fri>
+**** DONE Check with Ellen on Comfort Quisine mislabel
+     CLOSED: [2017-08-07 Mon 15:33] SCHEDULED: <2017-07-28 Fri>
+     - CLOSING NOTE [2017-08-07 Mon 15:33] \\
+       Talked with Ellen. We will label carts gonig forward to help prevent this from happening in the future.
      :LOGBOOK:
      CLOCK: [2017-07-27 Thu 14:43]--[2017-07-27 Thu 14:43] =>  0:00
      :END:
