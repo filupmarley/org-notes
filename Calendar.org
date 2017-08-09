@@ -20,8 +20,5 @@
   :END:
 %%(org-anniversary 2001 4 14) %d years
 %%(org-anniversary 1988 6 17) Mom and Tim married for %d years
-<<<<<<< HEAD
 %%(org-anniversary 2017 8 6) Maddie was baptied %d years ago
-=======
 %%(org-anniversary 2013 6 3) Nick was baptized %d years ago on this day!
->>>>>>> c263e83cdd946ae08146c69a2b9458e4abb008c3
