@@ -16,3 +16,18 @@
  - [ ] Jackie Brown
  - [ ] Cloud Atlas
  - [ ] Lord of War
+
+* Networking
+** Cabling
+- Go with Cat 6 or Cat 5e
+- Use the B wire pattern
+** Tools
+- Electrician Sissors
+- Krimpers
+- Punch down tool
+  - must have 110 blade
+  - gets the cable into the jack and cuts off excess
+- Cable tester
+- Toning Device
+  - Allows you to trace cables to see where the cables run
+
