@@ -485,14 +485,18 @@
 
 ** Mac and Cheese
 *** [2017-07-18 Tue 16:35]
-**** TODO Look into potential color issue of Champs mac and Cheese
-     SCHEDULED: <2017-07-21 Fri>
+**** CANCELLED Look into potential color issue of Champs mac and Cheese :CANCELLED:
+     CLOSED: [2017-08-14 Mon 10:20] SCHEDULED: <2017-07-21 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-08-14 Mon 10:20] \\
+       Issue is not being pursued.
      - Club cheddar color issue
      - Any other potential causes
      - Contct vendor, look at club cheddar product.
-**** WAITING Arlo to request older samples of Champs mac and cheese for color evaluation :WAITING:
-     SCHEDULED: <2017-07-28 Fri>
+**** CANCELLED Arlo to request older samples of Champs mac and cheese for color evaluation :CANCELLED:
+     CLOSED: [2017-08-14 Mon 10:20] SCHEDULED: <2017-07-28 Fri>
 
+     - State "CANCELLED"  from "WAITING"    [2017-08-14 Mon 10:20] \\
+       Issue is not being pursued.
 *** [2017-05-18 Thu 15:54]
   - Production consistently adds 8 - 11 lbs of additional starch, per batch to meet viscosity spec. Consista starch (100107) was increased by 10 lbs from 49.6 to 59.6 lbs to match production.
   - There was a discrepancy with the water amount. Sauce checklist states to add 20 gallons of water per starch bucket. This is 40 gallons total. This is how the remaining water was calculated on the Sauce Checklist tab. Total water was 1931 lbs (241.4 gallons). 40 gallons would be used for the starch hydration, the remaining 201.4 gallons would be added to the kettle. The cooks; however, were only adding 10 gallons per bucket. 20 gallons for starch hydration and 201.4 gallons added to the kettle. Because of this difference the batch was being shorted by 20 gallons (160 lbs) each time. What the cooks are doing is consistent with the directions on the sauce formula tab. The mistake lies in the Sauce Checklist tab. The remaining water was calculated based on using 40 gallons of water for the starch vs 20 gallons. This has been corrected to match production.

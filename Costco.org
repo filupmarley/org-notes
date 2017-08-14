@@ -124,9 +124,11 @@ Eggless salad dressing base
 - Use Bongard Extra Melt cheese that is due to deliver today (7/18)
 * Tasks
 
-** TODO Need to perform micro testing on the Veggie and Dressing blend on day 53
+** CANCELLED Need to perform micro testing on the Veggie and Dressing blend on day 53 :CANCELLED:
+   CLOSED: [2017-08-14 Mon 10:23]
 
-** TODO Need to perform sensory analysis of veggie and dressing blend for day 53.
+** CANCELLED Need to perform sensory analysis of veggie and dressing blend for day 53. :CANCELLED:
+   CLOSED: [2017-08-14 Mon 10:24]
 
 ** DONE Ship 2 32oz Queso Mama samples to Costco                       :Ship:
    CLOSED: [2017-05-24 Wed 16:12] DEADLINE: <2017-05-22 Mon>

@@ -17,18 +17,19 @@
 - Where do we check it?
   - Probe placement
   - Where on the line is the product sampled.
-**** TODO Make Processing sheets consistent for everyone
+**** IN-PROGRESS Make Processing sheets consistent for everyone
      SCHEDULED: <2017-08-09 Wed>
      - State "WAITING"    from "TODO"       [2017-08-04 Fri 11:11] \\
        Waiting for Tubs to arrive to CF.
 **** WAITING Production will need to label Queso Mama tubs for a short period of time :WAITING:
 - Approximately 12,000 cups will need to be labeled for each flavor.
-**** WAITING Producing Onions and Celery WIP for Cranbury Stuffing  :WAITING:
+**** IN-PROGRESS Producing Onions and Celery WIP for Cranbury Stuffing
      SCHEDULED: <2017-08-09 Wed>
+     - State "IN-PROGRESS" from "WAITING"    [2017-08-14 Mon 10:21]
      - State "WAITING"    from "HOLD"       [2017-08-04 Fri 11:15] \\
        Preparing for stuffing production
      - State "DONE"       from "WAITING"    [2017-08-04 Fri 11:14]
 **** WAITING Running Cranberry Stuffing broth 
-     SCHEDULED: <2017-08-17 Thu>
+     SCHEDULED: <2017-08-19 Sat>
 **** WAITING Running Cranberry Stuffing Finished Product
      SCHEDULED: <2017-08-21 Mon>
