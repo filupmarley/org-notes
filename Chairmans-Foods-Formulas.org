@@ -1,6 +1,23 @@
 #+TITLE: Chairmans Foods Formulas
 
 * Projects
+** Yield Study
+   :LOGBOOK:
+   CLOCK: [2017-08-18 Fri 14:33]--[2017-08-18 Fri 17:04] =>  2:31
+   CLOCK: [2017-08-18 Fri 11:19]--[2017-08-18 Fri 12:30] =>  1:11
+   :END:
+*** [2017-08-18 Fri 11:20]
+- Water conversion was set to 8.3 lb/gal instead of the proper 8 lb/gal
+  - This caused us to be short by 3.8 (30.4lb) gallons of water.
+  - We were running 2469.7 lb batches insted of 2500.
+- On 8/11 we produced 2-2,500 lb batches and 1-1,500 lb batch which is 6,500 total lbs produced.
+- With no loss, that would produce 325 20# cases. We produced 302 which is a 92.92% yield.
+- Accounting thought we produced 3-2,500 lb batches so the yield is only 80.53%
+- Taking into account the water not being added to the kettle our yield would be 93.63%.
+*** [2017-08-18 Fri 17:03] Champs Apples
+**** TODO Update water on Champs Apples checklist
+     SCHEDULED: <2017-08-21 Mon>
+
 ** Raw Material Changes
 *** [2017-08-08 Tue 16:18] McCormick Seasoning Poultry 700864
 **** DONE [#A] Update processing sheets to reflect change from McCormick Poultry Seasoning to Elite Spices :Processing_Sheets:
