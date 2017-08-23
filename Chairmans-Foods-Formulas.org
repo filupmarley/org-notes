@@ -6,7 +6,7 @@
    CLOCK: [2017-08-18 Fri 14:33]--[2017-08-18 Fri 17:04] =>  2:31
    CLOCK: [2017-08-18 Fri 11:19]--[2017-08-18 Fri 12:30] =>  1:11
    :END:
-*** [2017-08-18 Fri 11:20]
+*** [2017-08-18 Fri 11:20] Jay Alley Queso with Peppers.
 - Water conversion was set to 8.3 lb/gal instead of the proper 8 lb/gal
   - This caused us to be short by 3.8 (30.4lb) gallons of water.
   - We were running 2469.7 lb batches insted of 2500.
@@ -14,9 +14,49 @@
 - With no loss, that would produce 325 20# cases. We produced 302 which is a 92.92% yield.
 - Accounting thought we produced 3-2,500 lb batches so the yield is only 80.53%
 - Taking into account the water not being added to the kettle our yield would be 93.63%.
-*** [2017-08-18 Fri 17:03] Champs Apples
-**** TODO Update water on Champs Apples checklist
-     SCHEDULED: <2017-08-21 Mon>
+**** DONE Update water on Jay Alley Queso with Peppers checklist
+     CLOSED: [2017-08-22 Tue 10:02] SCHEDULED: <2017-08-21 Mon>
+
+     - CLOSING NOTE [2017-08-22 Tue 10:02] \\
+       Changed gallons to water conversion from 8.3 to 9.0
+*** [2017-08-18 Fri 17:03] Champs Apples/FS Apples
+    :LOGBOOK:
+    CLOCK: [2017-08-22 Tue 09:08]--[2017-08-22 Tue 12:06] =>  2:58
+    :END:
+- 4 lb bags/4 bags per case = 16lb cases.
+- Champs and FS Apples are identical in formula and pack.
+- On 8/14, between these two items we had a 98.8% yield. Our target is 95%
+- Food Service Apples were overstated in the yield report by 18 cases (971 instead of 953). Yield should be changed from 96.22% to 94.43%.
+- If these changes are made the average yield between the two is 98.8% which matches the overall yield for the day for both products.
+- I think we are seeing the difference in the changeover from FS to Champs. We may be able to even these types of changeovers with a water push between the changeover.
+*** [2017-08-22 Tue 11:49] Soulshine Pizza
+    :LOGBOOK:
+    CLOCK: [2017-08-22 Tue 14:09]--[2017-08-22 Tue 14:13] =>  0:04
+    CLOCK: [2017-08-22 Tue 12:07]--[2017-08-22 Tue 12:34] =>  0:27
+    :END:
+- 4 lb bags/ 8 bags/case - 32 lb cases.
+- Produced 6-2500lb batches = 15,000 lbs of product = 468.75 cases.
+- We produced 451 cases = 14432 lbs of product
+- Yield is: 96.2%
+*** [2017-08-22 Tue 14:14] Cape Cod Chicken Salad
+    :LOGBOOK:
+    CLOCK: [2017-08-22 Tue 14:14]--[2017-08-22 Tue 15:28] =>  1:14
+    :END:
+- 8/9 Production
+  - 40oz tubs - 12 tubs per case = 30 lb cases
+  - Produced 33 500 lb batches on 8/9 = 16,500 lbs of product
+  - We produced 534 cases of product = 16,020 lbs of product
+  - Yield is: 97.0%
+- 8/10 Production
+  - Produced 33 500 lb batches on 8/10 = 16,500 lbs of product
+  - We produced 534 cases of product = 16,020 lbs of product
+  - Yield is: 97.0%
+- 8/11 Production
+  - Produced 33 50 lb batches plus 1 @ 260 lb on 8/11 = 16,760 lbs of product.
+  - Pounds reported on yield is 16,860.
+  - Produced 541 cases of product = 16,230 lb of product
+  - Yield is: 16,230/16,760 = 96.8%
+- Accounting yield used 16,860 instead of 16,760 to calculate the yield. Yield should be adjusted to 96.8%
 
 ** Raw Material Changes
 *** [2017-08-08 Tue 16:18] McCormick Seasoning Poultry 700864
