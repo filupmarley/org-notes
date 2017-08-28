@@ -23,7 +23,8 @@
        This will be ongoing.
      - State "WAITING"    from "TODO"       [2017-08-04 Fri 11:11] \\
        Waiting for Tubs to arrive to CF.
-**** WAITING Production will need to label Queso Mama tubs for a short period of time :WAITING:
+**** IN-PROGRESS Production will need to label Queso Mama tubs for a short period of time
+     - State "IN-PROGRESS" from "WAITING"    [2017-08-28 Mon 16:12]
 - Approximately 12,000 cups will need to be labeled for each flavor.
 **** DONE Producing Onions and Celery WIP for Cranbury Stuffing
      CLOSED: [2017-08-18 Fri 17:11] SCHEDULED: <2017-08-09 Wed>
