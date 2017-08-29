@@ -129,3 +129,9 @@
 - [X] Queso Mama Hot White Queso - 106200.xls
 - [X] Queso Mama Beer Queso - 106220
 - [X] Queso Mama White Queso w Pork Sausage - 106330
+**** Talk about capability studies                                     :NOTE:
+     :LOGBOOK:
+     CLOCK: [2017-08-29 Tue 16:46]--[2017-08-29 Tue 16:47] =>  0:01
+     :END:
+   [2017-08-29 Tue 16:46]
+   [[file:~/files/org-files/Chairmans-Foods-Formulas.org::*Cryovac%208/28%20Costco%20Chicke%20Pot%20Pie][Cryovac 8/28 Costco Chicke Pot Pie]]
