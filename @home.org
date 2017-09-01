@@ -18,6 +18,11 @@
  - [ ] Lord of War
 
 * Networking
+** ATT Uverse Modem Router
+- Pace
+- Model:5268AC FXN
+  - Modem and Router
+- 
 ** Cabling
 - Go with Cat 6 or Cat 5e
 - Use the B wire pattern

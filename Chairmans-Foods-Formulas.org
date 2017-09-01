@@ -77,3 +77,8 @@
 - Add 200 lb of rework batches 2 - 10.
 - Stopped at 10 batches for audit prep.
 - Pre-weigh threw away bag of drippings (48 lb)
+
+** Processing Sheet Updates
+
+*** TODO Look into Costco Stuffing and ensure formula is correct.
+    DEADLINE: <2017-09-05 Tue>
