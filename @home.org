@@ -1,21 +1,24 @@
 #+TITLE: @Home
 
-* Netflix Interest
- - [ ] Broadchurch
- - [ ] River
- - [X] Is Genesis History
- - [ ] Longmire
- - [ ] Justifified
- - [ ] How to get away with murder
- - [ ] The Crown
+* Netflix Interest [3/18]
+ - [ ] Black Mirror
  - [ ] Blacklist
- - [ ] The Keepers
- - [ ] Lion
- - [ ] Founder
- - [ ] The Matrix Trilogy
- - [ ] Jackie Brown
+ - [ ] Broadchurch
  - [ ] Cloud Atlas
+ - [X] Death Note
+ - [ ] Founder
+ - [ ] How to get away with murder
+ - [X] Is Genesis History
+ - [ ] Jackie Brown
+ - [ ] Justifified
+ - [ ] Lion
+ - [X] Longmire
  - [ ] Lord of War
+ - [ ] Louis C.K. 2017
+ - [ ] River
+ - [ ] The Crown
+ - [ ] The Keepers
+ - [ ] The Matrix Trilogy
 
 * Networking
 ** ATT Uverse Modem Router

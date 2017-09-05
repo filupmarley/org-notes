@@ -79,6 +79,5 @@
 - Pre-weigh threw away bag of drippings (48 lb)
 
 ** Processing Sheet Updates
-
 *** TODO Look into Costco Stuffing and ensure formula is correct.
-    DEADLINE: <2017-09-05 Tue>
+    DEADLINE: <2017-09-06 Wed>
