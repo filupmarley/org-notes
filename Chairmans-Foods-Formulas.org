@@ -69,6 +69,9 @@
 - Update all formulas
 
 ** Daily Production Notes
+*** [2017-09-09 Sat 15:05] HEB Leaking Queso Cups
+**** HEB Classic Queso from Saturday, 9/2 production
+- Had 189 leaking tubs. Make sure this gets catured with yield report.
 
 *** [2017-08-29 Tue 08:46]
 
@@ -78,6 +81,9 @@
 - Stopped at 10 batches for audit prep.
 - Pre-weigh threw away bag of drippings (48 lb)
 
+
 ** Processing Sheet Updates
-*** TODO Look into Costco Stuffing and ensure formula is correct.
-    DEADLINE: <2017-09-06 Wed>
+*** DONE Look into Costco Stuffing and ensure formula is correct.
+    CLOSED: [2017-09-07 Thu 14:29] DEADLINE: <2017-09-06 Wed>
+    - CLOSING NOTE [2017-09-07 Thu 14:29] \\
+      Compled and sent to Mike Buck on 9/7.
