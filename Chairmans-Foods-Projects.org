@@ -62,15 +62,18 @@
   - Total: 2,203 cups (96.3% yield)
 - Boxing
 
-***** IN-PROGRESS [2017-09-13 Wed 10:25] Queso Mama with Sausage
+***** [2017-09-13 Wed 10:25] Queso Mama with Sausage
   - Batching (9/14):
     - 3 x 1,366 batches, Fill weight is 32oz
     - Batch #1: 624 cups (91.3%)
     - Batch #2: 656 cups (96.0%)
     - Batch #3: 647 cups (94.7%)
     - Total: 1,927 cups (94.0%)
-  - Boxing (9/15):
-    - 51 cases boxed on 9/15. There is more to box.
+  - Boxing (9/15,19):
+    - 9/15: 51 (35+16 (part of 9/19 numbers)) cases boxed on 9/15. There is more to box.
+    - 9/19: 35 (16(from 9/15 pack +19) + 35 +15
+    - Total: 120 cases (70% yield) (1,440 cups)
+    - We are missing 487 cups!
      
 **** HEB Gueso Blanco
 ***** IN-PROGRESS [2017-09-16 Sat 15:39] HEB Queso Blanco
@@ -79,7 +82,8 @@
   - Batch #1: 1200 cups (61.6% yield)
   - Batch #2: 1560 cups (80.1% yield)
   - Batch #3: 1560 cups (80.1% yield)
-- Boxing
+- Boxing (9/19,20)
+  - Cases (80+35) = 
 
 
 *** [2017-08-18 Fri 11:20] Jay Alley Queso with Peppers.

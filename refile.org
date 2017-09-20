@@ -135,3 +135,10 @@
      :END:
    [2017-08-29 Tue 16:46]
    [[file:~/files/org-files/Chairmans-Foods-Formulas.org::*Cryovac%208/28%20Costco%20Chicke%20Pot%20Pie][Cryovac 8/28 Costco Chicke Pot Pie]]
+**** TODO Look at Costco Stuffing and determine if the formula is correct
+     :LOGBOOK:
+     CLOCK: [2017-09-20 Wed 15:33]
+     :END:
+   [2017-09-20 Wed 15:33]
+- We will sous vide cook the onions
+- No yield loss and no butter added
