@@ -2,6 +2,15 @@
 
 * Projects
 ** Sous Vide Beef
+*** [2017-11-17 Fri 11:41]
+**** CANCELLED [#A] Determine process: how to flatten bags for shreadding. :CANCELLED:
+     CLOSED: [2017-11-21 Tue 22:32] DEADLINE: <2017-11-21 Tue>
+     - State "CANCELLED"  from "TODO"       [2017-11-21 Tue 22:32] \\
+       Not needed
+**** DONE [#A] Determine how much shredded proteins to add to a bin for hand mixing
+     CLOSED: [2017-11-20 Mon 10:48] DEADLINE: <2017-11-21 Tue>
+     - CLOSING NOTE [2017-11-20 Mon 10:48] \\
+       Will go with 45 lb bins. 2 will be dumped into the mixer (90 lb total)
 *** [2017-07-07 Fri 15:06]
 **** DONE [#B] Make samples of SV Beef for Champs                 :Benchwork:
      CLOSED: [2017-07-13 Thu 12:27] DEADLINE: <2017-07-14 Fri>

@@ -135,10 +135,34 @@
      :END:
    [2017-08-29 Tue 16:46]
    [[file:~/files/org-files/Chairmans-Foods-Formulas.org::*Cryovac%208/28%20Costco%20Chicke%20Pot%20Pie][Cryovac 8/28 Costco Chicke Pot Pie]]
-**** TODO Look at Costco Stuffing and determine if the formula is correct
-     :LOGBOOK:
-     CLOCK: [2017-09-20 Wed 15:33]
-     :END:
+**** DONE Look at Costco Stuffing and determine if the formula is correct
+     CLOSED: [2017-11-17 Fri 11:35]
+     - CLOSING NOTE [2017-11-17 Fri 11:35] \\
+       Completed
    [2017-09-20 Wed 15:33]
 - We will sous vide cook the onions
 - No yield loss and no butter added
+**** DONE Update Costco Pot Pie to reflect a 55 lb bag in the formula.
+     CLOSED: [2017-10-25 Wed 19:16] SCHEDULED: <2017-10-19 Thu>
+     - CLOSING NOTE [2017-10-25 Wed 19:16] \\
+       Chuck completed this item.
+   [2017-10-19 Thu 14:30]
+   [[file:~/files/org-files/Chairmans-Foods-Projects.org::*Update%20pork%20raw%20material%20number%20for%20Jafco%20Mojo%20Pork%20and%20Champs%20SV%20Pork][Update pork raw material number for Jafco Mojo Pork and Champs SV Pork]]
+**** CANCELLED :CANCELLED:
+     CLOSED: [2017-11-17 Fri 11:35]
+     - State "CANCELLED"  from "TODO"       [2017-11-17 Fri 11:35] \\
+       entered incorrectly
+   [2017-11-15 Wed 16:26]
+**** CANCELLED :CANCELLED:
+     CLOSED: [2017-11-17 Fri 11:36]
+     - State "CANCELLED"  from "TODO"       [2017-11-17 Fri 11:36] \\
+       Entered incorrectlyr
+   [2017-11-15 Wed 16:31]
+**** DONE [#A] Finish up Cranberry stuffing to show new crouton amounts
+     CLOSED: [2017-11-17 Fri 11:33] DEADLINE: <2017-11-16 Thu>
+     - CLOSING NOTE [2017-11-17 Fri 11:33] \\
+       Completed on 11/16. Ended up with a ratio of 1.67:1. Product is not exact match but will perform ok.
+     :LOGBOOK:
+     CLOCK: [2017-11-15 Wed 16:53]--[2017-11-15 Wed 16:54] =>  0:01
+     :END:
+   [2017-11-15 Wed 16:53]

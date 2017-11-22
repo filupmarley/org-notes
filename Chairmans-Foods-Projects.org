@@ -52,7 +52,10 @@
   - Lost 31 cups. 17 were wasted that leaves 14 "missing"
 
 **** Queso Mama with Sausage
-***** IN-PROGRESS [2017-09-19 Tue 10:32] Queso Mama with Sausage
+***** DONE [2017-09-19 Tue 10:32] Queso Mama with Sausage
+      CLOSED: [2017-10-13 Fri 15:52]
+      - CLOSING NOTE [2017-10-13 Fri 15:52] \\
+	Completed.
 - Batching (9/19)
   - 3 x 1,525
   - No adjustments made to formula
@@ -76,7 +79,10 @@
     - We are missing 487 cups!
      
 **** HEB Gueso Blanco
-***** IN-PROGRESS [2017-09-16 Sat 15:39] HEB Queso Blanco
+***** DONE [2017-09-16 Sat 15:39] HEB Queso Blanco
+      CLOSED: [2017-10-13 Fri 15:52]
+      - CLOSING NOTE [2017-10-13 Fri 15:52] \\
+	Completed
 - Batching (9/16)
   - 3 @1,460
   - Batch #1: 1200 cups (61.6% yield)
@@ -139,6 +145,16 @@
 - Accounting yield used 16,860 instead of 16,760 to calculate the yield. Yield should be adjusted to 96.8%
 
 ** Processing Sheets/Raw Material Changes
+*** DONE [#B] Update pork raw material number for Jafco Mojo Pork and Champs SV Pork :Processing_Sheets:
+    CLOSED: [2017-11-15 Wed 12:08] SCHEDULED: <2017-10-20 Fri>
+    - CLOSING NOTE [2017-11-15 Wed 12:08] \\
+      Both items were updated on11/15.
+*** [2017-10-17 Tue 15:58]
+**** CANCELLED Verify Best By Date for Cape Cod Chicken Salad     :CANCELLED:
+     CLOSED: [2017-11-21 Tue 22:33] SCHEDULED: <2017-10-18 Wed>
+     - State "CANCELLED"  from "TODO"       [2017-11-21 Tue 22:33]
+- Formula sheet says 37 days. Pkg line page says 40 days.
+
 *** [2017-09-15 Fri 10:32] Processing Sheet Changes
 **** DONE Update HEB Hot Pepper Queso                     :Processing_Sheets:
      CLOSED: [2017-09-18 Mon 16:26] SCHEDULED: <2017-09-15 Fri>
@@ -171,6 +187,12 @@
 - Update all formulas
 
 ** Daily Production Notes
+*** [2017-09-26 Tue 14:50] Champs Mac and Cheese
+- Product is too think. Bostwick of around 
+*** [2017-09-26 Tue 14:48] HEB Blanco
+- Batch #2 was very thick. Product was in spec during initial viscosity check (bostwick was 18 - 20). During prouction run it went up to a 4. Added 20 gallons of water to run properly.
+- Reworking 1/2 a cart of batch #2 to batch #3. We had to add 20 gallons to batch #3.
+
 *** [2017-09-09 Sat 15:05] HEB Leaking Queso Cups
 **** HEB Classic Queso from Saturday, 9/2 production
 - Had 189 leaking tubs. Make sure this gets catured with yield report.
@@ -183,9 +205,55 @@
 - Stopped at 10 batches for audit prep.
 - Pre-weigh threw away bag of drippings (48 lb)
 
-
 ** Processing Sheet Updates
 *** DONE Look into Costco Stuffing and ensure formula is correct.
     CLOSED: [2017-09-07 Thu 14:29] DEADLINE: <2017-09-06 Wed>
     - CLOSING NOTE [2017-09-07 Thu 14:29] \\
       Compled and sent to Mike Buck on 9/7.
+
+** General
+
+*** CANCELLED Look into in-line puree options. Get with Randy.    :CANCELLED:
+    CLOSED: [2017-11-15 Wed 10:42] SCHEDULED: <2017-10-17 Tue>
+    - State "CANCELLED"  from "WAITING"    [2017-11-15 Wed 10:42] \\
+      Canceled by Chris at this time.
+    - State "WAITING"    from "TODO"       [2017-10-17 Tue 16:00] \\
+      Randy will look into this. I talked to him about this on Monday 10/16.
+- Look at Admix and Stephan
+
+*** WAITING Cryovac 1045 Install                                    :WAITING:
+    SCHEDULED: <2017-11-24 Fri>
+
+    - State "WAITING"    from "WAITING"    [2017-11-21 Tue 22:33] \\
+      Installing on Friday 11/25
+*** DONE [#A] Finalize Champs new item processes before 11/15 run
+    CLOSED: [2017-11-20 Mon 10:45] DEADLINE: <2017-11-17 Fri>
+    - CLOSING NOTE [2017-11-20 Mon 10:45] \\
+      compled on 11/18.
+    :LOGBOOK:
+    CLOCK: [2017-11-17 Fri 11:37]--[2017-11-17 Fri 13:13]
+    :END:
+- Running new products on 11/15
+
+*** TODO [#B] Look at people asumptions per line or product.
+    DEADLINE: <2017-12-01 Fri>
+
+*** TODO [#B] Look at the Downtme Capture Log.
+    DEADLINE: <2017-11-03 Fri>
+- We're double capturing entries.
+
+*** DONE [#A] Put together prioritized list of deliverables to increase profits.
+    CLOSED: [2017-10-25 Wed 19:15] DEADLINE: <2017-10-18 Wed>
+
+    - CLOSING NOTE [2017-10-25 Wed 19:15] \\
+      Completed for 10/19 meeting
+** Goal Deliverables
+   
+*** [2017-10-16 Mon 20:02]
+
+- Processing Sheets accuracy
+- Continue working with Maintrack
+- Product Process Audit for X number of products including PreWeigh
+- Define Head Count Efficiencies and/or process alternatives
+- Finalize Queso Process
+- Batch Cycle Times

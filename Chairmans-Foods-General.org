@@ -9,8 +9,10 @@
 - Pre-weigh Room - Buckets of cheese will be standardized to 100lb. They will have a lot number listed on each bucket.
 - Cranbery Stuffing producing on 8/21.
 
-**** TODO Work with Brent to determine the optimum process temperature for Queso Line
-     SCHEDULED: <2017-10-06 Fri>
+**** CANCELLED Work with Brent to determine the optimum process temperature for Queso Line :CANCELLED:
+     CLOSED: [2017-10-13 Fri 15:51] SCHEDULED: <2017-10-06 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-10-13 Fri 15:51] \\
+       This dropped off. I'm still looking into it.
 - What temperature is most efficient and safe?
 - How do we check it?
 - When do we check it?
@@ -23,7 +25,10 @@
        This will be ongoing.
      - State "WAITING"    from "TODO"       [2017-08-04 Fri 11:11] \\
        Waiting for Tubs to arrive to CF.
-**** IN-PROGRESS Production will need to label Queso Mama tubs for a short period of time
+**** DONE Production will need to label Queso Mama tubs for a short period of time
+     CLOSED: [2017-10-13 Fri 15:51]
+     - CLOSING NOTE [2017-10-13 Fri 15:51] \\
+       We have changed over to the printed cups.
      - State "IN-PROGRESS" from "WAITING"    [2017-08-28 Mon 16:12]
 - Approximately 12,000 cups will need to be labeled for each flavor.
 **** DONE Producing Onions and Celery WIP for Cranbury Stuffing
