@@ -221,9 +221,10 @@
       Randy will look into this. I talked to him about this on Monday 10/16.
 - Look at Admix and Stephan
 
-*** WAITING Cryovac 1045 Install                                    :WAITING:
-    SCHEDULED: <2017-11-24 Fri>
+*** DONE Cryovac 1045 Install
+    CLOSED: [2017-11-27 Mon 16:00] SCHEDULED: <2017-11-24 Fri>
 
+    - State "DONE"       from "WAITING"    [2017-11-27 Mon 16:00]
     - State "WAITING"    from "WAITING"    [2017-11-21 Tue 22:33] \\
       Installing on Friday 11/25
 *** DONE [#A] Finalize Champs new item processes before 11/15 run
