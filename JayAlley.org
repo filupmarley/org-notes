@@ -88,3 +88,5 @@
      - State "DONE"       from "SHIP"       [2017-07-25 Tue 14:09]
 - [X] Yellow Queso with Peppers
 - [X] Chorizo Queso
+**** TODO Get Jay Alley case Coding info
+     DEADLINE: <2017-12-15 Fri>

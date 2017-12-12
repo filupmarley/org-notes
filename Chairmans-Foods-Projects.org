@@ -231,9 +231,6 @@
     CLOSED: [2017-11-20 Mon 10:45] DEADLINE: <2017-11-17 Fri>
     - CLOSING NOTE [2017-11-20 Mon 10:45] \\
       compled on 11/18.
-    :LOGBOOK:
-    CLOCK: [2017-11-17 Fri 11:37]--[2017-11-17 Fri 13:13]
-    :END:
 - Running new products on 11/15
 
 *** TODO [#B] Look at people asumptions per line or product.
@@ -258,3 +255,104 @@
 - Define Head Count Efficiencies and/or process alternatives
 - Finalize Queso Process
 - Batch Cycle Times
+
+** Formula Coding and Throughput
+*** Champs
+**** Cinnamon Apples
+1) Fill Wt: 4lb
+2) Throughput: 31/min
+   1) 124 lb/min
+3) Batch Cycle Time: 25min (2018.3lb batch)
+4) Code
+   1) Bag
+      1) Product Name: [Cinnamon Apples]
+      2) Champs #: [03018-YYDDD-12]
+      3) Run # Bag #
+   2) Case
+      1) Pre Pinted Label on end of case
+      2) Barcode and Use By on side of case
+
+**** Green Beans
+1) Fill Wt: 5lb
+2) Throughput: 18/min
+   1) Broth: 39.4 lb/min
+   2) Green Beans:46.1 lb/min
+   3) Ham: 4.5 lb/min
+   4) Total Throughput: 90 lb/min
+3) Batch Cycle Time: 25min (3,000 lb batch)
+4) Code
+   1) Bag
+      1) Product Name: [Seasoned Gren Beans]
+      2) Champs #: [03018-YYDDD-12]
+      3) Run # Bag #
+   2) Case (need to update)
+      1) Pre Pinted Label on end of case
+      2) Barcode and Use By on side of case
+
+**** Mac and Cheese 105250
+1) Fill Wt: 5lb
+2) Throughput: As low as 13/min as high as 17/min
+   1) Sauce (Low): 44.6 lb/min
+   2) Sauce (High): 58.4 lb/min
+   3) Pasta (Low): 20.3 lb/min
+   4) Pasta (High): 26.5 lb/min
+   5) Total: Low (65 lb/min)
+   6) Total: High (85 lb/min)
+3) Batch Cycle Time: 30min (2594.7 lb batch)
+4) Code
+   1) Bag
+      1) Product Name: [Macaroni and Cheese]
+      2) Champs #: [03018-YYDDD-12]
+      3) Run # Bag #
+   2) Case
+      1) Pre Pinted Label on the side of case but it wraps around to the end of the case. UPC end of Label wraps around to the end of the case.
+      2) Barcode and Use By on side of case
+*** Costco
+**** Pot PIe
+1) Fill Wt: 2.5lb
+2) Throughput: 42/min
+   1) 105 lb/min
+3) Batch Cycle Time: 40 min (3210 lb bacth)
+4) Code
+   1) Bag
+      1) Product Name: [Costco Pot Pie Filling]
+      2) Costco Item #: [40348]
+      3) "Keep Refrigerated"
+      4) Use By Date
+      5) Bag # Run #
+   2) Case
+      1) CF Printed Label on side of case (Includes use by date and pack date)
+      2) Run # printed below label.
+
+*** Image Foods
+**** Country Style Corn
+     :LOGBOOK:
+     CLOCK: [2017-12-07 Thu 18:55]--[2017-12-07 Thu 18:56] =>  0:01
+     :END:
+1) Fill Wt: 4lb
+2) Throughput: 24/min
+   1) 96 lb/min
+3) Batch Cycle time: 65 minutes on Tucs (1800 lb batch)
+4) Code
+   1) Bag
+      1) Product Name: [Country Style Corn]
+      2) Mfg. Date Julian [YDDD]
+      3) Run #
+   2) Case
+      1) CF printed label on side of case.
+      2) Run # printed on side of case.
+
+*** Jay Alley
+**** 500221 Queso with Peppers
+1) Fill Wt: 5lb
+2) Throughput: 22/min
+   1) 110 lb/min
+3) Batch Cycle Time: 60min (1700lb batch)
+4) Code
+   1) Bag
+      1) Product Name: [Yellow Queso with Peppers]
+      2) MFG Date Open [MM/DD/YY]
+      3) Bag # Run #
+   2) Case
+      1) Need to determine case coding.
+      2) 

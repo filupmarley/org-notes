@@ -166,3 +166,9 @@
      CLOCK: [2017-11-15 Wed 16:53]--[2017-11-15 Wed 16:54] =>  0:01
      :END:
    [2017-11-15 Wed 16:53]
+**** DONE Get Image foods corn throughput rate
+     CLOSED: [2017-12-08 Fri 12:30] DEADLINE: <2017-12-08 Fri>
+     - CLOSING NOTE [2017-12-08 Fri 12:30] \\
+       cycle time is approximately 65 minutes.
+   [2017-12-07 Thu 18:21]
+   [[file:~/files/org-files/Chairmans-Foods-Projects.org::*Country%20Style%20Corn][Country Style Corn]]

@@ -561,6 +561,11 @@
        Product is too acidic. reduce citric acid. Increase salt. Possibly reduce starch slightly.and it seemed to have a stronger citric acid flavor and I believe the tomatillos we used provided a different flavor.
      - I suggest we buy/source the tomatillos that Jeremy spec’d to see if our formula is a match to his.
 ** Honey Habanero Salsa
+*** [2017-11-28 Tue 23:36]
+**** DONE [#A] Confirm honey number for Honey Habanero
+     CLOSED: [2017-11-29 Wed 16:58] SCHEDULED: <2017-11-29 Wed>
+     - CLOSING NOTE [2017-11-29 Wed 16:58] \\
+       Mike ocnfirmed resource # today.
 *** [2017-06-26 Mon 10:08]
 Initial formula received from Champs. Jen to enter into our system
 **** CANCELLED Make samples of Champs Honey Habanero Salsa. :Benchwork:CANCELLED:
