@@ -354,5 +354,5 @@
       2) MFG Date Open [MM/DD/YY]
       3) Bag # Run #
    2) Case
-      1) Need to determine case coding.
+      1) Need to determine case coding!
       2) 
