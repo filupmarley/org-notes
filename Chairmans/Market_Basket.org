@@ -1,0 +1,60 @@
+#+TITLE: Market Basket
+
+* Projects
+** Alfredo Sauce Reformulation
+*** [2017-06-07 Wed 09:53] Benwork Feeback
+ - Our sample was thicker than control. Could be something with the freeze/thaw process. Whiter than control as well. Less parm flavor.
+   1. Will reduce starch amount. Will target a slightly thinner sauce prior to freezing.
+   2. Reduce Titanium Dioxide
+   3. Increase parm through either parm cheese or parm base.
+**** CANCELLED Make revised Market Basket Alfredo Sauce after cost analysis :Benchwork:CANCELLED:
+     CLOSED: [2017-06-27 Tue 12:40] SCHEDULED: <2017-06-23 Fri>
+
+     - State "CANCELLED"  from "TODO"       [2017-06-27 Tue 12:40] \\
+       Will show customer revised item. No more revisions at this point.
+*** [2017-05-19 Fri 09:09] Sauce Reformulation
+   - Making round 2 of Market Basket Alfredo Sauce today
+   - Making round 2 of Market Basket Carbonara Sauce today
+   - Making round 2 of Market Basket Vodka Sauce today 
+** Carbonara Sauce Reformulation
+*** [2017-06-07 Wed 10:05] Benchwork feedback
+**** CANCELLED Make sample of Market Basket Carbonara sauce after cost analysis :Benchwork:CANCELLED:
+     CLOSED: [2017-06-27 Tue 12:40] SCHEDULED: <2017-06-23 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-06-27 Tue 12:40] \\
+       Will show customer revised item. No more revisions at this point.
+ - Our sample wa slightly thinner a little less garlic flavor.
+   1. Reduce starch
+   2. slight increase to garlic
+*** [2017-05-19 Fri 09:09] Sauce Reformulation
+   - Making round 2 of Market Basket Alfredo Sauce today
+   - Making round 2 of Market Basket Carbonara Sauce today
+   - Making round 2 of Market Basket Vodka Sauce today 
+** Vodka Sauce Reformulation
+*** [2017-06-07 Wed 10:09] Benchwork feedback
+**** CANCELLED Make sample of Market Basket Vodka Sauce after cost analysis :Benchwork:CANCELLED:
+     CLOSED: [2017-06-27 Tue 12:41] SCHEDULED: <2017-06-23 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-06-27 Tue 12:41] \\
+       Will show customer revised item. No more revisions at this point.
+ - There appeared to be a great deal more tomatoes in our sample veresus control. The amount was actually not changed so we need to look at what the difference might be.
+   1. Blend tomatoes with an emulsion blender.
+*** [2017-05-19 Fri 09:09] Sauce Reformulation
+   - Making round 2 of Market Basket Alfredo Sauce today
+   - Making round 2 of Market Basket Carbonara Sauce today
+   - Making round 2 of Market Basket Vodka Sauce today 
+
+* Task
+**** DONE Taste new Market Basket formulas with Dan.
+     CLOSED: [2017-06-06 Tue 14:58] SCHEDULED: <2017-06-06 Tue>
+     - CLOSING NOTE [2017-06-06 Tue 14:58] \\
+       Went well. Overall feeling was the reformulated items are good, but need more work on consistency and flavor impact.
+**** DONE Send Market Basket formulas to Bill for costing [3/3]
+     CLOSED: [2017-06-16 Fri 16:17] DEADLINE: <2017-06-16 Fri>
+     - CLOSING NOTE [2017-06-16 Fri 16:17] \\
+       All three formulas sent Bill on 6/16.
+       Sent the following
+        - Alfredo 35
+        - Carbonara #3
+        - Vodka #2
+ - [X] Alfredo #5
+ - [X] Carbonara #3
+ - [X] Vodka #

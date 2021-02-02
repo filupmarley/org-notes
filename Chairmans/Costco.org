@@ -1,0 +1,141 @@
+#+TITLE: Costco
+#+FILETAGS:
+
+* Projects
+** Cranberry Cream Cheese
+*** [2017-05-25 Thu 10:41]
+ - Looking to get 90 days shelf life to gaurantee 60 days for Costco.
+** Chicken Salad Dressing
+*** [2017-07-10 Mon 10:59]
+Eggless salad dressing base
+ - Vendors
+   - Ventura foods
+   - Southern Classic
+**** DONE [#A] Receive eggless salad dressing bases from Ventura Foods
+     CLOSED: [2017-07-11 Tue 09:35] DEADLINE: <2017-07-11 Tue>
+     - CLOSING NOTE [2017-07-11 Tue 09:35] \\
+       4/1 gallon containers received on 7/11 @9:00. 2/1 gallon containers of control and 2/1 gallons containers of eggless.
+**** DONE Ship Chicken, onions and celery to Southern Classic
+     CLOSED: [2017-07-10 Mon 16:02] DEADLINE: <2017-07-10 Mon>
+     - State "DONE"       from "SHIP"       [2017-07-10 Mon 16:02]
+       //NOTE [2017-07-10 Mon 16:03]
+       Shipped on 7/10. Tracking # 779593323047
+**** DONE [#A] Process Ventura foods salad dressing bases with veggies
+     CLOSED: [2017-07-11 Tue 11:36]
+     - CLOSING NOTE [2017-07-11 Tue 11:36] \\
+       4 bags of each variable were produced
+ - Salad Dressing base with onions and celery only.
+ - No chicken added
+**** DONE [#A] Ship Ventura Foods salad dressing base out for HPP processing [2/2]:SHIP:
+     CLOSED: [2017-07-11 Tue 15:18] DEADLINE: <2017-07-11 Tue>
+     - State "DONE"       from "SHIP"       [2017-07-11 Tue 15:18]
+     - NOTE - Shipment tracking number is 779604989699
+     - NOTE - Confirmed packages were delivered to HPP site on 7/12.
+     - [X] Chicken Salad Dressing with onions and celery
+     - [X] Eggless Chicken Salad Dressing with onions and celery
+**** DONE [#A] Have samples sent from HPP site to Nic Lyons and Karen (R&D) [2/2]
+     CLOSED: [2017-07-13 Thu 15:50] DEADLINE: <2017-07-13 Thu>
+     - State "DONE"       from "SHIP"       [2017-07-13 Thu 15:50]
+ - [X] Chicken Salad Dressing [2/2]
+   - [X] Two CSD for Nic
+   - [X] One CSD for Karan
+ - [X] Eggless Chickne Salad Dressing [2/2]
+   - [X] Two eggless for Nic
+   - [X] One eggless for Karen
+*** [2017-05-25 Thu 10:41]
+ - Looking to get 90 days shelf life to gaurantee 60 days for Costco.
+*** [2017-05-19 Fri 10:21]
+ - Sensory tasting on day 60 product on 5/18.
+   - Product tasted ok. Chicken had a shredded appearance. Not sure if it was just that container, or is it caused by handling during the HPP process, or is it th HPP process itself.
+** Veggie Salad Dressing
+*** [2017-06-05 Mon 15:25]
+**** DONE [#A] Look for 2 gallon sample of eggless dressing from Sourthern Classic
+     CLOSED: [2017-06-07 Wed 16:05] DEADLINE: <2017-06-06 Tue>
+     - CLOSING NOTE [2017-06-07 Wed 16:05] \\
+       Sample located.
+*** [2017-05-25 Thu 10:56]
+ - Need to taste the following items
+**** CANCELLED Taste current Ventura Dressing (w/egg)             :CANCELLED:
+     CLOSED: [2017-06-09 Fri 08:38] DEADLINE: <2017-05-25 Thu>
+     - State "CANCELLED"  from "TODO"       [2017-06-09 Fri 08:38] \\
+       I missed the tasting.
+**** CANCELLED Taste Opened container of Ventura Dressing (no egg) :CANCELLED:
+     CLOSED: [2017-06-09 Fri 08:39] DEADLINE: <2017-05-25 Thu>
+     - State "CANCELLED"  from "TODO"       [2017-06-09 Fri 08:39] \\
+       I missed the tasting.
+**** CANCELLED Taste earlier version of dressing from Sheldon (no egg) :CANCELLED:
+     CLOSED: [2017-06-09 Fri 08:39] DEADLINE: <2017-05-25 Thu>
+     - State "CANCELLED"  from "TODO"       [2017-06-09 Fri 08:39] \\
+       I missed the tasting.
+*** [2017-05-25 Thu 10:41]
+ - Looking to get 90 days shelf life to gaurantee 60 days for Costco.
+*** [2017-05-18 Thu 10:33] 
+   - Looking to increase the current shelf life of the veggie and dressing blend to 53 days various reasons such as, production scheduling, logistics, RM ordering and usage, etc.
+   - Before we approach Costco for approval we need very detailed results of both organoleptic and micro data.
+
+** Shelf Life Validation Plan
+*** [2017-05-25 Thu 10:32]
+ - Need to look into validating our shelf life protocol.
+   - Is Chairmans buttoned up on our end?
+   - What is the handling procedures at the HPP facility?
+   - What is the handling procedures/testing procedures for Microlab.
+     - Is it acceptable?
+**** CANCELLED Look into the shelf life protocol.                 :CANCELLED:
+     CLOSED: [2017-07-26 Wed 09:26] DEADLINE: <r2017-06-23 Fri>
+
+     - State "CANCELLED"  from "IN-PROGRESS" [2017-07-26 Wed 09:26] \\
+       No longer desire to do this.
+     - State "IN-PROGRESS" from "WAITING"    [2017-06-20 Tue 16:16]
+     - State "WAITING"    from "IN-PROGRESS" [2017-06-19 Mon 10:23] \\
+       Sent a followup note to Morgan on 6/19
+** Turkey Dressing
+*** [2017-06-16 Fri 13:49]
+**** DONE [#B] Perform Freeze/thaw testing on Costco stuffing
+     CLOSED: [2017-07-25 Tue 14:34] SCHEDULED: <2017-07-26 Wed>
+     - CLOSING NOTE [2017-07-25 Tue 14:34] \\
+       Looked at the bags on 7/25 (Day #20). All 4 bags are beginning to swell. Brent will discuss with Club Chef and determine if a disinfectnt spray can be applied to the veggies. The issue is probably most likely being caused by the celery.
+     - NOTE [2017-07-25 Tue 14:31] \\
+       All 4 bags of stuffing and veggies began to swell on day 20.
+       Brent will check with Club Chef to see if they can spray the veggies with a preservative spray.
+     - NOTE [2017-07-18 Tue 14:20] \\
+       Look at 20 days and 30 days.
+     - NOTE [2017-07-19 Wed 16:09] \\
+     - Looking at day 20 on 7/26.
+     - Looking at day 30 on 8/4
+     - Need to freeze costo turkey and stuffing and then stick in the fridge for 20 days to see what happens.
+ 
+**** DONE Make beef queso samples                         :Benchwork:Samples:
+     CLOSED: [2017-06-27 Tue 12:46] SCHEDULED: <2017-06-21 Wed>
+
+     - CLOSING NOTE [2017-06-27 Tue 12:46] \\
+       Samples sent by Aubrey on 6/26.
+** Leigh Oliver (Queso Mama) for Costco
+*** [2017-07-18 Tue 12:11]
+- Current Production product has LOL extra melt cheese and salt removed.
+- R&D version is using Bongard Extra melt Cheese and salt removed.
+**** CANCELLED Make Leigh Oliver (Queso Mama) for Costco          :CANCELLED:
+     CLOSED: [2017-07-27 Thu 11:16] SCHEDULED: <2017-07-28 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-07-27 Thu 11:16] \\
+       no longer involved with this
+- Use current formula
+- Maximize cost reduction
+- Ing Dec needs to be the same as current if possible.
+- Not as much freedom with this item.
+- Use Bongard Extra Melt cheese that is due to deliver today (7/18)
+* Tasks
+
+** CANCELLED Need to perform micro testing on the Veggie and Dressing blend on day 53 :CANCELLED:
+   CLOSED: [2017-08-14 Mon 10:23]
+
+** CANCELLED Need to perform sensory analysis of veggie and dressing blend for day 53. :CANCELLED:
+   CLOSED: [2017-08-14 Mon 10:24]
+
+** DONE Ship 2 32oz Queso Mama samples to Costco                       :Ship:
+   CLOSED: [2017-05-24 Wed 16:12] DEADLINE: <2017-05-22 Mon>
+   - State "DONE"       from "CANCELLED"  [2017-05-24 Wed 16:13]
+   - State "CANCELLED"  from "TODO"       [2017-05-24 Wed 16:12] \\
+     Samples shipped on Monday 5/22 by Jen.
+ - Ship Address
+ - 3980 Ventura Drive
+ - Suite W-100
+ - Duluth GA 30096

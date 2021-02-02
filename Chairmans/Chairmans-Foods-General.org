@@ -1,0 +1,47 @@
+#+TITLE: Chairmans Foods Operations
+
+* Projects
+** OPS Meeting
+*** [2017-08-03 Thu 13:00] Ops Meeting
+**** Meeting Notes
+- CF has a new tax ID number from changing from old CF to new CF.
+- Make Processing Sheets consistent for Mike Buck.
+- Pre-weigh Room - Buckets of cheese will be standardized to 100lb. They will have a lot number listed on each bucket.
+- Cranbery Stuffing producing on 8/21.
+
+**** CANCELLED Work with Brent to determine the optimum process temperature for Queso Line :CANCELLED:
+     CLOSED: [2017-10-13 Fri 15:51] SCHEDULED: <2017-10-06 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-10-13 Fri 15:51] \\
+       This dropped off. I'm still looking into it.
+- What temperature is most efficient and safe?
+- How do we check it?
+- When do we check it?
+- Where do we check it?
+  - Probe placement
+  - Where on the line is the product sampled.
+**** DONE Make Processing sheets consistent for everyone
+     CLOSED: [2017-08-25 Fri 16:11] SCHEDULED: <2017-08-09 Wed>
+     - CLOSING NOTE [2017-08-25 Fri 16:11] \\
+       This will be ongoing.
+     - State "WAITING"    from "TODO"       [2017-08-04 Fri 11:11] \\
+       Waiting for Tubs to arrive to CF.
+**** DONE Production will need to label Queso Mama tubs for a short period of time
+     CLOSED: [2017-10-13 Fri 15:51]
+     - CLOSING NOTE [2017-10-13 Fri 15:51] \\
+       We have changed over to the printed cups.
+     - State "IN-PROGRESS" from "WAITING"    [2017-08-28 Mon 16:12]
+- Approximately 12,000 cups will need to be labeled for each flavor.
+**** DONE Producing Onions and Celery WIP for Cranbury Stuffing
+     CLOSED: [2017-08-18 Fri 17:11] SCHEDULED: <2017-08-09 Wed>
+     - CLOSING NOTE [2017-08-18 Fri 17:11] \\
+       Ongoing but going well.
+     - State "IN-PROGRESS" from "WAITING"    [2017-08-14 Mon 10:21]
+     - State "WAITING"    from "HOLD"       [2017-08-04 Fri 11:15] \\
+       Preparing for stuffing production
+     - State "DONE"       from "WAITING"    [2017-08-04 Fri 11:14]
+**** DONE Running Cranberry Stuffing broth
+     CLOSED: [2017-08-25 Fri 16:11] SCHEDULED: <2017-08-19 Sat>
+     - State "DONE"       from "WAITING"    [2017-08-25 Fri 16:11]
+**** DONE Running Cranberry Stuffing Finished Product
+     CLOSED: [2017-08-25 Fri 16:11] SCHEDULED: <2017-08-21 Mon>
+     - State "DONE"       from "WAITING"    [2017-08-25 Fri 16:11]

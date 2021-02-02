@@ -1,0 +1,92 @@
+#+TITLE: Jay Alley
+
+* Projects
+** Guacamole Chicken Salad
+*** [2017-06-14 Wed 08:10]
+ - Using Parm variable.
+*** [2017-06-14 Wed 09:26]
+ - Moving towards a kit with a few couple of different variables
+   - Variable 1
+     - Bag of guac
+     - Bag of everything else (chicken, rotel, celery, parm, cilantro, onion, salt)
+   - Variable 2
+     - Bag of quac
+     - Bag of wets (chicken, rotel, onions, rotel, celery, cilantro, onion)
+     - Bag of dries (parm, salt)
+*** [2017-05-25 Thu 11:03]
+*** 
+ - Use sous vide chicken without seasoning.
+ - 2-lb pouch
+ - Use whatever formula we come up with
+**** DONE [#A] Make 2 lb sample of Quacamole Chicken Salad 2 lb pouch for Jay Alley :Benchwork:
+      CLOSED: [2017-06-19 Mon 16:43] DEADLINE: <2017-06-19 Mon>
+
+      - CLOSING NOTE [2017-06-19 Mon 16:43] \\
+	Completed guac on 6/16. Kit is 8oz bag of HolyGuacamole and 1 bag of everyting else (chicken, parm, rotel, garlic, etc.)
+** Savory Chicken Salad
+*** [2017-05-25 Thu 11:03]
+ - Use sous vide chicken with out seasoning.
+ - 2-lb pouch
+**** DONE Make 2 lb sample of Savory Chicken Salad in pouch for Jay Alley :Benchwork:Samples:
+     CLOSED: [2017-06-13 Tue 16:34] DEADLINE: <2017-06-12 Mon> SCHEDULED: <2017-06-12 Mon>
+     - CLOSING NOTE [2017-06-13 Tue 16:34] \\
+       Completed on 6/12
+ - Using Roberts formula as a starting point.
+** Cranberry Chicken Salad 
+*** [2017-05-25 Thu 11:03]
+ - Use sous vide chicken with out seasoning.
+ - This is our current Cape Cod Salad Dressing.
+**** DONE [#B] Cordinate running Chicken Salad to make samples for Jay Alley :Samples:
+     CLOSED: [2017-06-09 Fri 15:43]
+     - CLOSING NOTE [2017-06-09 Fri 15:43] \\
+       Completed by Ellen week of 6/5
+**** DONE Make pouch/tub samples of  Cranberry Chcken Salad [4/4][100%]
+     CLOSED: [2017-06-07 Wed 16:06] DEADLINE: <2017-06-12 Mon> SCHEDULED: <2017-05-30 Tue>
+     - CLOSING NOTE [2017-06-07 Wed 16:06] \\
+       Completed today!
+ - [X] 4-lb Pouch
+ - [X] 12-oz Tub
+ - [X] 24-oz Tub
+ - [X] 40-oz Tub
+** Hot Pepper Queso
+*** [2017-05-12 Fri 09:58]
+   - Jay Alley would like all future productions of Hot Pepper Queso.
+   - These need to match R&D samples sent out on 3/28/2017. These samples were made on 3/27 (P2 variable).
+   - P2 variable increased the starch from 0.954% to 1.296% (35.8% increase)
+
+* Tasks
+
+**** DONE [#A] Ship samples of quesos to Jay Alley for tailgate concept [4/4]
+     CLOSED: [2017-07-10 Mon 15:59] DEADLINE: <2017-07-10 Mon>
+     - State "DONE"       from "SHIP"       [2017-07-10 Mon 15:59]
+     - State "SHIP"       from "SHIP"       [2017-07-07 Fri 13:22] \\
+       Shipping on Monday
+ - [X] 2 bags of Yellow Queso with Peppers (grab from inventory)
+ - [X] 2 bags of Queso with Chorizo (grab form inventory)
+ - [X] 2 bags of Blanco Queso (need to make)
+ - [X] 6 HEB 16oz Queso Dips. Any flavor is fine.
+
+**** CANCELLED Make Jay Alley Chorizo Queso                       :CANCELLED:
+     CLOSED: [2017-07-07 Fri 13:25] SCHEDULED: <2017-07-07 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-07-07 Fri 13:25] \\
+       We had product in inventory to ship so no benchwork was needed.
+ - 2/5lb samples
+
+**** DONE Make Jay Alley Blanco Queso
+     CLOSED: [2017-07-07 Fri 13:27] SCHEDULED: <2017-07-07 Fri>
+     - CLOSING NOTE [2017-07-07 Fri 13:27] \\
+       Completed today (7/7)
+ - 2/5lb sample
+
+**** DONE Make Yellow Queso with Peppers and Chorizo Queso 10lb pack samples for Jay
+     CLOSED: [2017-07-25 Tue 14:09] SCHEDULED: <2017-07-28 Fri>
+
+     - CLOSING NOTE [2017-07-25 Tue 14:09] \\
+       Products made on 7/25.
+**** DONE Ship Jay Alley Samples
+     CLOSED: [2017-07-25 Tue 14:09] SCHEDULED: <2017-07-28 Fri>
+     - State "DONE"       from "SHIP"       [2017-07-25 Tue 14:09]
+- [X] Yellow Queso with Peppers
+- [X] Chorizo Queso
+**** TODO Get Jay Alley case Coding info
+     DEADLINE: <2017-12-15 Fri>

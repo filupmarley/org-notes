@@ -1,0 +1,174 @@
+#+FILETAGS: REFILE
+
+* DONE Revew champs ethnic request with Jen
+  CLOSED: [2017-05-12 Fri 14:22] DEADLINE: <2017-05-12 Fri>
+  - CLOSING NOTE [2017-05-12 Fri 14:22] \\
+    Reviewed with Jen. Plan is to get everything complete by Thursday 5/18/2017
+  :LOGBOOK:
+  CLOCK: [2017-05-11 Thu 14:18]--[2017-05-11 Thu 14:18] =>  0:00
+  :END:
+[2017-05-11 Thu 14:18]
+* DONE Make Sous Vide Pork Samples with 20% less onions and chiles
+  CLOSED: [2017-05-16 Tue 14:54] DEADLINE: <2017-05-16 Tue>
+  :PROPERTIES:
+  :Product:  Sous Vide Pork
+  :END:
+  - CLOSING NOTE [2017-05-16 Tue 14:54] \\
+    Jen/Tony finished this sample up today.
+  :LOGBOOK:
+  CLOCK: [2017-05-12 Fri 10:46]--[2017-05-12 Fri 10:50] =>  0:04
+  :END:
+[2017-05-12 Fri 10:46]
+* DONE Evaluate Red and Green Peppers from Eckert and Hanover
+  CLOSED: [2017-05-19 Fri 11:20] DEADLINE: <2017-05-19 Fri>
+  - CLOSING NOTE [2017-05-19 Fri 11:20] \\
+    No issues going to Eckert. We'll need to watch how we're starging the tote to make sure we don't have a lot of freeze/thaw issues.
+  :LOGBOOK:
+  CLOCK: [2017-05-16 Tue 14:47]--[2017-05-16 Tue 14:49] =>  0:02
+  :END:
+[2017-05-16 Tue 14:47]
+* DONE Check with Justin on water addition for Champs mac and cheese
+  CLOSED: [2017-05-18 Thu 10:13] DEADLINE: <2017-05-18 Thu>
+  - CLOSING NOTE [2017-05-18 Thu 10:13] \\
+    Verified with Justin that we add 10 gallons per starch bucket (20 gallons total)
+  :LOGBOOK:
+  CLOCK: [2017-05-17 Wed 15:47]--[2017-05-17 Wed 15:47] =>  0:00
+  :END:
+[2017-05-17 Wed 15:47]
+* CANCELLED Decide if Thursday of Friday will work best for Microbac visit :CANCELLED:
+  CLOSED: [2017-06-29 Thu 10:12] DEADLINE: <2017-06-23 Fri>
+  - State "CANCELLED"  from "TODO"       [2017-06-29 Thu 10:12] \\
+    I will come back to this.
+  :LOGBOOK:
+  CLOCK: [2017-06-20 Tue 15:29]--[2017-06-20 Tue 15:30] =>  0:01
+  :END:
+[2017-06-20 Tue 15:29]
+[[file:~/files/org-files/Champs%20(PFS).org::*Projects][Projects]]
+* CANCELLED Check with Jen about pH probe and salsa               :CANCELLED:
+  CLOSED: [2017-07-25 Tue 08:13] DEADLINE: <2017-06-30 Fri>
+  - State "CANCELLED"  from "TODO"       [2017-07-25 Tue 08:13] \\
+    No need to look into this
+  :LOGBOOK:
+  CLOCK: [2017-06-29 Thu 09:24]--[2017-06-29 Thu 09:25] =>  0:01
+  :END:
+[2017-06-29 Thu 09:24]
+* DONE Look into tortilla and cilantro usage for Enchilada Kit.
+  CLOSED: [2017-07-11 Tue 15:24] SCHEDULED: <2017-07-11 Tue>
+  - CLOSING NOTE [2017-07-11 Tue 15:24] \\
+    Looks like damaged bags of tortilla and cilantro are adding up over time.
+  :LOGBOOK:
+  CLOCK: [2017-07-07 Fri 09:52]--[2017-07-07 Fri 09:53] =>  0:01
+  :END:
+[2017-07-07 Fri 09:52]
+* Saturday 2017/07/15                                                  :NOTE:
+  :LOGBOOK:
+  CLOCK: [2017-07-15 Sat 14:27]--[2017-07-15 Sat 14:46] =>  0:19
+  CLOCK: [2017-07-15 Sat 11:11]--[2017-07-15 Sat 11:15] =>  0:04
+  :END:
+** Champs Green Beans
+*** [2017-07-15 Sat 11:11]
+  - Unable to print Champs Green Beans case information properly
+    - Co Pilot printer and computer were not talking.
+    - We tried rebooting both the printer and the computer, but still couldn't get them to work.
+    - We tried everything we could think of, but nothing worked.
+    - We will print the use by date, but we are not able to print the bar code (mfg. date info).
+    - Printed code used is: 03018-17191-12 1 Use By 07/10/18
+** Chester's Green Beans
+[2017-07-15 Sat 14:32]
+- Cryovac
+  - Made 2 batches of broth then SV cooked a batch in the kettle. Went back to broth then SV cooked 2 bathes of beans. Will go back and  make last batch of broth.
+  - Scoop that was being used for the bacon went missing. Scoop was found in the Cryo hopper.
+- SV Cooking
+  - Kettle Cook: Down 30 minutes clearing bags away from the mixer and outlet pipe.
+** Queso Mama Green Chile Queso
+*** [2017-07-15 Sat 14:32]
+- All product packed.
+** SV Chicken 
+*** [2017-07-15 Sat 14:40]
+- 1 pallet was packed incorrectly from vendor. Chicken wasn't bagged or separated. It was just a box of chicken breast frozen into a block. It was not processed.
+- Having issues finding available totes between green beans and queso.
+** MV Chicken
+*** [2017-07-15 Sat 14:33]
+-No issues. 
+** Champs Mac and Cheese
+*** [2017-07-15 Sat 14:32]
+- Finished packing Champs Mac and Cheese from 7/14 production.
+**** CANCELLED Take a look at the new RS Bongard Cheese frozen to test grinder. Capture results. :CANCELLED:
+     CLOSED: [2017-08-14 Mon 10:21] SCHEDULED: <2017-08-04 Fri>
+     - State "CANCELLED"  from "TODO"       [2017-08-14 Mon 10:21] \\
+       Issue is not being pursued.
+     :LOGBOOK:
+     CLOCK: [2017-07-19 Wed 16:00]--[2017-07-19 Wed 16:02] =>  0:02
+     :END:
+   [2017-07-19 Wed 16:00]
+- Want to look at grinding a 45# block of cheese.
+**** DONE Check with Ellen on Comfort Quisine mislabel
+     CLOSED: [2017-08-07 Mon 15:33] SCHEDULED: <2017-07-28 Fri>
+     - CLOSING NOTE [2017-08-07 Mon 15:33] \\
+       Talked with Ellen. We will label carts gonig forward to help prevent this from happening in the future.
+     :LOGBOOK:
+     CLOCK: [2017-07-27 Thu 14:43]--[2017-07-27 Thu 14:43] =>  0:00
+     :END:
+   [2017-07-27 Thu 14:43]
+**** DONE Update Quesos to new raw material 3 114904 [11/11]
+     CLOSED: [2017-08-02 Wed 16:08]
+     - CLOSING NOTE [2017-08-02 Wed 16:08] \\
+       Completed all formula updates.
+     :LOGBOOK:
+     CLOCK: [2017-08-02 Wed 16:05]--[2017-08-02 Wed 16:07] =>  0:02
+     :END:
+   [2017-08-02 Wed 16:05]
+- [X] Champs Smoky PepperJack Mac & Cheese - 106260
+- [X] Champs Ultimate Mac & Cheese - 105250
+- [X] Comfort Quisine Jalapeno Queso - 116600.xls
+- [X] HEB Classic Queso - 075183
+- [X] HEB Hot Pepper Queso - 075186
+- [X] HEB Queso Blanco - 075155
+- [X] HEB Queso with Pork Chorizo - 074890
+- [X] HEB Queso with Pork Sausage - 074854
+- [X] Queso Mama Hot White Queso - 106200.xls
+- [X] Queso Mama Beer Queso - 106220
+- [X] Queso Mama White Queso w Pork Sausage - 106330
+**** Talk about capability studies                                     :NOTE:
+     :LOGBOOK:
+     CLOCK: [2017-08-29 Tue 16:46]--[2017-08-29 Tue 16:47] =>  0:01
+     :END:
+   [2017-08-29 Tue 16:46]
+   [[file:~/files/org-files/Chairmans-Foods-Formulas.org::*Cryovac%208/28%20Costco%20Chicke%20Pot%20Pie][Cryovac 8/28 Costco Chicke Pot Pie]]
+**** DONE Look at Costco Stuffing and determine if the formula is correct
+     CLOSED: [2017-11-17 Fri 11:35]
+     - CLOSING NOTE [2017-11-17 Fri 11:35] \\
+       Completed
+   [2017-09-20 Wed 15:33]
+- We will sous vide cook the onions
+- No yield loss and no butter added
+**** DONE Update Costco Pot Pie to reflect a 55 lb bag in the formula.
+     CLOSED: [2017-10-25 Wed 19:16] SCHEDULED: <2017-10-19 Thu>
+     - CLOSING NOTE [2017-10-25 Wed 19:16] \\
+       Chuck completed this item.
+   [2017-10-19 Thu 14:30]
+   [[file:~/files/org-files/Chairmans-Foods-Projects.org::*Update%20pork%20raw%20material%20number%20for%20Jafco%20Mojo%20Pork%20and%20Champs%20SV%20Pork][Update pork raw material number for Jafco Mojo Pork and Champs SV Pork]]
+**** CANCELLED :CANCELLED:
+     CLOSED: [2017-11-17 Fri 11:35]
+     - State "CANCELLED"  from "TODO"       [2017-11-17 Fri 11:35] \\
+       entered incorrectly
+   [2017-11-15 Wed 16:26]
+**** CANCELLED :CANCELLED:
+     CLOSED: [2017-11-17 Fri 11:36]
+     - State "CANCELLED"  from "TODO"       [2017-11-17 Fri 11:36] \\
+       Entered incorrectlyr
+   [2017-11-15 Wed 16:31]
+**** DONE [#A] Finish up Cranberry stuffing to show new crouton amounts
+     CLOSED: [2017-11-17 Fri 11:33] DEADLINE: <2017-11-16 Thu>
+     - CLOSING NOTE [2017-11-17 Fri 11:33] \\
+       Completed on 11/16. Ended up with a ratio of 1.67:1. Product is not exact match but will perform ok.
+     :LOGBOOK:
+     CLOCK: [2017-11-15 Wed 16:53]--[2017-11-15 Wed 16:54] =>  0:01
+     :END:
+   [2017-11-15 Wed 16:53]
+**** DONE Get Image foods corn throughput rate
+     CLOSED: [2017-12-08 Fri 12:30] DEADLINE: <2017-12-08 Fri>
+     - CLOSING NOTE [2017-12-08 Fri 12:30] \\
+       cycle time is approximately 65 minutes.
+   [2017-12-07 Thu 18:21]
+   [[file:~/files/org-files/Chairmans-Foods-Projects.org::*Country%20Style%20Corn][Country Style Corn]]

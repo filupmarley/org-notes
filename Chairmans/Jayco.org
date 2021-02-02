@@ -1,0 +1,8 @@
+#+TITLE: Jayco
+
+* Tasks
+
+** DONE Send Jayco mojo samples out for evaluation
+   CLOSED: [2017-05-18 Thu 10:08] DEADLINE: <2017-05-16 Tue>
+   - CLOSING NOTE [2017-05-18 Thu 10:08] \\
+     Completed
