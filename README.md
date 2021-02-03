@@ -1,2 +1,2 @@
 # org-notes
-Files I use for work with emacs and org-mode to track tasks.
+Org files I use for work with emacs org-mode to track tasks, calendar, and notes.
