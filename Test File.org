@@ -1,0 +1,6 @@
+#+TITLE: Test Git File
+#+AUTHOR: Phil Prather
+#+DATE: 2021-02-02
+* Test Git Repo
+  Just testing a git repo
+* TODO Testing todo as well
